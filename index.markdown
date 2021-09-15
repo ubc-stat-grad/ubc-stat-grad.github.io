@@ -12,3 +12,5 @@ todo add calendar with events
 todo add slack
 
 todo add map / department location
+
+todo add logo
