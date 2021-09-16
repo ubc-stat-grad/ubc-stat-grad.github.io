@@ -11,7 +11,7 @@ The Fall (September to December) semester's seminar is hosted by SFU while the S
 
 
 ## Upcoming Seminar
-- Fall 2021 Joint Seminar (SFU):
+- Fall 2021 Joint Seminar (SFU)
 
 
 ## Previously Hosted Seminars
