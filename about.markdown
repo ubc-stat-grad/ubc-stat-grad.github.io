@@ -17,9 +17,9 @@ to stay on top of things&mdash;and to get involved as well!
 
 | Position | People in charge |
 | ----------------- | ---------------- |
-| Grad Student Representative | [Jonathan](https://www.stat.ubc.ca/users/jonathan-ok-agyeman) |
+| Grad student representative | [Jonathan](https://www.stat.ubc.ca/users/jonathan-ok-agyeman) |
 | Treasurer | [Qiong](https://www.stat.ubc.ca/users/qiong-zhang) |
-| Website maintainers | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi),  [Kenny](https://www.stat.ubc.ca/users/kenny-chiu), and [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) |
+| Website maintainers | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu)<br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) |
 
 Last updated: September 16, 2021.
 
