@@ -15,6 +15,9 @@ to stay on top of things&mdash;and to get involved as well!
 
 ## UBC statistics graduate student association
 
+These are the people behind the grad students association and the website.
+If you need anything, feel free to contact them.
+
 | Position | People in charge |
 | ----------------- | ---------------- |
 | Grad student representative | [Jonathan](https://www.stat.ubc.ca/users/jonathan-ok-agyeman) |
