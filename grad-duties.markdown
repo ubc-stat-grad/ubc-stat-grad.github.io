@@ -21,3 +21,5 @@ Various organizing positions for activities in the department are filled by grad
 | Grad Website | Gian Carlo<br/>Kenny<br/>Nikola | |
 | Grad Trip / Icebreaker | | **2--3** |
 | Social Activities | Gian Carlo<br/>Kenny | **Always open!** |
+
+Last updated: September 16, 2021
