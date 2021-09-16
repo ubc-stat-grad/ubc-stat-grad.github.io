@@ -19,19 +19,26 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" width="100" height="100"/>
+        {% endif %} 
+
+
+        <img src="ubc_stats_hexsticker.png" alt="Logo" width="155" height="180"/>
+
         <div>
-          Activities: <br>
+          <b>Activities:</b> <br>
           <a href="./hangouts.html">social hangouts</a> <br>
           <a href="./reading-groups.html">reading groups</a> <br>
           <a href="./grad-duties.html">grad duties</a> <br>
           <a href="./sports.html">sports teams</a> <br> <br>
 
-          Events: <br>
+          <b>Events:</b> <br>
           <a href="./ubc-sfu.html">UBC-SFU seminar</a> <br>
           <a href="./van-eeden.html">van Eeden seminar</a> <br>
           <a href="./grad-seminars.html">graduate student seminars</a> <br> <br>
 
-          Resources: <br>
+          <b>Resources:</b> <br>
           <a href="./mental-health.html">mental health resources</a> <br>
           <a href="https://learn.stat.ubc.ca/">TA training program</a> <br>
           <a href="./prospective-students">prospective students</a> <br> <br>
@@ -68,9 +75,7 @@
       </footer>
       <section>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        
 
       {{ content }}
 
