@@ -10,12 +10,6 @@ at [UBC](https://www.ubc.ca/).
 
 
 
-todo add slack
-
-todo add map / department location
-
-todo add logo
-
 
 <div class="span9">
 	<h3>Calendar of upcoming events:</h3>
