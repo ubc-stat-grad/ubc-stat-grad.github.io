@@ -12,8 +12,7 @@ We created this website for new, current, and prospective grad students in the d
 Here, you can find information about the various activities and events
 that statistics grad students organize&mdash;all in a single place!
 
-We also aim to create a sense of community in the department,
-and to make it as easy as possible for everyone to get involved.
+We also aim to create a sense of community in the department and to make it as easy as possible for everyone to get involved.
 Enjoy!
 
 
