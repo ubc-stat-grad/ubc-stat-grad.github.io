@@ -24,5 +24,5 @@ If you are interested in presenting at a grad seminar, contact
 
 <div class="span9">
 	<h3>Calendar of upcoming seminars:</h3>
-	<iframe src="https://calendar.google.com/calendar/embed?src=23hudnc6o3ehg1nnime0fnf898%40group.calendar.google.com&ctz=America%2FVancouver" style="border: 0" width="400" height="300" frameborder="0" scrolling="no"></iframe>
+	<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FVancouver&src=MjNodWRuYzZvM2VoZzFubmltZTBmbmY4OThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60&showPrint=0" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
 </div><!--/span-->
