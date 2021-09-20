@@ -6,18 +6,31 @@ title: Sports
 # Departmental sports teams
 
 There are several sports teams within the department.
+Note that most of these are on hold due to the COVID-19 pandemic,
+but stay tuned for when they come back!
 
 
 ## Soccer
 
-todo add info, add jonathan contact, add picture
+The *mean-squared terrors* are the department's soccer team,
+competing in [UBC intramurals's](https://recreation.ubc.ca/intramurals/)
+futsal tournament in term 2.
+
+If you want to join the team, reach out to
+[Jonathan](https://www.stat.ubc.ca/users/jonathan-ok-agyeman).
+The matches usually take place during the weekends or weekday evenings,
+and we play against other teams within UBC.
 
 
 ## Table tennis
 
-todo ask lang
+We also have table tennis matches during the afternoons.
+These usually happen in ESB4192, but shoot an email to
+[Lang](https://www.stat.ubc.ca/users/lang-wu) for more information.
 
 
 ## Organize something!
 
-Is your favourite sport not on the list above? Consider organizing your own sports team within the department! Feel free to contact one of the graduate student executives if you would like to receive help promoting your new sports team.
+Is your favourite sport not on the list above?
+Consider organizing your own sports team within the department!
+Feel free to contact one of the graduate student executives if you would like to receive help promoting your new sports team.
