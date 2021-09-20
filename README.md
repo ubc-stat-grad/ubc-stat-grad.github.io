@@ -5,5 +5,5 @@ graduate student association.
 Please feel free to open an issue if you have any suggestions!
 
 <p style="text-align:center">
-  <img src="ubc_stats_hexsticker.png" width="400" />
+  <img src="ubc_stats_hexsticker.png" width="300" style="display:block; margin-left: auto; margin-right: auto;"/>
 </p>
