@@ -16,5 +16,5 @@ If you want to organize an event, shoot an email to the website administrator
 
 <div class="span9">
 	<h3>Calendar of upcoming events:</h3>
-	<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FVancouver&src=ZDhibmxnaGlxcmVwc2ZrazNjN2ZsZmlyaWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&showPrint=0" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
+	<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FVancouver&src=ZDhibmxnaGlxcmVwc2ZrazNjN2ZsZmlyaWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&showPrint=0&showTitle=0" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
 </div><!--/span-->
