@@ -20,11 +20,18 @@ If you need anything, feel free to contact them.
 
 <div id="images">
     <figure>
+      <a href="https://www.stat.ubc.ca/users/jonathan-ok-agyeman"><img src="img/jonathan.png" width="150" alt=""></a>
+      <figcaption><a href="https://www.stat.ubc.ca/users/jonathan-ok-agyeman">Jonathan</a></figcaption>
+      <figcaption>Grad students representative</figcaption>
+    </figure>
+    <figure>
         <a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi"><img src="img/giancarlo.png" width="150" alt=""></a>
         <figcaption><a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi">Gian Carlo</a></figcaption>
         <figcaption>Webmaster</figcaption>
     </figure>
 </div>
+
+
 
 <div id="images">
     <figure>
@@ -52,4 +59,4 @@ If you need anything, feel free to contact them.
 If you want to make a suggestion to the website, open an issue on the [Github repo](https://github.com/ubc-stat-grad/ubc-stat-grad.github.io).
 
 
-Last updated: September 20, 2021
+Last updated: September 21, 2021
