@@ -32,6 +32,7 @@ title: UBC Statistics Graduate Student Association
 # Build settings
 #theme: minima
 remote_theme: pages-themes/minimal@v0.2.0
+google_analytics: G-7Z9DTNBGBF
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

@@ -18,14 +18,6 @@ to stay on top of things&mdash;and to get involved as well!
 These are the people behind the grad students association and the website.
 If you need anything, feel free to contact them.
 
-<!--
-<p float="left">
-  <img src="img/giancarlo.png" width="160" />
-  <img src="img/nikola.png" width="160" />
-  <img src="img/kenny.png" width="160" />
-</p>
--->
-
 <div id="images">
     <figure>
         <a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi"><img src="img/giancarlo.png" width="150" alt=""></a>
