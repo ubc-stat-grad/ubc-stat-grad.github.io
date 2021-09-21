@@ -5,9 +5,11 @@ title: Social hangouts
 
 # Social hangouts
 
-We like to meet to have a beer or coffee and chat.
+We meet frequently to chat and have a beer or coffee.
 Usually, we do this at [Koerner's pub](https://www.koerners.ca/),
 which is on-campus, but sometimes we also meet in other places in Vancouver.
+We also have the #social channel on the UBC Statistics Slack for more sporadic
+events&mdash;don't forget to join.
 
 If you want to organize an event, shoot an email to the website administrator
 (see [about webpage](./about.html)) to add it to the calendar. And invite your friends!
