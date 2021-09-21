@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+#images {
+    display: flex;
+    justify-content: center;
+}
+
+figure {
+    text-align: center;
+}
