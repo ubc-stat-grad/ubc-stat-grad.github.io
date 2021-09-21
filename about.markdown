@@ -22,7 +22,7 @@ If you need anything, feel free to contact them.
     <figure>
         <a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi"><img src="img/giancarlo.png" width="150" alt=""></a>
         <figcaption><a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi">Gian Carlo</a></figcaption>
-        <figcaption>Website maintainer</figcaption>
+        <figcaption>Webmaster</figcaption>
     </figure>
     <figure>
         <a href="https://www.stat.ubc.ca/users/kenny-chiu"><img src="img/kenny.png" width="150" alt=""></a>
