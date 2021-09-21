@@ -5,7 +5,7 @@ title: Prospective students
 
 # Prospective Students
 
-From current UBC graduate students to future UBC grad students.
+From current UBC graduate students to future UBC graduate students.
 
 
 ## About the Department

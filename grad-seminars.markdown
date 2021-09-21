@@ -3,23 +3,23 @@ layout: default
 title: Graduate student seminars
 ---
 
-# Graduate student seminars: by grad students for grad students
+# Graduate student seminars: by graduate students for graduate students
 
 While the department has [its own seminar series](https://www.stat.ubc.ca/events-calendar),
-the grad students at UBC statistics also run their own seminars, which
+the graduate students at UBC statistics also run their own seminars, which
 have a much more relaxed and informal tone.
 
-These seminars provide an ideal opportunity for current grad students to
+These seminars provide an ideal opportunity for current graduate students to
 practice research presentations in a friendly environment.
 We also frequently invite alumni that are working in the industry to
 share their job-hunting and post-academic experience.
 
 In previous years, the department provided free pizza (yeah, you read that right!)
-to grad students who attended the seminars.
+to graduate students who attended the seminars.
 During the COVID-19 pandemic, the seminars were online but the food tradition stuck
 and the organizers gave away online food vouchers.
 
-If you are interested in presenting at a grad seminar, contact
+If you are interested in presenting at a graduate seminar, contact
 [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi).
 
 <div class="span9">
