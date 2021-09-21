@@ -23,8 +23,8 @@ If you are interested in presenting at a graduate seminar, contact
 [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi).
 
 <div class="span9">
-	<h3>Calendar of upcoming seminars:</h3>
+	<h2>Calendar of upcoming seminars:</h2>
 	<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FVancouver&src=MjNodWRuYzZvM2VoZzFubmltZTBmbmY4OThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60&showPrint=0&showTitle=0" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
 </div><!--/span-->
-
+<br/>
 Last updated: September 20, 2021
