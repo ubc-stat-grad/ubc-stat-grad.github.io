@@ -21,6 +21,7 @@ If you want to join the team, reach out to
 The matches usually take place during the weekends or weekday evenings,
 and we play against other teams within UBC.
 
+![Mean Squared Terrors](img/mst.png)
 
 ## Table tennis
 
@@ -36,4 +37,4 @@ Consider organizing your own sports team within the department!
 Feel free to contact one of the graduate student executives if you would like to receive help promoting your new sports team.
 
 
-Last updated: September 20, 2021
+Last updated: September 21, 2021
