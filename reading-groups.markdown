@@ -7,3 +7,5 @@ title: Reading groups
 
 todo add information about profs reading groups
 major todo ask profs if okay to advertise or they prefer students to contact them
+
+Last updated: September 20, 2021

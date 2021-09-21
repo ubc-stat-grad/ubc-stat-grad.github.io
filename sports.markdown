@@ -12,8 +12,8 @@ but stay tuned for when they come back!
 
 ## Soccer
 
-The *mean-squared terrors* are the department's soccer team,
-competing in [UBC intramurals's](https://recreation.ubc.ca/intramurals/)
+The *Mean Squared Terrors* is the department's soccer team,
+competing in [UBC intramurals'](https://recreation.ubc.ca/intramurals/)
 futsal tournament in term 2.
 
 If you want to join the team, reach out to
@@ -25,7 +25,7 @@ and we play against other teams within UBC.
 ## Table tennis
 
 We also have table tennis matches during the afternoons.
-These usually happen in ESB4192, but shoot an email to
+These usually happen in room ESB 4192, but shoot an email to
 [Lang](https://www.stat.ubc.ca/users/lang-wu) for more information.
 
 

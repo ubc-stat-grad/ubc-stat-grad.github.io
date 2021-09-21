@@ -28,3 +28,5 @@ We hope that you make the decision to pursue a Master's degree or a PhD at UBC. 
 
 
 todo add housing information
+
+Last updated: September 20, 2021

@@ -5,9 +5,9 @@ title: UBC-SFU seminar
 
 # UBC-SFU Joint Statistics Seminar
 
-The UBC-SFU Joint Statistics Seminar is now in its 17th year (as of 2021). The event is organized twice per year by students from UBC and SFU. The purpose of the seminar is to give graduate students an opportunity to share their research projects with one another. At the end of the seminar, a faculty member gives a talk and the group typically goes to a local restaurant or orders food.
+The UBC-SFU Joint Statistics Seminar is now in its 17th year (as of 2021). The event is organized twice per year by students from UBC and SFU. The purpose of the seminar is to give graduate students an opportunity to share their research and work projects with one another. At the end of the seminar, a guest faculty member gives a talk and the attendees get an opportunity to network over a *free* lunch.
 
-The Fall (September to December) semester's seminar is hosted by SFU while the Spring (January to April) semester seminar is hosted by UBC.
+The Fall (September to December) seminar is hosted by SFU while the Spring (January to April) seminar is hosted by UBC.
 
 
 ## Upcoming Seminar
@@ -20,3 +20,5 @@ The Fall (September to December) semester's seminar is hosted by SFU while the S
 - [Spring 2020 Joint Seminar (UBC)](https://chiukenny.github.io/jointseminar-2019w2/)
 - Fall 2019 Joint Seminar (SFU) (webpage deleted)
 - [Spring 2019 Joint Seminar (UBC)](https://www.stat.ubc.ca/~qiong.zhang/misc/JointSeminar2018.html)
+
+Last updated: September 20, 2021
