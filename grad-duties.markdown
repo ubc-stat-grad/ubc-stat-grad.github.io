@@ -5,7 +5,10 @@ title: Duties
 
 # Department duties
 
-todo add graduate student duties (e.g. lounge duties)
+In previous years, department duties (e.g., ensuring the lounge is clean at the end of the day) were assigned to and rotated among graduate students on a weekly basis.
+As graduate students are not required to be on campus during the COVID-19 pandemic, no duties are assigned this year.
+
+Duties will be posted here when they return.
 
 # Graduate student positions
 
@@ -26,4 +29,4 @@ If a position that you're interested in is still open for the academic year, con
 | Graduate Trip / Icebreaker | | **2--3** |
 | Social Activities | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu) | **Always open!** |
 
-Last updated: September 20, 2021
+Last updated: September 21, 2021

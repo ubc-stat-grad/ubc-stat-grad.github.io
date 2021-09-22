@@ -34,7 +34,7 @@ These usually happen in room ESB 4192, but shoot an email to
 
 Is your favourite sport not on the list above?
 Consider organizing your own sports team within the department!
-Feel free to contact one of the graduate student executives if you would like to receive help promoting your new sports team.
+Feel free to contact one of the [graduate student executives](./about.html) if you would like to receive help promoting your new sports team.
 
 
 Last updated: September 21, 2021

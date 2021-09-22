@@ -19,31 +19,39 @@ These are the people behind the graduate students association and the website.
 If you need anything, feel free to contact them.
 
 <div id="images">
-    <figure>
-      <a href="https://www.stat.ubc.ca/users/jonathan-ok-agyeman"><img src="img/jonathan.png" width="150" alt=""></a>
-      <figcaption><a href="https://www.stat.ubc.ca/users/jonathan-ok-agyeman">Jonathan</a></figcaption>
-      <figcaption>Grad students representative</figcaption>
-    </figure>
-    <figure>
-        <a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi"><img src="img/giancarlo.png" width="150" alt=""></a>
-        <figcaption><a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi">Gian Carlo</a></figcaption>
-        <figcaption>Webmaster</figcaption>
-    </figure>
+	<div style="width:50%">
+		<figure>
+		  <a href="https://www.stat.ubc.ca/users/jonathan-ok-agyeman"><img src="img/jonathan.png" width="150" alt=""></a>
+		  <figcaption><a href="https://www.stat.ubc.ca/users/jonathan-ok-agyeman">Jonathan</a></figcaption>
+		  <figcaption>Graduate Student Representative</figcaption>
+		</figure>
+	</div>
+	<div style="width:50%">
+		<figure>
+			<a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi"><img src="img/giancarlo.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi">Gian Carlo</a></figcaption>
+			<figcaption>Webmaster</figcaption>
+		</figure>
+	</div>
 </div>
 
 
 
 <div id="images">
-    <figure>
-        <a href="https://www.stat.ubc.ca/users/kenny-chiu"><img src="img/kenny.png" width="150" alt=""></a>
-        <figcaption><a href="https://www.stat.ubc.ca/users/kenny-chiu">Kenny</a></figcaption>
-        <figcaption>Webminion</figcaption>
-    </figure>
-    <figure>
-        <a href="https://www.stat.ubc.ca/users/nikola-surjanovic"><img src="img/nikola.png" width="150" alt=""></a>
-        <figcaption><a href="https://www.stat.ubc.ca/users/nikola-surjanovic">Nikola</a></figcaption>
-        <figcaption>Webminion</figcaption>
-    </figure>
+	<div style="width:50%">
+		<figure>
+			<a href="https://www.stat.ubc.ca/users/kenny-chiu"><img src="img/kenny.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/kenny-chiu">Kenny</a></figcaption>
+			<figcaption>Webminion</figcaption>
+		</figure>
+	</div>
+	<div style="width:50%">
+		<figure>
+			<a href="https://www.stat.ubc.ca/users/nikola-surjanovic"><img src="img/nikola.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/nikola-surjanovic">Nikola</a></figcaption>
+			<figcaption>Webminion</figcaption>
+		</figure>
+	</div>
 </div>
 
 
