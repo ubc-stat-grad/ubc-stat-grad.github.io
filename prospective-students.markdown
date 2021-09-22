@@ -19,7 +19,7 @@ If you are a prospective student, there are several scholarships and awards that
 - [NSERC CGS M](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp) and [NSERC CGS D](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp) scholarships
 - [Vanier scholarship](https://vanier.gc.ca/en/home-accueil.html)
 - [UBC graduate awards](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
-- [Departmental awards](https://www.stat.ubc.ca/award-descriptions). 
+- [Departmental awards](https://www.stat.ubc.ca/award-descriptions)
 
 
 ## About Vancouver
