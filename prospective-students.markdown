@@ -3,18 +3,23 @@ layout: default
 title: Prospective students
 ---
 
-# Prospective Students
+# Prospective students
 
 From current UBC graduate students to future UBC graduate students.
 
 
-## About the Department
+## About the department
 
 The Department of Statistics at UBC was founded in 1984. More information about the UBC Statistics department can be found on the [departmental homepage](https://www.stat.ubc.ca/).
 
-A list of departmental awards can be [found here](https://www.stat.ubc.ca/award-descriptions). If you are a prospective student, there are several scholarships and awards that you can consider applying for:
+
+## Graduate awards
+
+If you are a prospective student, there are several scholarships and awards that you can consider applying for:
 - [NSERC CGS M](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp) and [NSERC CGS D](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp) scholarships
-- [UBC Graduate Awards](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
+- [Vanier scholarship](https://vanier.gc.ca/en/home-accueil.html)
+- [UBC graduate awards](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
+- [Departmental awards](https://www.stat.ubc.ca/award-descriptions)
 
 
 ## About Vancouver
@@ -27,6 +32,11 @@ We hope that you make the decision to pursue a Master's degree or a PhD at UBC. 
 - And many more!
 
 
-todo add housing information
+## Housing information
 
-Last updated: September 20, 2021
+If you would like to live in UBC residence, it is recommended that you apply quite early. There are several possible housing options at UBC for graduate students. If you are looking to get started with the search and you plan to study at UBC Vancouver, you can [follow this link](https://vancouver.housing.ubc.ca/getting-started/graduate-students/).
+
+In the case that you are unable to find a spot in residence at UBC, fear not! There are still [other options available](https://vancouver.housing.ubc.ca/other-housing/more-campus-housing/). For more information, you can also refer to the [housing landing page](https://www.grad.ubc.ca/campus-community/life-vancouver/housing) of UBC Graduate and Postdoctoral Studies.
+
+
+Last updated: September 22, 2021
