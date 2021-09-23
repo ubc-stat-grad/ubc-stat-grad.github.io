@@ -14,7 +14,8 @@ This is a (non-exhaustive) list of reading groups happening in the department.
 Reach out to the contact person if you wish to join.
 
 ## Animal movement and distribution reading group
-PI: [Dr. Marie Auger-Méthé](https://www.stat.ubc.ca/users/marie-auger-methe) \
+PI: [Dr. Marie Auger-Méthé](https://www.stat.ubc.ca/users/marie-auger-methe)
+and [Dr. Nancy Heckman](https://www.stat.ubc.ca/users/nancy-e-heckman) \
 Contact: [Evan Sidrow](https://www.stat.ubc.ca/users/evan-sidrow)
 
 The Animal Movement and Distribution Reading Group is a group of graduate students,
