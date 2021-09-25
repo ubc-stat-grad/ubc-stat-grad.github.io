@@ -5,7 +5,8 @@ title: Reading groups
 
 # Reading groups
 
-Multiple professors within the department organize reading groups.
+Multiple professors within the department organize reading groups
+for current and incoming graduate students.
 In these, the discussion leader chooses a paper related to the theme
 of the reading group and then presents it&mdash;although the idea is to
 have a discussion between participants, rather than a presentation.
@@ -30,4 +31,4 @@ with discussions benefiting from the mix of backgrounds of group members.
 
 
 
-Last updated: September 22, 2021
+Last updated: September 24, 2021
