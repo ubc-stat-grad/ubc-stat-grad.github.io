@@ -32,7 +32,7 @@ with discussions benefiting from the mix of backgrounds of group members.
 
 
 ## Scalable Bayesian statistics and machine learning reading group
-PI: [Dr. Trevor Campbell](https://www.stat.ubc.ca/users/trevor-campbell)
+PI: [Dr. Trevor Campbell](https://www.stat.ubc.ca/users/trevor-campbell) \
 Contact: [Gian Carlo Diluvi](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
 
 This group comprises graduate students, postdocs, and faculty in Statistics
