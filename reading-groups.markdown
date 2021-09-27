@@ -31,4 +31,18 @@ with discussions benefiting from the mix of backgrounds of group members.
 
 
 
-Last updated: September 24, 2021
+## Scalable Bayesian statistics and machine learning reading group
+PI: [Dr. Trevor Campbell](https://www.stat.ubc.ca/users/trevor-campbell)
+Contact: [Gian Carlo Diluvi](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
+
+This group comprises graduate students, postdocs, and faculty in Statistics
+and Computer Science who are interested in Bayesian computational methods.
+Each week, we hold a 1-hour discussion which is led by a rotating presenter.
+The presenter can choose the format, although whiteboard is preferred.
+The goal is for the reading group to be a low pressure and informal environment
+for all of us to learn.  This last year we have been doing a review of
+ recent (2019&ndash;2021) work on variational methods.
+
+
+
+Last updated: September 27, 2021
