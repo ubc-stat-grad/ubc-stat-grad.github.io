@@ -35,13 +35,15 @@ with discussions benefiting from the mix of backgrounds of group members.
 PI: [Dr. Trevor Campbell](https://www.stat.ubc.ca/users/trevor-campbell) \
 Contact: [Gian Carlo Diluvi](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
 
-This group comprises graduate students, postdocs, and faculty in Statistics
+The scalable Bayesian statistics and machine learning reading group
+comprises graduate students, postdocs, and faculty in Statistics
 and Computer Science who are interested in Bayesian computational methods.
 Each week, we hold a 1-hour discussion which is led by a rotating presenter.
 The presenter can choose the format, although whiteboard is preferred.
 The goal is for the reading group to be a low pressure and informal environment
 for all of us to learn. This last year we have been doing a review of
- recent (2019&ndash;2021) work on variational methods.
+recent (2019&ndash;2021) work on variational methods,
+and we usually meet on Wednesday evenings.
 
 
 ## Symmetry, invariance, probability and machine learning reading group
@@ -63,10 +65,10 @@ causal invariance, domain adaptation and robustness to distributional shifts.
 PI: [Dr. Alexandre Bouchard-C&ocirc;t&eacute;](https://www.stat.ubc.ca/users/alexandre-bouchard-cote) \
 Contact: [Nikola Surjanovic](https://www.stat.ubc.ca/users/nikola-surjanovic)
 
-The focus of this reading group is generally on Markov chain Monte Carlo (MCMC) 
-methods and its applications in phylogenetics. Students take turns presenting on 
-research topics that are of interest to the group, with presentations lasting about 
-60-90 minutes. The group meets once per week on Thursday mornings. For more information, 
+The focus of this reading group is generally on Markov chain Monte Carlo (MCMC)
+methods and its applications in phylogenetics. Students take turns presenting on
+research topics that are of interest to the group, with presentations lasting about
+60-90 minutes. The group meets once per week on Thursday mornings. For more information,
 please contact the PI or the student contact.
 
 
