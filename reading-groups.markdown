@@ -40,7 +40,7 @@ and Computer Science who are interested in Bayesian computational methods.
 Each week, we hold a 1-hour discussion which is led by a rotating presenter.
 The presenter can choose the format, although whiteboard is preferred.
 The goal is for the reading group to be a low pressure and informal environment
-for all of us to learn.  This last year we have been doing a review of
+for all of us to learn. This last year we have been doing a review of
  recent (2019&ndash;2021) work on variational methods.
 
 
@@ -59,4 +59,15 @@ Thursdays at 4pm, and the key topics include invariant representation learning,
 causal invariance, domain adaptation and robustness to distributional shifts.
 
 
-Last updated: September 27, 2021
+## Bayesian statistics reading group (MCMC methods and applications in phylogenetics)
+PI: [Dr. Alexandre Bouchard-Côté](https://www.stat.ubc.ca/users/alexandre-bouchard-cote)
+Contact: [Nikola Surjanovic](https://www.stat.ubc.ca/users/nikola-surjanovic)
+
+The focus of this reading group is generally on Markov chain Monte Carlo (MCMC) 
+methods and its applications in phylogenetics. Students take turns presenting on 
+research topics that are of interest to the group, with presentations lasting about 
+60-90 minutes. The group meets once per week on Thursday mornings. For more information, 
+please contact the PI or the student contact.
+
+
+Last updated: September 28, 2021
