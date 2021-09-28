@@ -60,7 +60,7 @@ causal invariance, domain adaptation and robustness to distributional shifts.
 
 
 ## Bayesian statistics reading group (MCMC methods and applications in phylogenetics)
-PI: [Dr. Alexandre Bouchard-C&ocirc;t&eacute;](https://www.stat.ubc.ca/users/alexandre-bouchard-cote)
+PI: [Dr. Alexandre Bouchard-C&ocirc;t&eacute;](https://www.stat.ubc.ca/users/alexandre-bouchard-cote) \
 Contact: [Nikola Surjanovic](https://www.stat.ubc.ca/users/nikola-surjanovic)
 
 The focus of this reading group is generally on Markov chain Monte Carlo (MCMC) 
