@@ -49,12 +49,12 @@ PI: [Dr. Benjamin Bloem-Reddy](https://www.stat.ubc.ca/users/ben-bloem-reddy) \
 Contact: [Johnny Xi](https://www.stat.ubc.ca/users/quanhan-johnny-xi)
 
 The Symmetry, Invariance, Probability and Machine Learning (SIP-ML) reading
-group consist of Statistics and Computer Science graduate students, postdocs
+group consists of Statistics and Computer Science graduate students, postdocs
 and faculty who meet every week to discuss a paper in the statistics and machine
 learning literature. Group members rotate weekly as the discussion leader, whose
 role is to casually present the paper and promote discussion. Topics of interest
 in previous terms were diverse and ranged from empirical Bayes to normalizing flows,
-including a summer's worth of Le Cam theory. For this term, the group meets
+including a summer's worth of Le Cam theory. For this term, the group meets on
 Thursdays at 4pm, and the key topics include invariant representation learning,
 causal invariance, domain adaptation and robustness to distributional shifts.
 
