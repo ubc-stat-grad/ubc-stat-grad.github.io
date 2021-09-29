@@ -7,13 +7,17 @@ title: Van Eeden seminar
 
 The van Eeden seminar is a yearly event in which graduate students
 vote for their favorite statisticians.
-The winner of the votes is contacted by the organizing committee and invited
-to do a presentation.
-Before COVID-19, the speaker spent one or two days on-campus,
-and graduate students had the opportunity to have lunch and dinner with them.
+The winner is contacted by the organizing committee and invited
+to give a talk in the department's seminar.
+The speaker spends one or two days on-campus,
+and graduate students have the opportunity to have lunch and dinner with them.
 
 The van Eeden seminar is supported by the Constance van Eeden fund,
-which was established by Dr. van Eeden in 1998.
+which was established by [Dr. van Eeden](https://en.wikipedia.org/wiki/Constance_van_Eeden)
+(1927&ndash;2021) in 1998.
+Dr. van Eeden was a mathematical statistician who made foundational
+contributions to estimation in restricted parameter spaces
+and nonparametric statistics.
 See the [department's webpage](https://www.stat.ubc.ca/constance-van-eeden-fund)
 to learn more!
 
@@ -23,5 +27,12 @@ These are some previous presenters:
 - [2019] [Dr. David Blei](http://www.cs.columbia.edu/~blei/)
 - [2018] [Dr. Jim Berger](https://www2.stat.duke.edu/~berger/)
 - [2017] [Dr. Jeffrey Rosenthal](http://probability.ca/jeff/)
+- [2016] [Dr. Art Owen](https://statistics.stanford.edu/people/art-b-owen)
+- [2015] [Dr. Roger Cooke](https://www.rff.org/people/roger-m-cooke/)
+- [2015] [Dr. Peter Guttorp](http://faculty.washington.edu/guttorp/peter.html)
+- [2014] [Dr. Rob Tibshirani](https://statweb.stanford.edu/~tibs/)
+- [2013] [Dr. Miguel Hernan](https://www.hsph.harvard.edu/miguel-hernan/)
+- [2013] [Dr. Gavin Shaddick](http://empslocal.ex.ac.uk/people/staff/gs454/)
+- [2012] [Dr. Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)
 
-Last updated: September 22, 2021
+Last updated: September 29, 2021
