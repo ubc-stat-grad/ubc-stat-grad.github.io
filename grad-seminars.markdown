@@ -14,7 +14,7 @@ practice research presentations in a friendly environment.
 We also frequently invite alumni that are working in the industry to
 share their job-hunting and post-academic experience.
 
-The seminars will be in-person again for the 2021-2022 academic year,
+The seminars will be in-person again for the 2021&ndash;2022 academic year,
 but they will also be broadcast through Zoom.
 As before, the presenter will prepare a trivia question
 to be made during their presentation.

@@ -17,6 +17,7 @@ Enjoy!
 
 ## News
 
+- [Oct. 6, 2021] Graduate seminars are back this term, starting on Oct. 21.
 - [Sep. 7, 2021] Welcome to the Fall 2021 term!
 
 
