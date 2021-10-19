@@ -12,6 +12,16 @@ From current UBC graduate students to future UBC graduate students.
 
 The Department of Statistics at UBC was founded in 1984. More information about the UBC Statistics department can be found on the [departmental homepage](https://www.stat.ubc.ca/).
 
+<!--
+## Funding
+
+As per [UBC's guidelines](https://www.grad.ubc.ca/awards/minimum-funding-policy-phd-students),
+all graduate students are offered at least $22,000CAD per year.
+These come from a combination of scholarships, TAships, and RAships.
+What this means is that the funding might be contingent on you
+working as a TA, for example, but that the department guarantees
+PhD students in the department are also offered tuition waivers.
+-->
 
 ## Graduate awards
 
