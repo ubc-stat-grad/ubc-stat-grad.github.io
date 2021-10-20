@@ -26,7 +26,7 @@ and other useful resources in their website.
 The department of statistics strives to provide both undergraduate and graduate
 students with a supportive and rich learning environment.
 Part of this effort is our mentoring program for teaching assistants
-employed in the Department.
+employed in the department.
 The program is an integral and mandatory part of every teaching assistant assignment.
 All of the activities in the program are led by fellow graduate teaching
 assistants,
@@ -47,7 +47,7 @@ events.
 
 EDI seminars and workshops are also provided by the
 [Equity and Inclusion Office](https://equity.ubc.ca/).
-A specific EDI workshop for new TAS is given every year as part of the
+A specific EDI workshop for new TAs is given every year as part of the
 TA training program, but more seminars and events are also offered
 for the statistics department.
 We encourage you to check out the website of the Equity and Inclusion Office,
@@ -55,4 +55,4 @@ where events and workshops outside the department are also frequently offered.
 
 
 
-Last updated: October 12, 2021
+Last updated: October 20, 2021
