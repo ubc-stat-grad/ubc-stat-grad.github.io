@@ -12,6 +12,15 @@ to give a talk in the department's seminar.
 The speaker spends one or two days on-campus,
 and graduate students have the opportunity to have lunch and dinner with them.
 
+The	Constance van Eeden speaker for 2022 will be
+[Dr. Tamara Broderick](https://tamarabroderick.com/) of MIT!
+Dr. Broderick will be giving a talk on Tuesday, March 22nd 2022
+on a soon-to-be-decided topic.
+Stay tuned for more news!
+
+
+## About
+
 The van Eeden seminar is supported by the Constance van Eeden fund,
 which was established by [Dr. van Eeden](https://en.wikipedia.org/wiki/Constance_van_Eeden)
 (1927&ndash;2021) in 1998.
@@ -21,7 +30,8 @@ and nonparametric statistics.
 See the [department's webpage](https://www.stat.ubc.ca/constance-van-eeden-fund)
 to learn more!
 
-These are some previous presenters:
+## Previous presenters
+
 - [2021] [Dr. Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/)
 - [2020] [Dr. Daniella Witten](https://www.danielawitten.com/)
 - [2019] [Dr. David Blei](http://www.cs.columbia.edu/~blei/)
