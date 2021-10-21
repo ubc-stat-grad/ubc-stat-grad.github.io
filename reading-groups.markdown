@@ -11,6 +11,11 @@ In these, the discussion leader chooses a paper related to the theme
 of the reading group and then presents it&mdash;although the idea is to
 have a discussion between participants, rather than a presentation.
 
+If you are a first-year master's student,
+reading groups are a great way to get to know professors and their research,
+and to get them to know you as well.
+This makes choosing a supervisor further down the road much easier.
+
 This is a (non-exhaustive) list of reading groups happening in the department.
 Reach out to the contact person if you wish to join.
 
