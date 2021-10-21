@@ -13,6 +13,8 @@ The Fall (September to December) seminar is hosted by SFU while the Spring (Janu
 ## Upcoming seminar
 - Fall 2021 Joint Seminar (SFU)
 
+The Fall 2021 seminar will take place on **Nov. 20, 2021**. Register for the event [here](https://docs.google.com/forms/d/e/1FAIpQLScB_pCIQRgk_CYqYqzIdebK1oO0URv9xeMuIZwFqc6fR_IPhA/viewform). Stay tuned for the official website that will include details about the schedule and the speakers!
+
 
 ## Previously hosted seminars
 - [Spring 2021 Joint Seminar (UBC)](https://www.stat.ubc.ca/~kenny.chiu/jointseminar/spring2021/)

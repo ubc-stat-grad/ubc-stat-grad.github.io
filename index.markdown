@@ -17,6 +17,7 @@ Enjoy!
 
 ## News
 
+- [Oct. 20, 2021] Mark your calendars! The Fall 2021 UBC-SFU Joint Seminar will take place on Nov. 20, 2021. See [here](./ubc-sfu) for more information.
 - [Oct. 20, 2021] We are happy to announce that the
 	Constance van Eeden speaker for 2022 will be
 	[Dr. Tamara Broderick](https://tamarabroderick.com/) of MIT!
