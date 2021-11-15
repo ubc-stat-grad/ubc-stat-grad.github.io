@@ -5,5 +5,5 @@ graduate student association.
 Please feel free to open an issue if you have any suggestions!
 
 <p align="center">
-  <img src="img/ubc-sgsa.png" width="600"/>
+  <img src="img/ubc-sgsa.png" width="800"/>
 </p>
