@@ -27,6 +27,13 @@ which was established by [Dr. van Eeden](https://en.wikipedia.org/wiki/Constance
 Dr. van Eeden was a mathematical statistician who made foundational
 contributions to estimation in restricted parameter spaces
 and nonparametric statistics.
+
+The van Eeden fund is used to support many other activities on top of the
+student-invited speaker talk, such as
+inviting visiting professors for a week or more;
+organizing statistics summer schools;
+and giving out admissions awards to promising graduate students.
+
 See the [department's webpage](https://www.stat.ubc.ca/constance-van-eeden-fund)
 to learn more!
 
