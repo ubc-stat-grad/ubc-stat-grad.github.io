@@ -17,6 +17,7 @@ to add it to the calendar. Make sure to invite your friends!
 
 ## Upcoming events:
 
+- [Nov. 18, 2021] Come to Browns Crafthouse for dinner!
 - [Oct. 21, 2021] We're going to Koerner's pub for a drink!
 - [Oct. 7, 2021] Join us for taco Thursday!
 RSVP in the *#social* channel on Slack
