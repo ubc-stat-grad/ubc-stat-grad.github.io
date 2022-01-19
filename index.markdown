@@ -17,6 +17,7 @@ Enjoy!
 
 ## News
 
+- [Jan. 19, 2022] Save the date! The Spring 2022 UBC-SFU Joint Seminar will be held on Mar. 12, 2022. See [here](./ubc-sfu) to register now!
 - [Oct. 20, 2021] Mark your calendars! The Fall 2021 UBC-SFU Joint Seminar will take place on Nov. 20, 2021. See [here](./ubc-sfu) for more information.
 - [Oct. 20, 2021] We are happy to announce that the
 	Constance van Eeden speaker for 2022 will be
@@ -35,4 +36,4 @@ Enjoy!
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: November 15, 2021
+Last updated: January 19, 2022
