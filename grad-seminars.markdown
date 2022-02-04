@@ -5,6 +5,10 @@ title: Graduate student seminars
 
 # Graduate student seminars: by graduate students for graduate students
 
+**Note:** (Spring 2022.)
+Graduate student seminars have been paused until we return to
+in-person instruction. Check back soon!
+
 While the department has [its own seminar series](https://www.stat.ubc.ca/events-calendar),
 the graduate students at UBC statistics also run their own seminars, which
 have a much more relaxed and informal tone.
@@ -31,7 +35,7 @@ contact the [graduate seminar organizers](./grad-duties.html).
 	<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FVancouver&src=MjNodWRuYzZvM2VoZzFubmltZTBmbmY4OThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60&showPrint=0&showTitle=0" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
 </div><!--/span-->
 <br/>
-Last updated: October 6, 2021
+Last updated: February 4, 2022
 
 <!--/
 In previous years, the department provided free pizza (yeah, you read that right!)
