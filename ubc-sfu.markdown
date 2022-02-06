@@ -17,7 +17,10 @@ while the Spring (January to April) seminar is hosted by UBC.
 
 ## Upcoming seminar
 
-The Spring 2022 seminar will be taking place online on Mar. 12, 2022! More details will be coming soon. [Register](http://docs.google.com/forms/d/e/1FAIpQLSdrzTMJV_TtChGLx7nOWhIXPVXnizvYXl_gxAcf2ixENXBBOA/viewform) for it now!
+The Spring 2022 seminar will be taking place online on Mar. 12, 2022!
+Visit the [main website](https://ubc-sfu-joint-stat-seminar-spring-2022.github.io/) for more details.
+Speaker and schedule details coming soon.
+Be sure to [register](http://docs.google.com/forms/d/e/1FAIpQLSdrzTMJV_TtChGLx7nOWhIXPVXnizvYXl_gxAcf2ixENXBBOA/viewform) for it now!
 
 ## Previously hosted seminars
 - [Fall 2021 Joint Seminar (SFU)](https://www.sfu.ca/~rennyd/JointSeminar2021/)
