@@ -30,4 +30,4 @@ Be sure to [register](http://docs.google.com/forms/d/e/1FAIpQLSdrzTMJV_TtChGLx7n
 - Fall 2019 Joint Seminar (SFU) (webpage deleted)
 - [Spring 2019 Joint Seminar (UBC)](https://www.stat.ubc.ca/~qiong.zhang/misc/JointSeminar2018.html)
 
-Last updated: January 19, 2022
+Last updated: February 5, 2022
