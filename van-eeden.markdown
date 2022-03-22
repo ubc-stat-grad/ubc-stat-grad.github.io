@@ -15,7 +15,7 @@ and graduate students have the opportunity to have lunch and dinner with them.
 The	Constance van Eeden speaker for 2022 will be
 [Dr. Tamara Broderick](https://tamarabroderick.com/) of MIT!
 Dr. Broderick will be giving a talk on Tuesday, March 22nd 2022
-on a soon-to-be-decided topic.
+on finite-sample robustness.
 Stay tuned for more news!
 
 
