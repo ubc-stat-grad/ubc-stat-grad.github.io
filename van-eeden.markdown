@@ -52,4 +52,4 @@ to learn more!
 - [2013] [Dr. Gavin Shaddick](http://empslocal.ex.ac.uk/people/staff/gs454/)
 - [2012] [Dr. Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)
 
-Last updated: September 29, 2021
+Last updated: March 22, 2022
