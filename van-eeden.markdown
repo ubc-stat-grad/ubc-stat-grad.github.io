@@ -12,12 +12,6 @@ to give a talk in the department's seminar.
 The speaker spends one or two days on-campus,
 and graduate students have the opportunity to have lunch and dinner with them.
 
-The	Constance van Eeden speaker for 2022 will be
-[Dr. Tamara Broderick](https://tamarabroderick.com/) of MIT!
-Dr. Broderick will be giving a talk on Tuesday, March 22nd 2022
-on finite-sample robustness.
-Stay tuned for more news!
-
 
 ## About
 
@@ -39,6 +33,8 @@ to learn more!
 
 ## Previous presenters
 
+- [2022] [Dr. Tamara Broderick](https://tamarabroderick.com/).
+More  info [here](vaneeden/2022-broderick)
 - [2021] [Dr. Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/)
 - [2020] [Dr. Daniella Witten](https://www.danielawitten.com/)
 - [2019] [Dr. David Blei](http://www.cs.columbia.edu/~blei/)
@@ -52,4 +48,4 @@ to learn more!
 - [2013] [Dr. Gavin Shaddick](http://empslocal.ex.ac.uk/people/staff/gs454/)
 - [2012] [Dr. Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)
 
-Last updated: March 22, 2022
+Last updated: March 24, 2022
