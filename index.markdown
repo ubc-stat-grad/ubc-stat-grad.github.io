@@ -17,6 +17,9 @@ Enjoy!
 
 ## News
 
+- [Mar. 24, 2022] The undergraduate consulting (STAT 450) students
+will present the results of their projects on a poster session.
+Join us on April 4, 2022 at 9am in the ESB atrium!
 - [Mar. 22, 2022] Today is the van Eeden seminar!
 Join us in welcoming [Dr. Tamara Broderick](https://tamarabroderick.com/) from MIT,
 who will give a talk about finite-sample robustness!
@@ -39,4 +42,4 @@ who will give a talk about finite-sample robustness!
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: March 22, 2022
+Last updated: March 24, 2022
