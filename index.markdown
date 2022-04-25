@@ -17,6 +17,9 @@ Enjoy!
 
 ## News
 
+- [Apr. 25, 2022] Our end-of-term hangout is taking place this Friday, April 29!
+We'll have pizzas and then head out for a drink at Browns.
+RSVP in the *#social* channel on Slack.
 - [Mar. 24, 2022] The undergraduate consulting (STAT 450) students
 will present the results of their projects on a poster session.
 Join us on April 4, 2022 at 9am in the ESB atrium!
@@ -42,4 +45,4 @@ who will give a talk about finite-sample robustness!
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: March 24, 2022
+Last updated: April 25, 2022
