@@ -15,7 +15,7 @@ that statistics graduate students organize&mdash;all in a single place!
 We also aim to create a sense of community in the department and to make it as easy as possible for everyone to get involved.
 Enjoy!
 
-## News
+## Recent news
 
 - [Apr. 25, 2022] Our end-of-term hangout is taking place this Friday, April 29!
 We'll have pizzas and then head out for a drink at Browns.
@@ -28,6 +28,7 @@ Join us in welcoming [Dr. Tamara Broderick](https://tamarabroderick.com/) from M
 who will give a talk about finite-sample robustness!
 - [Jan. 19, 2022] Save the date! The Spring 2022 UBC-SFU Joint Seminar will be held on Mar. 12, 2022. See [here](./ubc-sfu) to register now!
 
+Older news can be found in the [archive](./news-archive).
 
 
 <div class="span9">
@@ -40,17 +41,3 @@ There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.c
 
 
 Last updated: April 25, 2022
-
-
-
-<!--
-Older events:
-
-- [Oct. 20, 2021] Mark your calendars! The Fall 2021 UBC-SFU Joint Seminar will take place on Nov. 20, 2021. See [here](./ubc-sfu) for more information.
-- [Oct. 20, 2021] We are happy to announce that the
-	Constance van Eeden speaker for 2022 will be
-	[Dr. Tamara Broderick](https://tamarabroderick.com/) of MIT!
-	See [here](./van-eeden) for more information.
-- [Oct. 6, 2021] Graduate seminars are back this term, starting on Oct. 21.
-- [Sep. 7, 2021] Welcome to the Fall 2021 term!
--->
