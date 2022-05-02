@@ -28,4 +28,8 @@ RSVP in the *#social* channel on Slack
 	<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FVancouver&src=ZDhibmxnaGlxcmVwc2ZrazNjN2ZsZmlyaWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&showPrint=0&showTitle=0" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
 </div><!--/span-->
 <br/>
-Last updated: April 25, 2022
+
+<img src="img/s2022eot-min.jpg" alt="">
+Spring 2022 end-of-term hangout @ Browns
+
+Last updated: May 2, 2022
