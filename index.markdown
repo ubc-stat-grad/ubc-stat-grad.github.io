@@ -17,16 +17,17 @@ Enjoy!
 
 ## Recent news
 
-- [Apr. 25, 2022] Our end-of-term hangout is taking place this Friday, April 29!
+- **[May 11, 2022]** The new Epidemiology Reading Group will be starting this summer.
+Find out more [here](./reading-groups)!
+- **[Apr. 25, 2022]** Our end-of-term hangout is taking place this Friday, April 29!
 We'll have pizzas and then head out for a drink at Browns.
 RSVP in the *#social* channel on Slack.
-- [Mar. 24, 2022] The undergraduate consulting (STAT 450) students
+- **[Mar. 24, 2022]** The undergraduate consulting (STAT 450) students
 will present the results of their projects on a poster session.
 Join us on April 4, 2022 at 9am in the ESB atrium!
-- [Mar. 22, 2022] Today is the van Eeden seminar!
+- **[Mar. 22, 2022]** Today is the van Eeden seminar!
 Join us in welcoming [Dr. Tamara Broderick](https://tamarabroderick.com/) from MIT,
 who will give a talk about finite-sample robustness!
-- [Jan. 19, 2022] Save the date! The Spring 2022 UBC-SFU Joint Seminar will be held on Mar. 12, 2022. See [here](./ubc-sfu) to register now!
 
 Older news can be found in the [archive](./news-archive).
 
@@ -40,4 +41,4 @@ Older news can be found in the [archive](./news-archive).
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: April 25, 2022
+Last updated: May 11, 2022

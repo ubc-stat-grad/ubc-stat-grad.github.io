@@ -76,4 +76,17 @@ research topics that are of interest to the group, with presentations lasting ab
 please contact the PI or the student contact.
 
 
-Last updated: February 14, 2022
+## Epidemiology reading group
+PI: [Dr. Daniel J. McDonald](https://www.stat.ubc.ca/users/daniel-j-mcdonald) \
+Contact: [Rachel Lobay](https://www.stat.ubc.ca/users/rachel-lobay)
+
+In the Epidemiology Reading Group, we look at statistical solutions to
+epidemiological problems. That is, we consider an interesting paper, book or
+article on epidemiological advances and discuss the mathematical models and the
+statistical approaches used to estimate them. Meetings are weekly for about an
+hour. Possible topics include the mathematical modelling of COVID-19 hospitalizations,
+forecasting case or hospitalization counts via predictive modelling, and techniques
+for longitudinal data analysis, amongst others.
+
+
+Last updated: May 11, 2022
