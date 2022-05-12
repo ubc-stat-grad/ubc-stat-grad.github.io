@@ -17,6 +17,8 @@ to add it to the calendar. Make sure to invite your friends!
 
 ## Upcoming events:
 
+- [May 13, 2022] We'll have some delicious Korean food for dinner
+at Kosoo this Friday. RSVP on Slack!
 - [Apr. 29, 2022] Join us at our end-of-term hangout!
 We'll meet at ESB for some pizzas and then head out to Browns for a drink.
 - [Nov. 18, 2021] Come to Browns Crafthouse for dinner!
@@ -32,4 +34,4 @@ RSVP in the *#social* channel on Slack
 <img src="img/s2022eot-min.jpg" alt="">
 Spring 2022 end-of-term hangout @ Browns
 
-Last updated: May 2, 2022
+Last updated: May 12, 2022
