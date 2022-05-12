@@ -25,7 +25,7 @@ contact the Graduate Student Representative to see how you can get involved!
 | ----------------- | ---------------- | ------------------- |
 | Graduate Student Representative | [Jonathan](https://www.stat.ubc.ca/users/jonathan-ok-agyeman) | |
 | Treasurer | [Kenny](https://www.stat.ubc.ca/users/kenny-chiu) | |
-| Graduate Student Seminars | [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi)<br/>[Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) | **1** |
+| Graduate Student Seminars | [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi) | **1--2** |
 | Van Eeden Seminar | [Miguel](https://www.stat.ubc.ca/users/miguel-biron-lattes)<br/>[David](https://www.stat.ubc.ca/users/zuheng-david-xu) | |
 | UBC/SFU Joint Seminars | [Grace](https://www.stat.ubc.ca/users/weijia-grace-yin)<br/>[Naitong](https://www.stat.ubc.ca/users/naitong-chen)<br/>[Chloe](https://www.stat.ubc.ca/users/xinyuan-chloe-you) | |
 | Exam Sales | | **1** |
@@ -34,4 +34,4 @@ contact the Graduate Student Representative to see how you can get involved!
 | Graduate Trip / Icebreaker | | **2--3** |
 | Social Activities | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu) | **Always open!** |
 
-Last updated: March 2, 2022
+Last updated: May 12, 2022
