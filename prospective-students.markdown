@@ -5,7 +5,7 @@ title: Prospective students
 
 # Prospective students
 
-From current UBC graduate students to future UBC graduate students.
+From current to future UBC statistics graduate students.
 
 
 ## About the department
@@ -27,6 +27,39 @@ We also frequently [hangout](/hangouts) and [play sports](/sports).
 All PhD students are assigned a desk in a shared office
 (with at most six students per office).
 MSc students have lockers and a shared corner office with beautiful ocean views.
+
+
+
+## Funding
+
+All PhD students are guaranteed a
+[minimum funding package](https://www.grad.ubc.ca/awards/minimum-funding-policy-phd-students).
+All international students in the department also receive the
+[international tuition award](https://www.grad.ubc.ca/awards/international-tuition-award),
+which covers the difference between domestic and international tuition.
+On top of that,
+we frequently have TA positions to spare&mdash;see
+[here](/ta) for more info about TAing in the department.
+It is also common for supervisors to provide students with
+research assistantships (RAs).
+The department also provides entrance awards, such as the
+[Thorne-Tanabe Graduate Entrance Scholarship](https://www.stat.ubc.ca/anona-thorne-and-takao-tanabe-graduate-entrance-scholarship).
+See [here](https://www.stat.ubc.ca/award-descriptions) for more departmental awards.
+If you apply to study at UBC statistics,
+you are automatically considered for these entrance awards.
+UBC also has some awards for which you are automatically considered,
+such as the
+[Four Year Doctoral Fellowship (4YF)](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf).
+
+There are several other scholarships and awards that you can apply for:
+- NSERC Canada Graduate Scholarships, available at the
+[MSc](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp)
+and [PhD](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp)
+levels for Canadian citizens and permanent residents
+- [Vanier scholarship](https://vanier.gc.ca/en/home-accueil.html),
+available to students of any nationality
+- Other [UBC graduate awards](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
+
 
 
 ## About UBC
@@ -66,32 +99,6 @@ What this means is that the funding might be contingent on you
 working as a TA, for example, but that the department guarantees
 PhD students in the department are also offered tuition waivers.
 -->
-
-## Graduate awards
-
-All PhD students are guaranteed a
-[minimum funding package](https://www.grad.ubc.ca/awards/minimum-funding-policy-phd-students).
-All international students in the department also receive the
-[international tuition award](https://www.grad.ubc.ca/awards/international-tuition-award),
-which covers the difference between domestic and international tuition.
-On top of that,
-we frequently have TA positions to spare&mdash;see
-[here](/ta) for more info about TAing in the department.
-It is also common for supervisors to provide students with research assistantships
-(RAs), which are non-taxable income.
-The department also provides entrance awards, such as the
-[Thorne-Tanabe Graduate Entrance Scholarship](https://www.stat.ubc.ca/anona-thorne-and-takao-tanabe-graduate-entrance-scholarship).
-See [here](https://www.stat.ubc.ca/award-descriptions) for more departmental awards.
-If you apply to study at UBC statistics,
-you are automatically considered for these entrance awards.
-UBC also has some awards for which you are automatically considered,
-such as the
-[Four Year Doctoral Fellowship (4YF)](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf).
-
-There are several other scholarships and awards that you can apply for:
-- [NSERC CGS M](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp) and [NSERC CGS D](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp) scholarships
-- [Vanier scholarship](https://vanier.gc.ca/en/home-accueil.html)
-- [UBC graduate awards](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
 
 
 ## About Vancouver
@@ -159,4 +166,4 @@ For more information, you can also refer to the [housing landing page](https://w
 of UBC Graduate and Postdoctoral Studies.
 
 
-Last updated: May 12, 2022
+Last updated: May 16, 2022
