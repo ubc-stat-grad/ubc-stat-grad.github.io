@@ -23,7 +23,7 @@ contact the Graduate Student Representative to see how you can get involved!
 
 | Position/activity | People in charge | Available positions |
 | ----------------- | ---------------- | ------------------- |
-| Graduate Student Representative | [Jonathan](https://www.stat.ubc.ca/users/jonathan-ok-agyeman) | |
+| Graduate Student Representative | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) | |
 | Treasurer | [Kenny](https://www.stat.ubc.ca/users/kenny-chiu) | |
 | Graduate Student Seminars | [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi) | **1--2** |
 | Van Eeden Seminar | [Miguel](https://www.stat.ubc.ca/users/miguel-biron-lattes)<br/>[David](https://www.stat.ubc.ca/users/zuheng-david-xu) | |
@@ -34,4 +34,4 @@ contact the Graduate Student Representative to see how you can get involved!
 | Graduate Trip / Icebreaker | | **2--3** |
 | Social Activities | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu) | **Always open!** |
 
-Last updated: May 12, 2022
+Last updated: May 16, 2022
