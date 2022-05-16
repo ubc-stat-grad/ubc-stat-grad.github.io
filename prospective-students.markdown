@@ -152,18 +152,39 @@ for fish and chips
 
 ## Housing information
 
-If you would like to live in UBC residence,
-it is recommended that you apply quite early.
-There are several possible housing options at UBC for graduate students.
-If you are looking to get started with the search and
-you plan to study at UBC Vancouver, you can
-[follow this link](https://vancouver.housing.ubc.ca/getting-started/graduate-students/).
+There are many neighborhoods in Vancouver,
+each with its own vibe and perks.
+UBC housing has a
+[great overview](https://vancouver.housing.ubc.ca/other-housing/off-campus-housing/).
 
-In the case that you are unable to find a spot in residence at UBC, fear not!
+Many students live on-campus at a UBC residence,
+especially during their first two terms (September to April).
+Preference is given to incoming graduate students,
+but we recommend that you apply quite early.
+You can check more info
+[here](https://vancouver.housing.ubc.ca/getting-started/graduate-students/).
+In the case that you are unable to find a spot in a UBC residence, fear not!
 There are still
-[other options available](https://vancouver.housing.ubc.ca/other-housing/more-campus-housing/).
-For more information, you can also refer to the [housing landing page](https://www.grad.ubc.ca/campus-community/life-vancouver/housing)
-of UBC Graduate and Postdoctoral Studies.
+[other options available](https://vancouver.housing.ubc.ca/other-housing/more-campus-housing/)
+within the UBC campus.
+
+Lots of students in the department also live off-campus,
+especially more senior students.
+Popular neighborhoods (from close to far to UBC) to live are:
+- [West Point Grey](https://vancouver.ca/news-calendar/point-grey.aspx),
+which is really close to UBC but has a quieter vibe than Kits
+- [Kitsilano](https://vancouver.ca/news-calendar/kitsilano.aspx)
+(aka Kits), which is roughly between UBC and Downtown and has many
+restaurants, coffee shops, and bars along West Broadway and 4th Avenue
+as well as two great beaches
+- [Mount Pleasant](https://vancouver.ca/news-calendar/mount-pleasant.aspx),
+which is past Kits along Broadway and has a vibrant night life
+- [Downtown](https://vancouver.ca/news-calendar/downtown.aspx),
+which is the core of Vancouver&mdash;it's super busy, all the time.
+It has beaches, Stanley Park, restaurants, clubs, bars, coffee shops,
+stores...
+Although farther from campus, there exist express bus routes to UBC,
+such as the [44 line](https://translink.fandom.com/wiki/Route_44).
 
 
 Last updated: May 16, 2022
