@@ -50,15 +50,6 @@ If you need anything, feel free to contact them.
 </div>
 
 
-
-<!--
-| Position | People in charge |
-| ----------------- | ---------------- |
-| Graduate student representative | [Jonathan](https://www.stat.ubc.ca/users/jonathan-ok-agyeman) |
-| Treasurer | [Qiong](https://www.stat.ubc.ca/users/qiong-zhang) |
-| Website maintainers | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu)<br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) |
--->
-
 If you want to make a suggestion to the website, open an issue on the [Github repo](https://github.com/ubc-stat-grad/ubc-stat-grad.github.io).
 
 
@@ -81,4 +72,14 @@ Last updated: May 16, 2022
 		</figure>
 	</div>
 </div>
+-->
+
+
+
+<!--
+| Position | People in charge |
+| ----------------- | ---------------- |
+| Graduate student representative | [Jonathan](https://www.stat.ubc.ca/users/jonathan-ok-agyeman) |
+| Treasurer | [Qiong](https://www.stat.ubc.ca/users/qiong-zhang) |
+| Website maintainers | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu)<br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) |
 -->
