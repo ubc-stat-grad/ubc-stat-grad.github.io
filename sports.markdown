@@ -9,16 +9,6 @@ There are several sports teams within the department.
 Note that most of these are on hold due to the COVID-19 pandemic,
 but stay tuned for when they come back!
 
-## Cycling
-
-We always partake in [HUB Cycling](https://bikehub.ca/)'s
-[Go by Bike Week](https://bikehub.ca/bike-events/go-by-bike-week),
-which in Fall 2021 is taking place from Sept. 27 to Oct. 3.
-
-Join our team and log your kilometers!
-Contact [Mairéad](https://www.stat.ubc.ca/users/mairead-roche) for more information.
-
-
 ## Soccer
 
 The *Mean Squared Terrors* is the department's soccer team,
@@ -39,6 +29,21 @@ These usually happen in room ESB 4192, but shoot an email to
 [Lang](https://www.stat.ubc.ca/users/lang-wu) for more information.
 
 
+## Cycling
+
+We always partake in [HUB Cycling](https://bikehub.ca/)'s
+[Go by Bike Week](https://bikehub.ca/bike-events/go-by-bike-week),
+which in Fall 2021 is taking place from Sept. 27 to Oct. 3.
+Join our team and log your kilometers!
+Contact [Mairéad](https://www.stat.ubc.ca/users/mairead-roche) for more information.
+
+Some of us also go out for (road) rides a couple of times a week.
+Contact [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
+if you wanna join!
+
+![Ride to Steveston](img/road-cycling-min.jpg)
+
+
 ## Organize something!
 
 Is your favourite sport not on the list above?
@@ -46,4 +51,4 @@ Consider organizing your own sports team within the department!
 Feel free to contact one of the [graduate student executives](./about.html) if you would like to receive help promoting your new sports team.
 
 
-Last updated: September 24, 2021
+Last updated: May 16, 2022
