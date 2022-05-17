@@ -46,8 +46,9 @@ and Computer Science who are interested in Bayesian computational methods.
 Each week, we hold a 1-hour discussion which is led by a rotating presenter.
 The presenter can choose the format, although whiteboard is preferred.
 The goal is for the reading group to be a low pressure and informal environment
-for all of us to learn. This last year we have been doing a review of
-recent (2019&ndash;2021) work on variational methods.
+for all of us to learn. This last year, we have been doing a review of
+linearly convergent stochastic optimization methods.
+Previously, we discussed recent (2019&ndash;2021) work on variational methods.
 
 
 ## Symmetry, invariance, probability and machine learning reading group
@@ -89,4 +90,4 @@ forecasting case or hospitalization counts via predictive modelling, and techniq
 for longitudinal data analysis, amongst others.
 
 
-Last updated: May 11, 2022
+Last updated: May 17, 2022
