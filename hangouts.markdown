@@ -17,6 +17,7 @@ to add it to the calendar. Make sure to invite your friends!
 
 ## Upcoming events:
 
+- [June 7, 2022] Join us for Lebanese food for dinner, and on campus too!
 - [May 13, 2022] We'll have some delicious Korean food for dinner
 at Kosoo this Friday. RSVP on Slack!
 - [Apr. 29, 2022] Join us at our end-of-term hangout!
@@ -34,4 +35,4 @@ RSVP in the *#social* channel on Slack
 <img src="img/s2022eot-min.jpg" alt="">
 Spring 2022 end-of-term hangout @ Browns
 
-Last updated: May 12, 2022
+Last updated: June 6, 2022
