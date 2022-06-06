@@ -33,8 +33,8 @@ These usually happen in room ESB 4192, but shoot an email to
 
 We always partake in [HUB Cycling](https://bikehub.ca/)'s
 [Go by Bike Week](https://bikehub.ca/bike-events/go-by-bike-week),
-which in Fall 2021 is taking place from Sept. 27 to Oct. 3.
-Join our team and log your kilometers!
+which in Fall 2022 took place from May 30 to June 5.
+Join our team for the next edition and log your kilometers!
 Contact [Mairéad](https://www.stat.ubc.ca/users/mairead-roche) for more information.
 
 Some of us also go out for (road) rides a couple of times a week.
@@ -51,4 +51,4 @@ Consider organizing your own sports team within the department!
 Feel free to contact one of the [graduate student executives](./about.html) if you would like to receive help promoting your new sports team.
 
 
-Last updated: May 16, 2022
+Last updated: June 6, 2022
