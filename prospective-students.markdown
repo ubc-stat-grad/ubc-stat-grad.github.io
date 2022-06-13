@@ -141,7 +141,7 @@ and [Lynn Valey](https://lynncanyon.ca/) suspension bridges
 - The [Vancouver Aquarium](https://www.vanaqua.org/)
 - The [Vancouver Art Gallery](https://www.vanartgallery.bc.ca/)
 - [Deep Cove](https://www.vancouversnorthshore.com/neighbourhood/deep-cove/)
-if you want [good doughnuts](https://honeydoughnuts.com/)
+if you want [good donuts](https://honeydoughnuts.com/)
 - The [Richmond night market](https://richmondnightmarket.com/) for amazing food
 during the summer
 - The [Vancouver Christmas market](https://www.vancouverchristmasmarket.com/)
@@ -187,4 +187,4 @@ Although farther from campus, there exist express bus routes to UBC,
 such as the [44 line](https://translink.fandom.com/wiki/Route_44).
 
 
-Last updated: May 16, 2022
+Last updated: June 13, 2022
