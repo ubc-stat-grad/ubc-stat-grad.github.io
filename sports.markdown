@@ -22,6 +22,13 @@ and we play against other teams within UBC.
 
 ![Mean Squared Terrors](img/mst.png)
 
+## Volleyball
+
+We play beach volleyball at
+[Wesbrook village](http://www.discoverwesbrook.com/posts/beach-volleyball-right-in-the-village#.Yqd7cxzMIsk)
+over the summer.
+Contact [Chloe](https://www.stat.ubc.ca/users/xinyuan-chloe-you) if you want to join!
+
 ## Table tennis
 
 We also have table tennis matches during the afternoons.
@@ -51,4 +58,4 @@ Consider organizing your own sports team within the department!
 Feel free to contact one of the [graduate student executives](./about.html) if you would like to receive help promoting your new sports team.
 
 
-Last updated: June 6, 2022
+Last updated: June 13, 2022
