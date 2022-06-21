@@ -17,17 +17,15 @@ Enjoy!
 
 ## Recent news
 
+- **[June 21, 2022]** Summer is here! Join us for
+[beach volleyball](./sports) or for an
+[outdoors hangout](./hangouts). Stay tuned!
 - **[May 11, 2022]** The new Epidemiology Reading Group will be starting this summer.
 Find out more [here](./reading-groups)!
 - **[Apr. 25, 2022]** Our end-of-term hangout is taking place this Friday, April 29!
 We'll have pizzas and then head out for a drink at Browns.
 RSVP in the *#social* channel on Slack.
-- **[Mar. 24, 2022]** The undergraduate consulting (STAT 450) students
-will present the results of their projects on a poster session.
-Join us on April 4, 2022 at 9am in the ESB atrium!
-- **[Mar. 22, 2022]** Today is the van Eeden seminar!
-Join us in welcoming [Dr. Tamara Broderick](https://tamarabroderick.com/) from MIT,
-who will give a talk about finite-sample robustness!
+
 
 Older news can be found in the [archive](./news-archive).
 
