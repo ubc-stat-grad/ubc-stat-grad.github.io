@@ -3,11 +3,18 @@ layout: default
 title: Sports
 ---
 
-# Departmental sports teams
+# Sports in UBC statistics
 
-There are several sports teams within the department.
-Note that most of these are on hold due to the COVID-19 pandemic,
-but stay tuned for when they come back!
+We frequently play sports together,
+either as a group just to have fun or in a departmental team as part of a league.
+
+
+<div class="span9">
+	<h3>Upcoming sporting events:</h3>
+  <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FVancouver&showTitle=0&showPrint=0&showCalendars=0&title&src=YjF1bDRsajc1YWRtYmVsYWtqOGpkczBoODRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E4C441" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no">
+  </iframe>
+</div><!--/span-->
+<br/>
 
 ## Soccer
 
@@ -27,7 +34,8 @@ and we play against other teams within UBC.
 We play beach volleyball at
 [Wesbrook village](http://www.discoverwesbrook.com/posts/beach-volleyball-right-in-the-village#.Yqd7cxzMIsk)
 over the summer.
-Contact [Chloe](https://www.stat.ubc.ca/users/xinyuan-chloe-you) if you want to join!
+Join the *#volleyball* channel on Slack if you want to come!
+Or ask [Chloe](https://www.stat.ubc.ca/users/xinyuan-chloe-you) for more info.
 
 ## Table tennis
 
@@ -40,7 +48,7 @@ These usually happen in room ESB 4192, but shoot an email to
 
 We always partake in [HUB Cycling](https://bikehub.ca/)'s
 [Go by Bike Week](https://bikehub.ca/bike-events/go-by-bike-week),
-which in Fall 2022 took place from May 30 to June 5.
+which in Spring 2022 took place from May 30 to June 5.
 Join our team for the next edition and log your kilometers!
 Contact [Mairéad](https://www.stat.ubc.ca/users/mairead-roche) for more information.
 
@@ -58,4 +66,4 @@ Consider organizing your own sports team within the department!
 Feel free to contact one of the [graduate student executives](./about.html) if you would like to receive help promoting your new sports team.
 
 
-Last updated: June 13, 2022
+Last updated: June 21, 2022
