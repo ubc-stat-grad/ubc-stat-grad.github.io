@@ -33,12 +33,13 @@ Older news can be found in the [archive](./news-archive).
 
 
 <div class="span9">
-	<h2>Calendar of upcoming events and seminars:</h2>
-	<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FVancouver&showTitle=0&src=MjNodWRuYzZvM2VoZzFubmltZTBmbmY4OThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZDhibmxnaGlxcmVwc2ZrazNjN2ZsZmlyaWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60&color=%238E24AA" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
+	<h2>Calendar of upcoming events:</h2>
+	<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FVancouver&showTitle=0&showPrint=0&showCalendars=0&title&src=MjNodWRuYzZvM2VoZzFubmltZTBmbmY4OThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZDhibmxnaGlxcmVwc2ZrazNjN2ZsZmlyaWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YjF1bDRsajc1YWRtYmVsYWtqOGpkczBoODRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60&color=%238E24AA&color=%23E4C441" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no">
+	</iframe>
 </div><!--/span-->
 <br/>
 
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: May 11, 2022
+Last updated: June 21, 2022
