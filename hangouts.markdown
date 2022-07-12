@@ -17,9 +17,11 @@ to add it to the calendar. Make sure to invite your friends!
 
 ## Upcoming events:
 
+- [July 17, 2022] We'll have an outdoors picnic on Sunset Beach&mdash;bring
+your own pizza!
 - [July 16, 2022] Let's go to The Vancouver Symphony Orchestra's
 [concert on Deer Lake](https://www.vancouversymphony.ca/event/the-vso-at-deer-lake/)!
-- [July 8, 2022] We are throwing a farewell party for Peggy at 5pm on Friday!
+- [July 15, 2022] We are throwing a farewell party for Peggy at 5pm on Friday!
 Email [Chloe](https://www.stat.ubc.ca/users/xinyuan-chloe-you) to RSVP.
 - [June 7, 2022] Join us for Lebanese food for dinner, and on campus too!
 - [May 13, 2022] We'll have some delicious Korean food for dinner
@@ -36,7 +38,7 @@ We'll meet at ESB for some pizzas and then head out to Browns for a drink.
 <img src="img/s2022eot-min.jpg" alt="">
 Spring 2022 end-of-term hangout @ Browns
 
-Last updated: July 4, 2022
+Last updated: July 12, 2022
 
 
 

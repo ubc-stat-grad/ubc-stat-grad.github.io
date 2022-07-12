@@ -18,8 +18,10 @@ Enjoy!
 ## Recent news
 
 - **[June 21, 2022]** Summer is here! Join us for
-[beach volleyball](./sports) or for an
-[outdoors hangout](./hangouts). Stay tuned!
+[beach volleyball](./sports), for an
+[outdoors hangout](./hangouts), or for a
+[VSO concert in the park](https://www.vancouversymphony.ca/event/the-vso-at-deer-lake/).
+Stay tuned!
 - **[May 11, 2022]** The new Epidemiology Reading Group will be starting this summer.
 Find out more [here](./reading-groups)!
 - **[Apr. 25, 2022]** Our end-of-term hangout is taking place this Friday, April 29!
@@ -40,4 +42,4 @@ Older news can be found in the [archive](./news-archive).
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: June 21, 2022
+Last updated: July 12, 2022
