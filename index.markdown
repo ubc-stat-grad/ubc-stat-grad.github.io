@@ -17,6 +17,8 @@ Enjoy!
 
 ## Recent news
 
+- **[August 10, 2022]** The Short Term Consulting Service is looking for consultants!
+See [here](./consulting) for more details!
 - **[June 21, 2022]** Summer is here! Join us for
 [beach volleyball](./sports), for an
 [outdoors hangout](./hangouts), or for a
@@ -24,9 +26,6 @@ Enjoy!
 Stay tuned!
 - **[May 11, 2022]** The new Epidemiology Reading Group will be starting this summer.
 Find out more [here](./reading-groups)!
-- **[Apr. 25, 2022]** Our end-of-term hangout is taking place this Friday, April 29!
-We'll have pizzas and then head out for a drink at Browns.
-RSVP in the *#social* channel on Slack.
 
 
 Older news can be found in the [archive](./news-archive).
@@ -42,4 +41,4 @@ Older news can be found in the [archive](./news-archive).
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: July 12, 2022
+Last updated: August 10, 2022
