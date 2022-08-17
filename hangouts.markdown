@@ -17,6 +17,8 @@ to add it to the calendar. Make sure to invite your friends!
 
 ## Upcoming events:
 
+- [September 3, 2022] The Department of Statistics Day Trip will take place on Saturday, September 3rd at Lynn Canyon park!
+Please [fill out the form](https://forms.gle/NsiJuHiKVbQvaViu8) if you are interested.
 - [July 17, 2022] We'll have an outdoors picnic on Sunset Beach&mdash;bring
 your own pizza!
 - [July 16, 2022] Let's go to The Vancouver Symphony Orchestra's
@@ -38,7 +40,7 @@ We'll meet at ESB for some pizzas and then head out to Browns for a drink.
 <img src="img/s2022eot-min.jpg" alt="">
 Spring 2022 end-of-term hangout @ Browns
 
-Last updated: July 12, 2022
+Last updated: August 17, 2022
 
 
 
