@@ -131,7 +131,7 @@ and is particularly famous for its
 
 
 There are many other great tourist attractions in Vancouver:
-- [Stanely Park](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx)
+- [Stanley Park](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx)
 for walking, hiking, biking, or
 [eating ice cream](https://prospectpoint.com/dining/)
 - [Granville Island](https://granvilleisland.com/) for great food
@@ -148,6 +148,10 @@ during the summer
 for schnitzel and mulled wine
 - [Steveston Village](https://www.visitrichmondbc.com/things-to-do/steveston-village/)
 for fish and chips
+- [Brewers row](https://bcaletrail.ca/ale-trails/port-moody/) in Port Moody for some drinks and (nearby) fish and chips
+- [Metrotown](https://metropolisatmetrotown.com/en/) in Burnaby is the largest shopping mall in British Columbia
+- [Chilliwack tulip flower festival](https://vancouversbestplaces.com/events-calendar/festivals-and-events/tulips-of-the-valley/)
+for Vancouver's largest flower festival held in April each year
 
 
 ## Housing information
@@ -187,4 +191,4 @@ Although farther from campus, there exist express bus routes to UBC,
 such as the [44 line](https://translink.fandom.com/wiki/Route_44).
 
 
-Last updated: June 13, 2022
+Last updated: August 17, 2022
