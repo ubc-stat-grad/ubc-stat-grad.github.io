@@ -17,6 +17,8 @@ Enjoy!
 
 ## Recent news
 
+- **[August 17, 2022]** The Department of Statistics Day Trip will take place on Saturday, September 3rd at Lynn Canyon park!
+Please fill out the following form if you are interested in attending: https://forms.gle/NsiJuHiKVbQvaViu8.
 - **[August 10, 2022]** The Short Term Consulting Service is looking for consultants!
 See [here](./consulting) for more details!
 - **[June 21, 2022]** Summer is here! Join us for
@@ -41,4 +43,4 @@ Older news can be found in the [archive](./news-archive).
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: August 10, 2022
+Last updated: August 17, 2022
