@@ -18,7 +18,7 @@ Enjoy!
 ## Recent news
 
 - **[August 17, 2022]** The Department of Statistics Day Trip will take place on Saturday, September 3rd at Lynn Canyon park!
-Please fill out the following form if you are interested in attending: https://forms.gle/NsiJuHiKVbQvaViu8.
+Please [fill out the form](https://forms.gle/NsiJuHiKVbQvaViu8) if you are interested.
 - **[August 10, 2022]** The Short Term Consulting Service is looking for consultants!
 See [here](./consulting) for more details!
 - **[June 21, 2022]** Summer is here! Join us for
