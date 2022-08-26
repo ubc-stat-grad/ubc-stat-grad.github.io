@@ -127,7 +127,7 @@ Vancouver also has an amazing
 with many breweries producing amazing beer year-round.
 The city is also home to a wide variety of different cuisines,
 and is particularly famous for its
-[Ramen scene](https://nypost.com/2016/01/05/use-your-noodle-to-conquer-vancouvers-ramen-scene/).
+[ramen scene](https://nypost.com/2016/01/05/use-your-noodle-to-conquer-vancouvers-ramen-scene/).
 
 
 There are many other great tourist attractions in Vancouver:
@@ -150,8 +150,10 @@ for schnitzel and mulled wine
 for fish and chips
 - [Brewers row](https://bcaletrail.ca/ale-trails/port-moody/) in Port Moody for some drinks and (nearby) fish and chips
 - [Metrotown](https://metropolisatmetrotown.com/en/) in Burnaby is the largest shopping mall in British Columbia
+- [White Rock Beach](https://explorewhiterock.com/see/the-beach/) in White Rock is home to [Canada's longest pier](https://www.whiterockcity.ca/797/White-Rock-Pier)
 - [Chilliwack tulip flower festival](https://vancouversbestplaces.com/events-calendar/festivals-and-events/tulips-of-the-valley/)
 for Vancouver's largest flower festival held in April each year
+
 
 
 ## Housing information
@@ -191,4 +193,4 @@ Although farther from campus, there exist express bus routes to UBC,
 such as the [44 line](https://translink.fandom.com/wiki/Route_44).
 
 
-Last updated: August 17, 2022
+Last updated: August 25, 2022
