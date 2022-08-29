@@ -18,7 +18,6 @@ to add it to the calendar. Make sure to invite your friends!
 ## Upcoming events:
 
 - [September 3, 2022] The Department of Statistics Day Trip will take place on Sunday, September 4th at Lynn Canyon park!
-Please [fill out the form](https://forms.gle/NsiJuHiKVbQvaViu8) if you are interested.
 - [July 17, 2022] We'll have an outdoors picnic on Sunset Beach&mdash;bring
 your own pizza!
 - [July 16, 2022] Let's go to The Vancouver Symphony Orchestra's
