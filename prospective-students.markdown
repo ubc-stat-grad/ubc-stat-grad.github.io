@@ -136,7 +136,7 @@ for walking, hiking, biking, or
 [eating ice cream](https://prospectpoint.com/dining/)
 - [Granville Island](https://granvilleisland.com/) for great food
 - The [Capilano](https://www.capbridge.com/)
-and [Lynn Valey](https://lynncanyon.ca/) suspension bridges
+and [Lynn Valley](https://lynncanyon.ca/) suspension bridges
 - [Queen Elizabeth park](https://vancouver.ca/parks-recreation-culture/queen-elizabeth-park.aspx) for a picnic with a view
 - The [Vancouver Aquarium](https://www.vanaqua.org/)
 - The [Vancouver Art Gallery](https://www.vanartgallery.bc.ca/)
