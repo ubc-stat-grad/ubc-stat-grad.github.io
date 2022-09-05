@@ -28,10 +28,10 @@ contact the Graduate Student Representative to see how you can get involved!
 | Graduate Student Seminars | [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi) | **1--2** |
 | Van Eeden Seminar | [Miguel](https://www.stat.ubc.ca/users/miguel-biron-lattes)<br/>[David](https://www.stat.ubc.ca/users/zuheng-david-xu) | |
 | UBC/SFU Joint Seminars | [Naitong](https://www.stat.ubc.ca/users/naitong-chen)<br/>[Chloe](https://www.stat.ubc.ca/users/xinyuan-chloe-you)<br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) |  |
-| Exam Sales | | **1--2** |
+| Fundraiser | | **2--3** |
 | Union Rep	| | **1** |
-| Graduate Website | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu)<br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) | |
+| Webmaster | [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) | |
 | Graduate Trip / Icebreaker | [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi)<br/>[Naitong](https://www.stat.ubc.ca/users/naitong-chen) | |
-| Social Activities | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu) | **Always open!** |
+| Social Committee | | **Always open!** |
 
-Last updated: June 7, 2022
+Last updated: September 5, 2022
