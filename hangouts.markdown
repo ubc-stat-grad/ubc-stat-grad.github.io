@@ -36,10 +36,14 @@ We'll meet at ESB for some pizzas and then head out to Browns for a drink.
 </div><!--/span-->
 <br/>
 
+<img src="img/w2022grad_trip-min.jpg" alt="">
+Fall 2022 grad trip @ Lynn Canyon Park
+
+
 <img src="img/s2022eot-min.jpg" alt="">
 Spring 2022 end-of-term hangout @ Browns
 
-Last updated: August 17, 2022
+Last updated: September 6, 2022
 
 
 
