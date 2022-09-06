@@ -5,6 +5,13 @@ title: News archive
 
 # News archive
 
+- **[June 21, 2022]** Summer is here! Join us for
+[beach volleyball](./sports), for an
+[outdoors hangout](./hangouts), or for a
+[VSO concert in the park](https://www.vancouversymphony.ca/event/the-vso-at-deer-lake/).
+Stay tuned!
+- **[May 11, 2022]** The new Epidemiology Reading Group will be starting this summer.
+Find out more [here](./reading-groups)!
 - **[Apr. 25, 2022]** Our end-of-term hangout is taking place this Friday, April 29!
 We'll have pizzas and then head out for a drink at Browns.
 RSVP in the *#social* channel on Slack.
@@ -24,4 +31,4 @@ who will give a talk about finite-sample robustness!
 - **[Sep. 7, 2021]** Welcome to the Fall 2021 term!
 
 
-Last updated: August 10, 2022
+Last updated: September 6, 2022

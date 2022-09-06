@@ -17,17 +17,10 @@ Enjoy!
 
 ## Recent news
 
+- **[September 6, 2022]** Welcome to the 2022-2023 academic year! Check out our [available SGSA positions for the year](./grad-duties)!
 - **[August 17, 2022]** The Department of Statistics Day Trip will take place on Sunday, September 4th at Lynn Canyon park!
 - **[August 10, 2022]** The Short Term Consulting Service is looking for consultants!
 See [here](./consulting) for more details!
-- **[June 21, 2022]** Summer is here! Join us for
-[beach volleyball](./sports), for an
-[outdoors hangout](./hangouts), or for a
-[VSO concert in the park](https://www.vancouversymphony.ca/event/the-vso-at-deer-lake/).
-Stay tuned!
-- **[May 11, 2022]** The new Epidemiology Reading Group will be starting this summer.
-Find out more [here](./reading-groups)!
-
 
 Older news can be found in the [archive](./news-archive).
 
@@ -42,4 +35,4 @@ Older news can be found in the [archive](./news-archive).
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: August 17, 2022
+Last updated: September 6, 2022
