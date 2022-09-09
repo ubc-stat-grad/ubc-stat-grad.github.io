@@ -5,6 +5,8 @@ title: News archive
 
 # News archive
 
+- **[August 10, 2022]** The Short Term Consulting Service is looking for consultants!
+See [here](./consulting) for more details!
 - **[June 21, 2022]** Summer is here! Join us for
 [beach volleyball](./sports), for an
 [outdoors hangout](./hangouts), or for a
@@ -31,4 +33,4 @@ who will give a talk about finite-sample robustness!
 - **[Sep. 7, 2021]** Welcome to the Fall 2021 term!
 
 
-Last updated: September 6, 2022
+Last updated: September 9, 2022
