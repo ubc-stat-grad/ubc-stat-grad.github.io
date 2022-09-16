@@ -25,13 +25,13 @@ contact the Graduate Student Representative to see how you can get involved!
 | ----------------- | ---------------- | ------------------- |
 | Graduate Student Representative | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) | |
 | Treasurer | [Kenny](https://www.stat.ubc.ca/users/kenny-chiu) | |
-| Graduate Student Seminars | [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi) | **1--2** |
+| Graduate Student Seminars | [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi)<br/>[Olivia](https://www.stat.ubc.ca/users/jiapingolivia-liu) | **1--2** |
 | Van Eeden Seminar | [Miguel](https://www.stat.ubc.ca/users/miguel-biron-lattes)<br/>[David](https://www.stat.ubc.ca/users/zuheng-david-xu) | |
 | UBC/SFU Joint Seminars | [Naitong](https://www.stat.ubc.ca/users/naitong-chen)<br/>[Chloe](https://www.stat.ubc.ca/users/xinyuan-chloe-you)<br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) |  |
 | Fundraiser | | **2--3** |
 | Union Rep	| | **1** |
 | Webmaster | [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) | |
 | Graduate Trip / Icebreaker | [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi)<br/>[Naitong](https://www.stat.ubc.ca/users/naitong-chen) | |
-| Social Committee | | **Always open!** |
+| Social Committee | [Silke](https://www.stat.ubc.ca/users/silke-sophia-rice)<br/>[Charlotte](https://www.stat.ubc.ca/users/charlotte-edgar) | **Always open!** |
 
 Last updated: September 5, 2022
