@@ -24,6 +24,13 @@ everyone has a good time!
 Contact [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) if you want to join!
 
 
+## Tennis
+
+Several students in the department play tennis on a regular basis. 
+Contact [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) if you would like to join
+one of the tennis session!
+
+
 ## Soccer
 
 The *Mean Squared Terrors* is the department's soccer team,
