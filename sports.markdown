@@ -28,7 +28,7 @@ Contact [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) if you wa
 
 Several students in the department play tennis on a regular basis. 
 Contact [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) if you would like to join
-one of the tennis session!
+one of the tennis sessions!
 
 
 ## Soccer
