@@ -13,6 +13,9 @@ events&mdash;don't forget to join!
 
 If you want to organize an event, shoot an email to the [Webmaster](./about.html)
 to add it to the calendar. Make sure to invite your friends!
+Note that we may be able to provide partial reimbursements---check the 
+guidelines bookmarked in the #social channel on Slack or talk to the 
+Graduate Representative or Treasurer.
 
 
 ## Upcoming events:
@@ -43,13 +46,5 @@ Fall 2022 grad trip @ Lynn Canyon Park
 <img src="img/s2022eot-min.jpg" alt="">
 Spring 2022 end-of-term hangout @ Browns
 
-Last updated: September 6, 2022
+Last updated: September 28, 2022
 
-
-
-<!--
-- [Nov. 18, 2021] Come to Browns Crafthouse for dinner!
-- [Oct. 21, 2021] We're going to Koerner's pub for a drink!
-- [Oct. 7, 2021] Join us for taco Thursday!
-RSVP in the *#social* channel on Slack
--->
