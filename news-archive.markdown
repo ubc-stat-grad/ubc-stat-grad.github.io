@@ -5,6 +5,7 @@ title: News archive
 
 # News archive
 
+- **[August 17, 2022]** The Department of Statistics Day Trip will take place on Sunday, September 4th at Lynn Canyon park!
 - **[August 10, 2022]** The Short Term Consulting Service is looking for consultants!
 See [here](./consulting) for more details!
 - **[June 21, 2022]** Summer is here! Join us for
@@ -33,4 +34,4 @@ who will give a talk about finite-sample robustness!
 - **[Sep. 7, 2021]** Welcome to the Fall 2021 term!
 
 
-Last updated: September 9, 2022
+Last updated: September 28, 2022

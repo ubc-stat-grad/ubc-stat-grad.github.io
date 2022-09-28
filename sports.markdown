@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sports
+title: Sports and activities
 ---
 
 # Sports in UBC statistics
@@ -16,6 +16,14 @@ either as a group just to have fun or in a departmental team as part of a league
 </div><!--/span-->
 <br/>
 
+## Running
+
+We run 5 kilometres on Mondays, starting at 8 am. We meet in front of ESB and usually end at a 
+coffee shop on campus. Running is at tempo (no drop) pace, but still slow enough so that 
+everyone has a good time! 
+Contact [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) if you want to join!
+
+
 ## Soccer
 
 The *Mean Squared Terrors* is the department's soccer team,
@@ -29,6 +37,7 @@ and we play against other teams within UBC.
 
 ![Mean Squared Terrors](img/mst.png)
 
+
 ## Volleyball
 
 We play beach volleyball at
@@ -36,6 +45,7 @@ We play beach volleyball at
 over the summer.
 Join the *#volleyball* channel on Slack if you want to come!
 Or ask [Chloe](https://www.stat.ubc.ca/users/xinyuan-chloe-you) for more info.
+
 
 ## Table tennis
 
@@ -54,7 +64,7 @@ Contact [Mairéad](https://www.stat.ubc.ca/users/mairead-roche) for more informa
 
 Some of us also go out for (road) rides a couple of times a week.
 Contact [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
-if you wanna join!
+if you want to join!
 
 ![Ride to Steveston](img/road-cycling-min.jpg)
 
@@ -66,4 +76,4 @@ Consider organizing your own sports team within the department!
 Feel free to contact one of the [graduate student executives](./about.html) if you would like to receive help promoting your new sports team.
 
 
-Last updated: June 21, 2022
+Last updated: September 28, 2022
