@@ -5,8 +5,6 @@ title: Prospective students
 
 # Prospective students
 
-From current to future UBC statistics graduate students.
-
 
 ## About the department
 
