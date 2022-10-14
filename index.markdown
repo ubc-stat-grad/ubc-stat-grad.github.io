@@ -17,11 +17,12 @@ Enjoy!
 
 ## Recent news
 
+- **[October 14, 2022]** Taco Thursday at La Taqueria is coming up on October 20th at 5:30pm!
+React with the taco emoji on Slack in the #social channel if you are planning to join or let Gian Carlo know. 
 - **[September 28, 2022]** We will be having a dinner on Friday, October 7th around 6pm in Richmond.
 Email gian "dot" diluvi "at" stat.ubc.ca or reply to the thread on Slack in the #social channel if you are interested! 
 - **[September 9, 2022]** We are looking for volunteers to help out with SGSA events. Email gian "dot" diluvi "at" stat.ubc.ca ASAP if
 you are interested! We will meet on Thursday, September 15 at 3 pm to discuss some logistics. Please see the [list of possible volunteer positions](./files/2022_sgsa_volunteers.pdf).
-- **[September 6, 2022]** Welcome to the 2022-2023 academic year! Check out our [available SGSA positions for the year](./grad-duties)!
 
 
 Older news can be found in the [archive](./news-archive).
@@ -37,4 +38,4 @@ Older news can be found in the [archive](./news-archive).
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: September 28, 2022
+Last updated: October 14, 2022
