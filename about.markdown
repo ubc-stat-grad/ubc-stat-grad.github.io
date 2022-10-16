@@ -15,7 +15,7 @@ to stay on top of things&mdash;and to get involved as well!
 
 ## UBC statistics graduate student association
 
-These are the people behind the graduate students association and the website.
+These are the people behind the graduate student association and the website.
 If you need anything, feel free to contact them.
 
 
@@ -53,33 +53,4 @@ If you need anything, feel free to contact them.
 If you want to make a suggestion to the website, open an issue on the [Github repo](https://github.com/ubc-stat-grad/ubc-stat-grad.github.io).
 
 
-Last updated: May 16, 2022
-
-<!--
-<div id="images">
-	<div style="width:50%">
-		<figure>
-		  <a href="https://www.stat.ubc.ca/users/jonathan-ok-agyeman"><img src="img/jonathan.png" width="150" alt=""></a>
-		  <figcaption><a href="https://www.stat.ubc.ca/users/jonathan-ok-agyeman">Jonathan</a></figcaption>
-		  <figcaption>Graduate Student Representative</figcaption>
-		</figure>
-	</div>
-	<div style="width:50%">
-		<figure>
-			<a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi"><img src="img/giancarlo.png" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi">Gian Carlo</a></figcaption>
-			<figcaption>Webmaster</figcaption>
-		</figure>
-	</div>
-</div>
--->
-
-
-
-<!--
-| Position | People in charge |
-| ----------------- | ---------------- |
-| Graduate student representative | [Jonathan](https://www.stat.ubc.ca/users/jonathan-ok-agyeman) |
-| Treasurer | [Qiong](https://www.stat.ubc.ca/users/qiong-zhang) |
-| Website maintainers | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu)<br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) |
--->
+Last updated: October 15, 2022
