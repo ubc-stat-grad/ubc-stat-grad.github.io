@@ -18,21 +18,7 @@ guidelines bookmarked in the #social channel on Slack or talk to the
 Graduate Representative or Treasurer.
 
 
-## Upcoming events:
-
-- [September 3, 2022] The Department of Statistics Day Trip will take place on Sunday, September 4th at Lynn Canyon park!
-- [July 17, 2022] We'll have an outdoors picnic on Sunset Beach&mdash;bring
-your own pizza!
-- [July 16, 2022] Let's go to The Vancouver Symphony Orchestra's
-[concert on Deer Lake](https://www.vancouversymphony.ca/event/the-vso-at-deer-lake/)!
-- [July 15, 2022] We are throwing a farewell party for Peggy at 5pm on Friday!
-Email [Chloe](https://www.stat.ubc.ca/users/xinyuan-chloe-you) to RSVP.
-- [June 7, 2022] Join us for Lebanese food for dinner, and on campus too!
-- [May 13, 2022] We'll have some delicious Korean food for dinner
-at Kosoo this Friday. RSVP on Slack!
-- [Apr. 29, 2022] Join us at our end-of-term hangout!
-We'll meet at ESB for some pizzas and then head out to Browns for a drink.
-
+## Upcoming events
 
 <div class="span9">
 	<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FVancouver&src=ZDhibmxnaGlxcmVwc2ZrazNjN2ZsZmlyaWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&showPrint=0&showTitle=0" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
@@ -46,5 +32,5 @@ Fall 2022 grad trip @ Lynn Canyon Park
 <img src="img/s2022eot-min.jpg" alt="">
 Spring 2022 end-of-term hangout @ Browns
 
-Last updated: September 28, 2022
+Last updated: October 15, 2022
 

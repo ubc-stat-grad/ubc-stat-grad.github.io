@@ -17,12 +17,13 @@ Enjoy!
 
 ## Recent news
 
-- **[October 14, 2022]** Taco Thursday at La Taqueria is coming up on October 20th at 5:30pm!
+- **[October 15, 2022]** The date of the Fall 2022 SFU/UBC Joint Seminar is confirmed! We will meet in person
+at SFU Harbour Centre on Saturday, November 19. See the [Joint Seminar homepage](http://www.sfu.ca/~rennyd/JointSeminar2022/) for 
+more information. To register as a presenter from UBC, contact Nikola, Naitong, or Chloe.
+- **[October 15, 2022]** There will be a Movie Night in the ESB on November 1st at 7 pm. See the Slack channel to vote on a movie 
+or let Charlotte/Silke know!
+- **[October 14, 2022]** Taco Thursday at La Taqueria is coming up on October 20th at 5:30 pm!
 React with the taco emoji on Slack in the #social channel if you are planning to join or let Gian Carlo know. 
-- **[September 28, 2022]** We will be having a dinner on Friday, October 7th around 6pm in Richmond.
-Email gian "dot" diluvi "at" stat.ubc.ca or reply to the thread on Slack in the #social channel if you are interested! 
-- **[September 9, 2022]** We are looking for volunteers to help out with SGSA events. Email gian "dot" diluvi "at" stat.ubc.ca ASAP if
-you are interested! We will meet on Thursday, September 15 at 3 pm to discuss some logistics. Please see the [list of possible volunteer positions](./files/2022_sgsa_volunteers.pdf).
 
 
 Older news can be found in the [archive](./news-archive).
@@ -38,4 +39,4 @@ Older news can be found in the [archive](./news-archive).
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: October 14, 2022
+Last updated: October 15, 2022
