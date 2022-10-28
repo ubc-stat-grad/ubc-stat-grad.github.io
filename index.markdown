@@ -17,13 +17,15 @@ Enjoy!
 
 ## Recent news
 
+- **[October 28, 2022]** We have some exciting news---the Constance van Eeden Speaker for 2023 will be [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) of Google!
+Dr. Murphy will visit our department on Thursday, February 2nd, 2023. He will give a lecture on a soon-to-be-decided topic, 
+and hold short meetings with any interested student. We will follow up with more details closer to the date. Please contact David Xu
+or Miguel for more information.
 - **[October 15, 2022]** The date of the Fall 2022 SFU/UBC Joint Seminar is confirmed! We will meet in person
 at SFU Harbour Centre on Saturday, November 19. See the [Joint Seminar homepage](http://www.sfu.ca/~rennyd/JointSeminar2022/) for 
 more information. To register as a presenter from UBC, contact Nikola, Naitong, or Chloe.
 - **[October 15, 2022]** There will be a Movie Night in the ESB on November 1st at 7 pm. See the Slack channel to vote on a movie 
 or let Charlotte/Silke know!
-- **[October 14, 2022]** Taco Thursday at La Taqueria is coming up on October 20th at 5:30 pm!
-React with the taco emoji on Slack in the #social channel if you are planning to join or let Gian Carlo know. 
 
 
 Older news can be found in the [archive](./news-archive).
@@ -39,4 +41,4 @@ Older news can be found in the [archive](./news-archive).
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: October 15, 2022
+Last updated: October 28, 2022

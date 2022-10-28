@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Van Eeden seminar
+title: van Eeden seminar
 ---
 
 # Dr. Constance van Eeden seminar
@@ -11,6 +11,13 @@ The winner is contacted by the organizing committee and invited
 to give a talk in the department's seminar.
 The speaker spends one or two days on-campus,
 and graduate students have the opportunity to have lunch and dinner with them.
+
+## This year's speaker
+
+We have some exciting news---the Constance van Eeden Speaker for 2023 will be [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) of Google!
+Dr. Murphy will visit our department on Thursday, February 2nd, 2023. He will give a lecture on a soon-to-be-decided topic, 
+and hold short meetings with any interested student. We will follow up with more details closer to the date. Please contact David Xu
+or Miguel for more information.
 
 
 ## About
@@ -33,6 +40,7 @@ to learn more!
 
 ## Previous presenters
 
+- [2022] [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/)
 - [2022] [Dr. Tamara Broderick](https://tamarabroderick.com/).
 More  info [here](vaneeden/2022-broderick)
 - [2021] [Dr. Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/)
@@ -48,4 +56,4 @@ More  info [here](vaneeden/2022-broderick)
 - [2013] [Dr. Gavin Shaddick](http://empslocal.ex.ac.uk/people/staff/gs454/)
 - [2012] [Dr. Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)
 
-Last updated: March 24, 2022
+Last updated: October 28, 2022
