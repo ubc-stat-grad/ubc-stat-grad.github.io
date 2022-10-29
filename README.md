@@ -1,4 +1,4 @@
-# UBC statistics graduate student association
+# UBC Statistics Graduate Student Association (SGSA)
 
 This repo contains the code to generate the website of the UBC statistics
 graduate student association.
