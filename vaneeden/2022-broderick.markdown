@@ -1,6 +1,6 @@
 ---
 layout: vaneeden
-title: Van Eeden seminar 2022
+title: van Eeden seminar 2022
 ---
 
 # 2022 van Eeden seminar
