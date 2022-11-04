@@ -5,6 +5,8 @@ title: News archive
 
 # News archive
 
+- **[October 15, 2022]** There will be a Movie Night in the ESB on November 1st at 7 pm. See the Slack channel to vote on a movie 
+or let Charlotte/Silke know!
 - **[October 14, 2022]** Taco Thursday at La Taqueria is coming up on October 20th at 5:30 pm!
 React with the taco emoji on Slack in the #social channel if you are planning to join or let Gian Carlo know. 
 - **[September 28, 2022]** We will be having a dinner on Friday, October 7th around 6pm in Richmond.
@@ -41,4 +43,4 @@ who will give a talk about finite-sample robustness!
 - **[Sep. 7, 2021]** Welcome to the Fall 2021 term!
 
 
-Last updated: October 28, 2022
+Last updated: November 4, 2022

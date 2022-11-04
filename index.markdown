@@ -17,6 +17,8 @@ Enjoy!
 
 ## Recent news
 
+- **[November 4, 2022]** The Society of Actuaries (SOA) is holding an actuarial event on campus for UBC students on Tuesday, November 15, 2022.
+The event will take place from 5:30 to 8:00 PM. Please see the latest email for registration details!
 - **[October 28, 2022]** We have some exciting news---the Constance van Eeden Speaker for 2023 will be [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) of Google!
 Dr. Murphy will visit our department on Thursday, February 2nd, 2023. He will give a lecture on a soon-to-be-decided topic, 
 and hold short meetings with any interested student. We will follow up with more details closer to the date. Please contact David Xu
@@ -24,8 +26,7 @@ or Miguel for more information.
 - **[October 15, 2022]** The date of the Fall 2022 SFU/UBC Joint Seminar is confirmed! We will meet in person
 at SFU Harbour Centre on Saturday, November 19. See the [Joint Seminar homepage](http://www.sfu.ca/~rennyd/JointSeminar2022/) for 
 more information. To register as a presenter from UBC, contact Nikola, Naitong, or Chloe.
-- **[October 15, 2022]** There will be a Movie Night in the ESB on November 1st at 7 pm. See the Slack channel to vote on a movie 
-or let Charlotte/Silke know!
+
 
 
 Older news can be found in the [archive](./news-archive).
@@ -41,4 +42,4 @@ Older news can be found in the [archive](./news-archive).
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: October 28, 2022
+Last updated: November 4, 2022
