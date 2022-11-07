@@ -24,7 +24,7 @@ for a food voucher giveaway.-->
 
 **Interested in presenting at a graduate seminar?**
 We are always looking for presenters! If you are interested,
-contact the [graduate seminar organizers](./grad-duties.html).
+contact the [graduate seminar organizers](./grad-positions.html).
 
 <div class="span9">
 	<h2>Calendar of upcoming seminars:</h2>

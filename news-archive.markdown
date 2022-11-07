@@ -13,7 +13,7 @@ React with the taco emoji on Slack in the #social channel if you are planning to
 Email gian "dot" diluvi "at" stat.ubc.ca or reply to the thread on Slack in the #social channel if you are interested! 
 - **[September 9, 2022]** We are looking for volunteers to help out with SGSA events. Email gian "dot" diluvi "at" stat.ubc.ca ASAP if
 you are interested! We will meet on Thursday, September 15 at 3 pm to discuss some logistics. Please see the [list of possible volunteer positions](./files/2022_sgsa_volunteers.pdf).
-- **[September 6, 2022]** Welcome to the 2022-2023 academic year! Check out our [available SGSA positions for the year](./grad-duties)!
+- **[September 6, 2022]** Welcome to the 2022-2023 academic year! Check out our [available SGSA positions for the year](./grad-positions)!
 - **[August 17, 2022]** The Department of Statistics Day Trip will take place on Sunday, September 4th at Lynn Canyon park!
 - **[August 10, 2022]** The Short Term Consulting Service is looking for consultants!
 See [here](./consulting) for more details!
