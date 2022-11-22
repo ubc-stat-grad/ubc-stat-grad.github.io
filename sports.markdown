@@ -44,7 +44,7 @@ If you want to join the team, reach out to
 The matches usually take place during the weekends or weekday evenings,
 and we play against other teams within UBC.
 
-![Mean Squared Terrors](img/mst.png)
+![Mean Squared Terrors](img/mst.jpeg)
 
 
 ## Volleyball

@@ -23,7 +23,7 @@ If you need anything, feel free to contact them.
 
 <div id="images">
 <figure>
-	<a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi"><img src="img/giancarlo.png" width="150" alt=""></a>
+	<a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi"><img src="img/giancarlo.jpeg" width="150" alt=""></a>
 	<figcaption><a href="https://www.stat.ubc.ca/users/gian-carlo-di-luvi">Gian Carlo</a></figcaption>
 	<figcaption>Graduate student representative</figcaption>
 </figure>
@@ -35,14 +35,14 @@ If you need anything, feel free to contact them.
 <div id="images">
 	<div style="width:50%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/kenny-chiu"><img src="img/kenny.png" width="150" alt=""></a>
+			<a href="https://www.stat.ubc.ca/users/kenny-chiu"><img src="img/kenny.jpeg" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/kenny-chiu">Kenny</a></figcaption>
 			<figcaption>Treasurer</figcaption>
 		</figure>
 	</div>
 	<div style="width:50%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/nikola-surjanovic"><img src="img/nikola.png" width="150" alt=""></a>
+			<a href="https://www.stat.ubc.ca/users/nikola-surjanovic"><img src="img/nikola.jpeg" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/nikola-surjanovic">Nikola</a></figcaption>
 			<figcaption>Webmaster</figcaption>
 		</figure>
