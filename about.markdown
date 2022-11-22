@@ -43,7 +43,7 @@ If you need anything, feel free to contact them.
 	<div style="width:50%">
 		<figure>
 			<a href="https://www.stat.ubc.ca/users/nikola-surjanovic"><img src="img/nikola.jpeg" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/nikola-surjanovic">Nikola</a></figcaption>
+			<figcaption><a href="https://www.stat.ubc.ca/users/nikola-surjanovic">Nikolas</a></figcaption>
 			<figcaption>Webmaster</figcaption>
 		</figure>
 	</div>
