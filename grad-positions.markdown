@@ -16,7 +16,7 @@ contact the Graduate Student Representative to see how you can get involved!
 | Position/activity | People in charge | Available positions |
 | ----------------- | ---------------- | ------------------- |
 | Fundraiser | | **2--3** |
-| Union Rep	| | **1** |
+| [Union Rep](https://www.cupe2278.ca/)	| | **1** |
 | Social Committee | [Silke](https://www.stat.ubc.ca/users/silke-sophia-rice)<br/>[Charlotte](https://www.stat.ubc.ca/users/charlotte-edgar) | **Always open!** |
 
 **Fundraiser**
