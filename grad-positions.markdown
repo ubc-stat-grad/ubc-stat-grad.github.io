@@ -17,6 +17,7 @@ contact the Graduate Student Representative to see how you can get involved!
 | ----------------- | ---------------- | ------------------- |
 | Fundraiser | | **2--3** |
 | [Union Rep](https://www.cupe2278.ca/)	| | **1** |
+| USS Coordinator	| | **1-2** |
 | Social Committee | [Silke](https://www.stat.ubc.ca/users/silke-sophia-rice)<br/>[Charlotte](https://www.stat.ubc.ca/users/charlotte-edgar) | **Always open!** |
 
 **Fundraiser**
