@@ -43,6 +43,14 @@ Funding available! The end-of-term hangouts are fully funded by SGSA, and additi
 funding is available for each hangout (depending on the number of events, we might be
 able to cover part or all of the bill).
 
+**USS Coordinator**
+*Volunteers needed:* 1 \\
+*Duties:* be the liaison between the SGSA and the USS (Undergraduate Statistics Society) at UBC. 
+Duties would likely involve being the person of contact for the USS, attending meetings 
+with USS executives as necessary, and organizing/finding volunteers to organize events held 
+in collaboration with the USS. Examples of possible events include a ``Meet a Grad Student'' 
+session for statistics undergraduates and research/co-op flash talk sessions.
+
 
 ## Filled positions
 
