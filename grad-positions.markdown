@@ -20,7 +20,7 @@ contact the Graduate Student Representative to see how you can get involved!
 | USS Coordinator	| | **1-2** |
 | Social Committee | [Silke](https://www.stat.ubc.ca/users/silke-sophia-rice)<br/>[Charlotte](https://www.stat.ubc.ca/users/charlotte-edgar) | **Always open!** |
 
-**Fundraiser**
+**Fundraiser** \\
 *Volunteers needed:* 2-3 \\
 *Duties:* organize fundraising events for the SGSA. In the past these took the form of
 exam sales: sample finals were created and sold to undergrads. This year, we are open
@@ -28,12 +28,12 @@ to other fundraising ideas as well. The results of your work would have a direct
 the budget available for other SGSA events.
 
 
-**Union Rep**
+**Union Rep** \\
 *Volunteers needed:* 1 \\
 *Duties:* be the liaison between the SGSA and CUPE 2278, the TA union. Your duties
 would be to go to CUPE meetings and advise SGSA/stats office if needed.
 
-**Social Committee**
+**Social Committee** \\
 *Volunteers needed:* 2-3 minimum, but always open! \\
 *Duties:* i) organize semi-regular social hangouts. These can range from ordering sushi to
 eat at the department, to going out for dinner somewhere in Vancouver, to organizing a
@@ -43,7 +43,7 @@ Funding available! The end-of-term hangouts are fully funded by SGSA, and additi
 funding is available for each hangout (depending on the number of events, we might be
 able to cover part or all of the bill).
 
-**USS Coordinator**
+**USS Coordinator** \\
 *Volunteers needed:* 1 \\
 *Duties:* be the liaison between the SGSA and the USS (Undergraduate Statistics Society) at UBC. 
 Duties would likely involve being the person of contact for the USS, attending meetings 
