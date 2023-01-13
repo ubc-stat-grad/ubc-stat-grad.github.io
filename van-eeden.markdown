@@ -38,6 +38,11 @@ and giving out admissions awards to promising graduate students.
 See the [department's webpage](https://www.stat.ubc.ca/constance-van-eeden-fund)
 to learn more!
 
+## Sponsors
+
+The 2023 van Eeden seminar is additionally supported by the
+[CANSSI Distinguished Visitor Program](https://canssi.ca/program/distinguished-visitor-program/).
+
 ## Previous presenters
 
 - [2022] [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/)
