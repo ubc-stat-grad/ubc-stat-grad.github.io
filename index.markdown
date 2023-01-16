@@ -17,15 +17,15 @@ Enjoy!
 
 ## Recent news
 
-- **[November 4, 2022]** The Society of Actuaries (SOA) is holding an actuarial event on campus for UBC students on Tuesday, November 15, 2022.
-The event will take place from 5:30 to 8:00 PM. Please see the latest email for registration details!
-- **[October 28, 2022]** We have some exciting news---the Constance van Eeden Speaker for 2023 will be [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) of Google!
-Dr. Murphy will visit our department on Thursday, February 2nd, 2023. He will give a lecture on a soon-to-be-decided topic, 
-and hold short meetings with any interested student. We will follow up with more details closer to the date. Please contact David Xu
+- **[January 16, 2023]** We have some exciting news---the Constance van Eeden Speaker for 2023 will be [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) of Google!
+Dr. Murphy will visit our department on Thursday, February 2nd at 11 am. He will give a lecture and hold short meetings 
+with any interested student. We will follow up with more details closer to the date. Please contact David Xu
 or Miguel for more information.
-- **[October 15, 2022]** The date of the Fall 2022 SFU/UBC Joint Seminar is confirmed! We will meet in person
-at SFU Harbour Centre on Saturday, November 19. See the [Joint Seminar homepage](http://www.sfu.ca/~rennyd/JointSeminar2022/) for 
-more information. To register as a presenter from UBC, contact Nikola, Naitong, or Chloe.
+- **[January 13, 2023]** The UBC/SFU Joint Statistics Seminar is jointly hosted by the graduate students of the UBC Department of Statistics and the SFU Department of Statistics and Actuarial Science. The fall event is organized by graduate students from SFU while the spring event is organized by graduate students from UBC.
+This term, the UBC-SFU joint seminar is happening in-person on March 4th (Saturday). The event is planned to include talks given by six students (three from UBC and three from SFU) and one faculty member from UBC. The presentation does not need to be formal, and can be based on work-in-progress research or statistical work-related talks. If you are interested in presenting, please feel free to reach out to Chloe, Naitong, or Nikola! The event website is https://ubc-sfu-seminar-2023.github.io.
+- **[January 9, 2023]** Welcome to the new term! The SGSA team wishes you the best in the coming year :)
+
+
 
 
 
@@ -42,4 +42,4 @@ Older news can be found in the [archive](./news-archive).
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: November 4, 2022
+Last updated: January 16, 2023
