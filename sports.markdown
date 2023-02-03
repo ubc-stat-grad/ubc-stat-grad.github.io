@@ -16,6 +16,12 @@ either as a group just to have fun or in a departmental team as part of a league
 </div><!--/span-->
 <br/>
 
+## Table tennis
+
+Table tennis is happening on Fridays at 4 pm! Players usually arrive early
+to help set up the table tennis table. Contact David Xu for more information.
+
+
 ## Running
 
 We run 5 kilometres on Mondays, starting at 8 am. We meet in front of ESB and usually end at a
