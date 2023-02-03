@@ -62,13 +62,6 @@ Join the *#volleyball* channel on Slack if you want to come!
 Or ask [Chloe](https://www.stat.ubc.ca/users/xinyuan-chloe-you) for more info.
 
 
-## Table tennis
-
-We also have table tennis matches during the afternoons.
-These usually happen in room ESB 4192, but shoot an email to
-[Lang](https://www.stat.ubc.ca/users/lang-wu) for more information.
-
-
 ## Cycling
 
 We always partake in [HUB Cycling](https://bikehub.ca/)'s
