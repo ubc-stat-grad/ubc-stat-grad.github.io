@@ -13,7 +13,7 @@ The speaker spends one or two days on-campus,
 and graduate students have the opportunity to have lunch and dinner with them.
 
 ## This year's speaker
-**Update**: The recording for this year's van Eeden seminar is now available: https://youtu.be/b5amDncmm68!
+**Update**: The [recording for this year's van Eeden seminar](https://youtu.be/b5amDncmm68) is now available!
 
 We have some exciting news---the Constance van Eeden Speaker for 2023 will be [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) of Google!
 Dr. Murphy will visit our department on Thursday, February 2nd, 2023. He will give a lecture on a soon-to-be-decided topic, 

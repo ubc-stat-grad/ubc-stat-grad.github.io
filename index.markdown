@@ -17,7 +17,7 @@ Enjoy!
 
 ## Recent news
 
-- **[February 6, 2023]** The recording for this year's van Eeden seminar is now available: https://youtu.be/b5amDncmm68!
+- **[February 6, 2023]** The [recording for this year's van Eeden seminar](https://youtu.be/b5amDncmm68) is now available!
 - **[February 6, 2023]** Table tennis is happening on Fridays at 4 pm! Players usually arrive early
 to help set up the table tennis table. Contact David Xu for more information.
 - **[January 16, 2023]** We have some exciting news---the Constance van Eeden Speaker for 2023 will be [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) of Google!
