@@ -5,6 +5,10 @@ title: News archive
 
 # News archive
 
+- **[January 13, 2023]** The UBC/SFU Joint Statistics Seminar is jointly hosted by the graduate students of the UBC Department of Statistics and the SFU Department of Statistics and Actuarial Science. The fall event is organized by graduate students from SFU while the spring event is organized by graduate students from UBC.
+This term, the UBC-SFU joint seminar is happening in-person on March 4th (Saturday). The event is planned to include talks given by six students (three from UBC and three from SFU) and one faculty member from UBC. The presentation does not need to be formal, and can be based on work-in-progress research or statistical work-related talks. If you are interested in presenting, please feel free to reach out to Chloe, Naitong, or Nikola! Please visit [the event website](https://ubc-sfu-seminar-2023.github.io) for more details.
+- **[January 9, 2023]** Welcome to the new term! The SGSA team wishes you the best in the coming year :) Please check the 
+[Graduate Positions](./grad-positions) page for information about available positions in the coming term!
 - **[November 4, 2022]** The Society of Actuaries (SOA) is holding an actuarial event on campus for UBC students on Tuesday, November 15, 2022.
 The event will take place from 5:30 to 8:00 PM. Please see the latest email for registration details!
 - **[October 28, 2022]** We have some exciting news---the Constance van Eeden Speaker for 2023 will be [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) of Google!
@@ -52,4 +56,4 @@ who will give a talk about finite-sample robustness!
 - **[Sep. 7, 2021]** Welcome to the Fall 2021 term!
 
 
-Last updated: November 4, 2022
+Last updated: February 6, 2023
