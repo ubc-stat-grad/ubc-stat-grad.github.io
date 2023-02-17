@@ -17,11 +17,13 @@ while the Spring (commonly in late February) seminar is hosted by UBC.
 
 ## Upcoming seminar
 
-The date of the Fall 2022 SFU/UBC Joint Seminar is confirmed! We will meet in person
-at SFU Harbour Centre on Saturday, November 19. See the [Joint Seminar homepage](http://www.sfu.ca/~rennyd/JointSeminar2022/) for 
-more information. To register as a presenter from UBC, contact Nikola, Naitong, or Chloe.
+The date of the Spring 2023 UBC/SFU Joint Seminar is confirmed! We will meet in person
+at SFU Harbour Centre on Saturday, March 4. 
+See the [Joint Seminar homepage](https://ubc-sfu-seminar-2023.github.io/) for 
+more information.
 
 ## Previously hosted seminars
+- [Fall 2022 Joint Seminar (SFU)](http://www.sfu.ca/~rennyd/JointSeminar2022/)
 - [Spring 2022 Joint Seminar (UBC)](https://ubc-sfu-joint-stat-seminar-spring-2022.github.io/)
 - [Fall 2021 Joint Seminar (SFU)](https://www.sfu.ca/~rennyd/JointSeminar2021/)
 - [Spring 2021 Joint Seminar (UBC)](https://www.stat.ubc.ca/~kenny.chiu/jointseminar/spring2021/)
@@ -30,4 +32,4 @@ more information. To register as a presenter from UBC, contact Nikola, Naitong, 
 - Fall 2019 Joint Seminar (SFU) (webpage deleted)
 - [Spring 2019 Joint Seminar (UBC)](https://www.stat.ubc.ca/~qiong.zhang/misc/JointSeminar2018.html)
 
-Last updated: October 15, 2022
+Last updated: February 16, 2023
