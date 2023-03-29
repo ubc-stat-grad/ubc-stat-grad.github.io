@@ -15,11 +15,6 @@ and graduate students have the opportunity to have lunch and dinner with them.
 ## This year's speaker
 **Update**: The [recording for this year's van Eeden seminar](https://youtu.be/b5amDncmm68) is now available!
 
-We have some exciting news---the Constance van Eeden Speaker for 2023 will be [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) of Google!
-Dr. Murphy will visit our department on Thursday, February 2nd, 2023. He will give a lecture on a soon-to-be-decided topic, 
-and hold short meetings with any interested student. We will follow up with more details closer to the date. Please contact David Xu
-or Miguel for more information.
-
 
 ## About
 
@@ -62,4 +57,4 @@ More  info [here](vaneeden/2022-broderick)
 - [2013] [Dr. Gavin Shaddick](http://empslocal.ex.ac.uk/people/staff/gs454/)
 - [2012] [Dr. Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)
 
-Last updated: February 6, 2023
+Last updated: March 29, 2023

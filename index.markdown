@@ -17,6 +17,9 @@ Enjoy!
 
 ## Recent news
 
+- **[March 29, 2023]** At next week's graduate student seminar on April 5, Gian Carlo Diluvi will give a talk on how to: ``Smartly use your health insurance as a graduate student''.
+- **[March 22, 2023]** Olivia Liu will give a talk at this week's graduate student seminar: ``Proximal Algorithms for Trend Filtering''.
+- **[March 1, 2023]** The UBC-SFU Joint seminar is happening this Saturday! Visit [the event homepage](https://ubc-sfu-seminar-2023.github.io/) for more information.
 - **[February 13, 2023]** Johnny Xi will be giving a talk at this week's graduate student seminar: ``Directed Graphical Models and Causal Discovery''.
 Please join us at 11 am on Thursday, February 16th to learn more about graphical models (and get some free food).
 - **[February 6, 2023]** The [recording for this year's van Eeden seminar](https://youtu.be/b5amDncmm68) is now available!
@@ -38,4 +41,4 @@ Older news can be found in the [archive](./news-archive).
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: February 13, 2023
+Last updated: March 29, 2023
