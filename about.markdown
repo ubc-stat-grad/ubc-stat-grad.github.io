@@ -49,6 +49,29 @@ If you need anything, feel free to contact them.
 	</div>
 </div>
 
+<div id="images">
+	<div style="width:33%">
+		<figure>
+			<a href="https://www.stat.ubc.ca/users/kenny-chiu"><img src="img/kenny.jpg" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/kenny-chiu">Kenny</a></figcaption>
+			<figcaption>Treasurer</figcaption>
+		</figure>
+	</div>
+	<div style="width:33%">
+		<figure>
+			<a href="https://www.stat.ubc.ca/users/nikola-surjanovic"><img src="img/nikola.jpg" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/nikola-surjanovic">Nikola</a></figcaption>
+			<figcaption>Webmaster</figcaption>
+		</figure>
+	</div>
+	<div style="width:33%">
+		<figure>
+			<a href="https://www.stat.ubc.ca/users/nikola-surjanovic"><img src="img/nikola.jpg" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/nikola-surjanovic">Nikola</a></figcaption>
+			<figcaption>Webmaster</figcaption>
+		</figure>
+	</div>
+</div>
 
 If you want to make a suggestion to the website, open an issue on the [Github repo](https://github.com/ubc-stat-grad/ubc-stat-grad.github.io).
 
