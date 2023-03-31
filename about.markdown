@@ -109,7 +109,7 @@ If you need anything, feel free to contact them.
 		<figure>
 			<a href="https://www.stat.ubc.ca/users/silke-sophia-rice"><img src="img/anon.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/silke-sophia-rice">Silke</a></figcaption>
-			<figcaption>Social Comittee</figcaption>
+			<figcaption>Social Committee</figcaption>
 		</figure>
 	</div>
 	<div style="width:33%">
