@@ -33,25 +33,18 @@ If you need anything, feel free to contact them.
 
 
 <div id="images">
-	<div style="width:33%">
+	<div style="width:50%">
 		<figure>
 			<a href="https://www.stat.ubc.ca/users/kenny-chiu"><img src="img/kenny.jpg" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/kenny-chiu">Kenny</a></figcaption>
 			<figcaption>Treasurer</figcaption>
 		</figure>
 	</div>
-	<div style="width:33%">
+	<div style="width:50%">
 		<figure>
 			<a href="https://www.stat.ubc.ca/users/nikola-surjanovic"><img src="img/nikola.jpg" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/nikola-surjanovic">Nikola</a></figcaption>
-			<figcaption>Webmaster + UBC/SFU Joint Seminar</figcaption>
-		</figure>
-	</div>
-	<div style="width:33%">
-		<figure>
-			<a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi"><img src="img/johnny.png" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi">Johnny</a></figcaption>
-			<figcaption>Graduate student seminars + Grad trip</figcaption>
+			<figcaption>Webmaster + Joint Seminar</figcaption>
 		</figure>
 	</div>
 </div>
@@ -61,14 +54,14 @@ If you need anything, feel free to contact them.
 		<figure>
 			<a href="https://www.stat.ubc.ca/users/jiapingolivia-liu"><img src="img/olivia.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/jiapingolivia-liu">Olivia</a></figcaption>
-			<figcaption>Graduate student seminars</figcaption>
+			<figcaption>Grad seminars</figcaption>
 		</figure>
 	</div>
 	<div style="width:33%">
 		<figure>
 			<a href="https://www.stat.ubc.ca/users/yixin-izzy-zhang"><img src="img/anon.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/yixin-izzy-zhang">Izzy</a></figcaption>
-			<figcaption>Graduate student seminars</figcaption>
+			<figcaption>Grad seminars</figcaption>
 		</figure>
 	</div>
 	<div style="width:33%">
@@ -92,19 +85,26 @@ If you need anything, feel free to contact them.
 		<figure>
 			<a href="https://www.stat.ubc.ca/users/xinyuan-chloe-you"><img src="img/chloe.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/xinyuan-chloe-you">Chloe</a></figcaption>
-			<figcaption>UBC/SFU Joint Seminar</figcaption>
+			<figcaption>Joint Seminar</figcaption>
 		</figure>
 	</div>
 	<div style="width:33%">
 		<figure>
 			<a href="https://www.stat.ubc.ca/users/naitong-chen"><img src="img/naitong.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/naitong-chen">Naitong</a></figcaption>
-			<figcaption>UBC/SFU Joint Seminar + Grad trip</figcaption>
+			<figcaption>Joint Seminar + Grad trip</figcaption>
 		</figure>
 	</div>
 </div>
 
 <div id="images">
+	<div style="width:33%">
+		<figure>
+			<a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi"><img src="img/johnny.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi">Johnny</a></figcaption>
+			<figcaption>Grad seminars + Grad trip</figcaption>
+		</figure>
+	</div>
 	<div style="width:33%">
 		<figure>
 			<a href="https://www.stat.ubc.ca/users/silke-sophia-rice"><img src="img/anon.png" width="150" alt=""></a>
