@@ -114,7 +114,7 @@ If you need anything, feel free to contact them.
 	</div>
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/charlotte-edgar"><img src="img/anon.png" width="150" alt=""></a>
+			<a href="https://www.stat.ubc.ca/users/charlotte-edgar"><img src="img/charlotte.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/charlotte-edgar">Charlotte</a></figcaption>
 			<figcaption>Social Committee</figcaption>
 		</figure>
