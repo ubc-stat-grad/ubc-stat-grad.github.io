@@ -59,7 +59,7 @@ If you need anything, feel free to contact them.
 	</div>
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/yixin-izzy-zhang"><img src="img/anon.png" width="150" alt=""></a>
+			<a href="https://www.stat.ubc.ca/users/yixin-izzy-zhang"><img src="img/izzy.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/yixin-izzy-zhang">Izzy</a></figcaption>
 			<figcaption>Grad Seminars</figcaption>
 		</figure>
@@ -107,7 +107,7 @@ If you need anything, feel free to contact them.
 	</div>
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/silke-sophia-rice"><img src="img/anon.png" width="150" alt=""></a>
+			<a href="https://www.stat.ubc.ca/users/silke-sophia-rice"><img src="img/silke.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/silke-sophia-rice">Silke</a></figcaption>
 			<figcaption>Social Committee</figcaption>
 		</figure>
