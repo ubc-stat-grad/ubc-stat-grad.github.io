@@ -24,10 +24,15 @@ to help set up the table tennis table. Contact David Xu for more information.
 
 ## Running
 
-We run 5 kilometres on Mondays, starting at 8 am. We meet in front of ESB and usually end at a
-coffee shop on campus. Running is at tempo (no drop) pace, but still slow enough so that
-everyone has a good time!
-Contact [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) if you want to join!
+We run semi-regularly around UBC, especially on the sunny months. 
+We meet in front of ESB and usually end at a coffee shop on campus. 
+During weekdays, we usually run between 5km and 8km either before or after work.
+On the weekends, we sometimes do longer runs 
+(like UBC to downtown or long runs in the trails of Pacific Spirit Park).
+Runs are at a casual/no drop pace, 
+i.e., slow enough so that everyone has a good time!
+Contact [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) 
+if you want to join!
 
 ![Old Marine Drive lookout](img/running.jpg)
 
