@@ -121,6 +121,16 @@ If you need anything, feel free to contact them.
 	</div>
 </div>
 
+<div id="images">
+	<div style="width:33%">
+		<figure>
+			<a href="https://www.stat.ubc.ca/users/graeme-kempf"><img src="img/graeme.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/graeme-kempf">Charlotte</a></figcaption>
+			<figcaption>Union Representative</figcaption>
+		</figure>
+	</div>
+</div>
+
 If you want to make a suggestion to the website, open an issue on the [Github repo](https://github.com/ubc-stat-grad/ubc-stat-grad.github.io).
 
 

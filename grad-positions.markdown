@@ -16,7 +16,6 @@ contact the Graduate Student Representative to see how you can get involved!
 | Position/activity | People in charge | Available positions |
 | ----------------- | ---------------- | ------------------- |
 | Fundraiser | | **2--3** |
-| [Union Rep](https://www.cupe2278.ca/)	| | **1** |
 | USS Coordinator	| | **1-2** |
 | Social Committee | [Silke](https://www.stat.ubc.ca/users/silke-sophia-rice)<br/>[Charlotte](https://www.stat.ubc.ca/users/charlotte-edgar) | **Always open!** |
 
@@ -26,12 +25,6 @@ contact the Graduate Student Representative to see how you can get involved!
 exam sales: sample finals were created and sold to undergrads. This year, we are open
 to other fundraising ideas as well. The results of your work would have a direct impact on
 the budget available for other SGSA events.
-
-
-**Union Rep** \\
-*Volunteers needed:* 1 \\
-*Duties:* be the liaison between the SGSA and CUPE 2278, the TA union. Your duties
-would be to go to CUPE meetings and advise SGSA/stats office if needed.
 
 **Social Committee** \\
 *Volunteers needed:* 2-3 minimum, but always open! \\
@@ -65,4 +58,4 @@ session for statistics undergraduates and research/co-op flash talk sessions.
 | Graduate Trip / Icebreaker | [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi)<br/>[Naitong](https://www.stat.ubc.ca/users/naitong-chen) | |
 
 
-Last updated: January 2, 2023
+Last updated: April 17, 2023
