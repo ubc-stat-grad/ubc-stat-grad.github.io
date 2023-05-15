@@ -35,4 +35,4 @@ Older news can be found in the [archive](./news-archive).
 There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
 
 
-Last updated: March 29, 2023
+Last updated: May 15, 2023
