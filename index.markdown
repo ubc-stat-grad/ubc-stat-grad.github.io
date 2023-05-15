@@ -17,8 +17,8 @@ Enjoy!
 
 ## Recent news
 
-- **[March 29, 2023]** At next week's graduate student seminar on April 5, Gian Carlo Diluvi will give a talk on how to: ``Smartly use your health insurance as a graduate student''.
-- **[March 22, 2023]** Olivia Liu will give a talk at this week's graduate student seminar: ``Proximal Algorithms for Trend Filtering''.
+- **[March 29, 2023]** At next week's graduate student seminar on April 5, Gian Carlo Diluvi will give a talk on how to: "Smartly use your health insurance as a graduate student".
+- **[March 22, 2023]** Olivia Liu will give a talk at this week's graduate student seminar: "Proximal Algorithms for Trend Filtering".
 - **[March 1, 2023]** The UBC-SFU Joint seminar is happening this Saturday! Visit [the event homepage](https://ubc-sfu-seminar-2023.github.io/) for more information.
 
 
