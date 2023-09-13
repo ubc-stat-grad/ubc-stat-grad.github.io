@@ -66,13 +66,6 @@ If you need anything, feel free to contact them.
 	</div>
 	<div style="width:33%">
 		<figure>
-			<img src="img/Joey.png" width="150" alt="">
-			<figcaption>Joey</figcaption>
-			<figcaption>Grad Seminars</figcaption>
-		</figure>
-	</div>
-	<div style="width:33%">
-		<figure>
 			<a href="https://www.stat.ubc.ca/users/nikola-surjanovic"><img src="img/nikola.jpg" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/nikola-surjanovic">Nikola</a></figcaption>
 			<figcaption>van Eeden Seminar</figcaption>
@@ -134,6 +127,13 @@ If you need anything, feel free to contact them.
 			<a href="https://www.stat.ubc.ca/users/graeme-kempf"><img src="img/graeme.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/graeme-kempf">Graeme</a></figcaption>
 			<figcaption>Union Representative</figcaption>
+		</figure>
+	</div>
+	<div style="width:33%">
+		<figure>
+			<img src="img/joey.png" width="150" alt="">
+			<figcaption>Joey</figcaption>
+			<figcaption>Grad Seminars</figcaption>
 		</figure>
 	</div>
 </div>
