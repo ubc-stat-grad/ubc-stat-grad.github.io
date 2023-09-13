@@ -66,8 +66,15 @@ If you need anything, feel free to contact them.
 	</div>
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/miguel-biron-lattes"><img src="img/miguel.png" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/miguel-biron-lattes">Miguel</a></figcaption>
+			<img src="img/Joey.png" width="150" alt="">
+			<figcaption>Joey</figcaption>
+			<figcaption>Grad Seminars</figcaption>
+		</figure>
+	</div>
+	<div style="width:33%">
+		<figure>
+			<a href="https://www.stat.ubc.ca/users/nikola-surjanovic"><img src="img/nikola.jpg" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/nikola-surjanovic">Nikola</a></figcaption>
 			<figcaption>van Eeden Seminar</figcaption>
 		</figure>
 	</div>
@@ -134,4 +141,4 @@ If you need anything, feel free to contact them.
 If you want to make a suggestion to the website, open an issue on the [Github repo](https://github.com/ubc-stat-grad/ubc-stat-grad.github.io).
 
 
-Last updated: March 30, 2023
+Last updated: September 13, 2023
