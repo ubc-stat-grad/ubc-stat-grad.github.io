@@ -44,7 +44,7 @@ If you need anything, feel free to contact them.
 		<figure>
 			<a href="https://www.stat.ubc.ca/users/nikola-surjanovic"><img src="img/nikola.jpg" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/nikola-surjanovic">Nikola</a></figcaption>
-			<figcaption>Webmaster + Joint Seminar</figcaption>
+			<figcaption>Webmaster + van Eeden Seminar</figcaption>
 		</figure>
 	</div>
 </div>
@@ -59,16 +59,16 @@ If you need anything, feel free to contact them.
 	</div>
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/yixin-izzy-zhang"><img src="img/izzy.png" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/yixin-izzy-zhang">Izzy</a></figcaption>
+			<a href="https://www.stat.ubc.ca/users/joey-hotz"><img src="img/joey.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/joey-hotz">Joey</a></figcaption>
 			<figcaption>Grad Seminars</figcaption>
 		</figure>
 	</div>
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/nikola-surjanovic"><img src="img/nikola.jpg" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/nikola-surjanovic">Nikola</a></figcaption>
-			<figcaption>van Eeden Seminar</figcaption>
+			<a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi"><img src="img/johnny.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi">Johnny</a></figcaption>
+			<figcaption>Grad Seminars</figcaption>
 		</figure>
 	</div>
 </div>
@@ -83,16 +83,16 @@ If you need anything, feel free to contact them.
 	</div>
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/xinyuan-chloe-you"><img src="img/chloe.png" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/xinyuan-chloe-you">Chloe</a></figcaption>
-			<figcaption>Joint Seminar</figcaption>
+			<a href="https://www.stat.ubc.ca/users/naitong-chen"><img src="img/naitong.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/naitong-chen">Naitong</a></figcaption>
+			<figcaption>Joint Seminar + Grad Trip</figcaption>
 		</figure>
 	</div>
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/naitong-chen"><img src="img/naitong.png" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/naitong-chen">Naitong</a></figcaption>
-			<figcaption>Joint Seminar + Grad Trip</figcaption>
+			<a href="https://www.stat.ubc.ca/users/yuan-xia"><img src="img/lily.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/yuan-xia">Lily</a></figcaption>
+			<figcaption>Grad Trip</figcaption>
 		</figure>
 	</div>
 </div>
@@ -100,9 +100,9 @@ If you need anything, feel free to contact them.
 <div id="images">
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi"><img src="img/johnny.png" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi">Johnny</a></figcaption>
-			<figcaption>Grad Seminars + Grad Trip</figcaption>
+			<a href="https://www.stat.ubc.ca/users/graeme-kempf"><img src="img/graeme.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/graeme-kempf">Graeme</a></figcaption>
+			<figcaption>Union Representative</figcaption>
 		</figure>
 	</div>
 	<div style="width:33%">
@@ -121,24 +121,7 @@ If you need anything, feel free to contact them.
 	</div>
 </div>
 
-<div id="images">
-	<div style="width:33%">
-		<figure>
-			<a href="https://www.stat.ubc.ca/users/graeme-kempf"><img src="img/graeme.png" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/graeme-kempf">Graeme</a></figcaption>
-			<figcaption>Union Representative</figcaption>
-		</figure>
-	</div>
-	<div style="width:33%">
-		<figure>
-			<img src="img/joey.png" width="150" alt="">
-			<figcaption>Joey</figcaption>
-			<figcaption>Grad Seminars</figcaption>
-		</figure>
-	</div>
-</div>
-
 If you want to make a suggestion to the website, open an issue on the [Github repo](https://github.com/ubc-stat-grad/ubc-stat-grad.github.io).
 
 
-Last updated: September 13, 2023
+Last updated: October 3, 2023
