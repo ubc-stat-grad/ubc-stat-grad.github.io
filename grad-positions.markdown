@@ -61,7 +61,7 @@ the budget available for other SGSA events.
 | Graduate Student Representative | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) | 1 |
 | Treasurer | [Kenny](https://www.stat.ubc.ca/users/kenny-chiu) | 1 |
 | Webmaster | [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) | 1 |
-| UBC/SFU Joint Seminars | [Naitong](https://www.stat.ubc.ca/users/naitong-chen) <br/> [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi) <br/> Ning |  |
+| UBC/SFU Joint Seminars | [Naitong](https://www.stat.ubc.ca/users/naitong-chen) <br/> [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi) <br/> [Ning](https://www.stat.ubc.ca/users/ning-shen) |  |
 | Graduate Student Seminars | [Olivia](https://www.stat.ubc.ca/users/jiapingolivia-liu) <br/> [Joey](https://www.stat.ubc.ca/users/joey-hotz) |  |
 | Van Eeden Seminar | [David](https://www.stat.ubc.ca/users/zuheng-david-xu) <br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) | |
 | Graduate Trip / Icebreaker | [Naitong](https://www.stat.ubc.ca/users/naitong-chen) <br/>[Lily](https://www.stat.ubc.ca/users/yuan-xia)| |
