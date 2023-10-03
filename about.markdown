@@ -76,13 +76,6 @@ If you need anything, feel free to contact them.
 <div id="images">
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi"><img src="img/johnny.png" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi">Johnny</a></figcaption>
-			<figcaption>UBC/SFU Seminar</figcaption>
-		</figure>
-	</div>
-	<div style="width:33%">
-		<figure>
 			<a href="https://www.stat.ubc.ca/users/naitong-chen"><img src="img/naitong.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/naitong-chen">Naitong</a></figcaption>
 			<figcaption>UBC/SFU Seminar + Grad Trip</figcaption>
@@ -90,9 +83,16 @@ If you need anything, feel free to contact them.
 	</div>
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/yuan-xia"><img src="img/lily.png" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/yuan-xia">Lily</a></figcaption>
-			<figcaption>Grad Trip</figcaption>
+			<a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi"><img src="img/johnny.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi">Johnny</a></figcaption>
+			<figcaption>UBC/SFU Seminar</figcaption>
+		</figure>
+	</div>
+	<div style="width:33%">
+		<figure>
+			<a href="https://www.stat.ubc.ca/users/ning-shen"><img src="img/anon.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/ning-shen">Ning</a></figcaption>
+			<figcaption>UBC/SFU Seminar</figcaption>
 		</figure>
 	</div>
 </div>
@@ -100,9 +100,9 @@ If you need anything, feel free to contact them.
 <div id="images">
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/graeme-kempf"><img src="img/graeme.png" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/graeme-kempf">Graeme</a></figcaption>
-			<figcaption>Union Representative</figcaption>
+			<a href="https://www.stat.ubc.ca/users/yuan-xia"><img src="img/lily.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/yuan-xia">Lily</a></figcaption>
+			<figcaption>Grad Trip</figcaption>
 		</figure>
 	</div>
 	<div style="width:33%">
@@ -117,6 +117,16 @@ If you need anything, feel free to contact them.
 			<a href="https://www.stat.ubc.ca/users/charlotte-edgar"><img src="img/charlotte.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/charlotte-edgar">Charlotte</a></figcaption>
 			<figcaption>Social Committee</figcaption>
+		</figure>
+	</div>
+</div>
+
+<div id="images">
+	<div style="width:33%">
+		<figure>
+			<a href="https://www.stat.ubc.ca/users/graeme-kempf"><img src="img/graeme.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/graeme-kempf">Graeme</a></figcaption>
+			<figcaption>Union Representative</figcaption>
 		</figure>
 	</div>
 </div>
