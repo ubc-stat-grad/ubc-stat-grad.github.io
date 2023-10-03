@@ -18,6 +18,8 @@ Enjoy!
 ## Recent news
 
 - **[September 25, 2023]** Voting for the 2024 Constance van Eeden Lecture is now open! Please see your email for details. 
+- **[September 1, 2023]** Volunteers needed! Join the SGSA and help organize events. 
+Check [here](./grad-positions) for details.
 - **[July 6, 2023]**  This is a friendly reminder to complete the survey for providing 
   input on the department's strategic direction! You should have received an 
   email that includes the survey link this morning from our department chair.
