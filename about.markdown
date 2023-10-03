@@ -66,9 +66,9 @@ If you need anything, feel free to contact them.
 	</div>
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi"><img src="img/johnny.png" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi">Johnny</a></figcaption>
-			<figcaption>Grad Seminars</figcaption>
+			<a href="https://www.stat.ubc.ca/users/zuheng-david-xu"><img src="img/david.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/zuheng-david-xu">David</a></figcaption>
+			<figcaption>van Eeden Seminar</figcaption>
 		</figure>
 	</div>
 </div>
@@ -76,16 +76,16 @@ If you need anything, feel free to contact them.
 <div id="images">
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/zuheng-david-xu"><img src="img/david.png" width="150" alt=""></a>
-			<figcaption><a href="https://www.stat.ubc.ca/users/zuheng-david-xu">David</a></figcaption>
-			<figcaption>van Eeden Seminar</figcaption>
+			<a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi"><img src="img/johnny.png" width="150" alt=""></a>
+			<figcaption><a href="https://www.stat.ubc.ca/users/quanhan-johnny-xi">Johnny</a></figcaption>
+			<figcaption>UBC/SFU Seminar</figcaption>
 		</figure>
 	</div>
 	<div style="width:33%">
 		<figure>
 			<a href="https://www.stat.ubc.ca/users/naitong-chen"><img src="img/naitong.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/naitong-chen">Naitong</a></figcaption>
-			<figcaption>Joint Seminar + Grad Trip</figcaption>
+			<figcaption>UBC/SFU Seminar + Grad Trip</figcaption>
 		</figure>
 	</div>
 	<div style="width:33%">
