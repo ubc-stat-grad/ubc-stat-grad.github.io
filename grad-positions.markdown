@@ -17,7 +17,6 @@ contact the Graduate Student Representative to see how you can get involved!
 | ----------------- | ---------------- | ------------------- |
 | SGSA Executive Committee | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu)<br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) | **1--3** |
 | USS Coordinator	| New position! | **1-2** |
-| UBC/SFU Joint Seminar | [Naitong](https://www.stat.ubc.ca/users/naitong-chen) | **1** |
 | Social Committee | [Silke](https://www.stat.ubc.ca/users/silke-sophia-rice)<br/>[Charlotte](https://www.stat.ubc.ca/users/charlotte-edgar) | **Always open!** |
 | Fundraiser | | **2--3** |
 
@@ -33,11 +32,6 @@ Duties would likely involve being the person of contact for the USS, attending m
 with USS executives as necessary, and organizing/finding volunteers to organize events held 
 in collaboration with the USS. Examples of possible events include a ``Meet a Grad Student''
 session for statistics undergraduates and research/co-op flash talk sessions.
-
-**UBC/SFU Joint Seminar** \\
-*Volunteers needed:* 1 \\
-*Duties:* organize the biannual UBC/SFU Joint Statistics Student Seminar with the team at SFU. The Fall seminar is primarily organized by the SFU team, while the Spring seminar is primarily organized by the UBC team. Naitong will be co-organizing them with you, so you’ll have someone experienced to learn from. This is a great position to have on your CV as well.\\
-*Funding available!* Funding for the Fall seminar is handled by the SFU team, while the Spring seminar will be funded by SGSA.
 
 
 **Social Committee** \\
@@ -67,7 +61,7 @@ the budget available for other SGSA events.
 | Graduate Student Representative | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) | 1 |
 | Treasurer | [Kenny](https://www.stat.ubc.ca/users/kenny-chiu) | 1 |
 | Webmaster | [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) | 1 |
-| UBC/SFU Joint Seminars | [Naitong](https://www.stat.ubc.ca/users/naitong-chen) <br/> [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi) | 1 |
+| UBC/SFU Joint Seminars | [Naitong](https://www.stat.ubc.ca/users/naitong-chen) <br/> [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi) <br/> Ning |  |
 | Graduate Student Seminars | [Olivia](https://www.stat.ubc.ca/users/jiapingolivia-liu) <br/> [Joey](https://www.stat.ubc.ca/users/joey-hotz) |  |
 | Van Eeden Seminar | [David](https://www.stat.ubc.ca/users/zuheng-david-xu) <br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) | |
 | Graduate Trip / Icebreaker | [Naitong](https://www.stat.ubc.ca/users/naitong-chen) <br/>[Lily](https://www.stat.ubc.ca/users/yuan-xia)| |
