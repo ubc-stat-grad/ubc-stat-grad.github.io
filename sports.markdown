@@ -24,7 +24,7 @@ to help set up the table tennis table. Contact David Xu for more information.
 
 ## Running
 
-We run semi-regularly around UBC, especially on the sunny months. 
+We run semi-regularly around UBC, especially during the sunny months. 
 We meet in front of ESB and usually end at a coffee shop on campus. 
 During weekdays, we usually run between 5km and 8km either before or after work.
 On the weekends, we sometimes do longer runs 
@@ -70,8 +70,7 @@ Or ask [Chloe](https://www.stat.ubc.ca/users/xinyuan-chloe-you) for more info.
 ## Cycling
 
 We always partake in [HUB Cycling](https://bikehub.ca/)'s
-[Go by Bike Week](https://bikehub.ca/bike-events/go-by-bike-week),
-which in Spring 2022 took place from May 30 to June 5.
+[Go by Bike Week](https://bikehub.ca/bike-events/go-by-bike-week).
 Join our team for the next edition and log your kilometers!
 Contact [Mairéad](https://www.stat.ubc.ca/users/mairead-roche) for more information.
 
