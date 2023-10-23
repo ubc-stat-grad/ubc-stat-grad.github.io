@@ -8,8 +8,10 @@ title: Health
 Canada has a universal healthcare system,
 but navigating it as a graduate student can be tricky.
 The good news is that we have created a set of slides to help you!
-You can find them 
-[here](https://docs.google.com/presentation/d/11Bg6SEEGsFH3BHpMaacjt1wXo6ODSfWH4m1v3hZwK8Q/edit?usp=sharing).
+Click on the slide below to go to the whole deck.
+
+<a href="https://docs.google.com/presentation/d/11Bg6SEEGsFH3BHpMaacjt1wXo6ODSfWH4m1v3hZwK8Q/edit?usp=sharing"><img src="img/health_talk.png" alt=""></a>
+[ALL SLIDES](https://docs.google.com/presentation/d/11Bg6SEEGsFH3BHpMaacjt1wXo6ODSfWH4m1v3hZwK8Q/edit?usp=sharing)
 
 In summary, there are three cogs in the health system
 that you should be aware of:
@@ -76,4 +78,4 @@ If you are just feeling a little down and would like to talk to someone,
 reach out to any of the [graduate student executives](./about.html)! 
 We'd be happy to chat and to help if we can :)
 
-Last updated: April 6, 2023
+Last updated: October 23, 2023
