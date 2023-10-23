@@ -19,7 +19,9 @@ either as a group just to have fun or in a departmental team as part of a league
 ## Table tennis
 
 Table tennis is happening on Fridays at 4 pm! Players usually arrive early
-to help set up the table tennis table. Contact David Xu for more information.
+to help set up the table tennis table. 
+Contact [David](https://www.stat.ubc.ca/users/zuheng-david-xu)
+for more information.
 
 
 ## Running
