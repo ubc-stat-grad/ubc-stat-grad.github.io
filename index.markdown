@@ -5,25 +5,30 @@ title: ""
 
 # Welcome!
 
-We are the graduate student association of the [Department of Statistics](https://www.stat.ubc.ca/)
+We are the graduate student association of the 
+[Department of Statistics](https://www.stat.ubc.ca/)
 at [UBC](https://www.ubc.ca/).
 
-We created this website for new, current, and prospective graduate students in the department.
+We created this website for new, current, 
+and prospective graduate students in the department.
 Here, you can find information about the various activities and events
 that statistics graduate students organize&mdash;all in a single place!
 
-We also aim to create a sense of community in the department and to make it as easy as possible for everyone to get involved.
+We also aim to create a sense of community in the department 
+and to make it as easy as possible for everyone to get involved.
 Enjoy!
 
 ## Recent news
 
+- **[October 20, 2023]** We are having our midterm social next weekend at the 
+[Richmond Pumpkin Patch](https://www.countryfarms.ca/pumpkinpatch)!
+RSVP on the Slack #social channel.
+- **[October 13, 2023]** At next week's graduate student seminar on October 19, Gian Carlo
+will give a talk on how navigate the Canadian healthcare system as a UBC graduate student.
 - **[September 25, 2023]** Voting for the 2024 Constance van Eeden Lecture is now open! Please see your email for details. 
 - **[September 1, 2023]** Volunteers needed! Join the SGSA and help organize events. 
 Check [here](./grad-positions) for details.
-- **[July 6, 2023]**  This is a friendly reminder to complete the survey for providing 
-  input on the department's strategic direction! You should have received an 
-  email that includes the survey link this morning from our department chair.
-- **[March 29, 2023]** At next week's graduate student seminar on April 5, Gian Carlo Diluvi will give a talk on how to: "Smartly use your health insurance as a graduate student".
+
 
 
 Older news can be found in the [archive](./news-archive).
@@ -36,7 +41,9 @@ Older news can be found in the [archive](./news-archive).
 </div><!--/span-->
 <br/>
 
-There is also a separate [UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar) maintained by the department.
+There is also a separate 
+[UBC Statistics events calendar](https://www.stat.ubc.ca/events-calendar)
+maintained by the department.
 
 
-Last updated: September 25, 2023
+Last updated: October 23, 2023
