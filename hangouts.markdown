@@ -25,12 +25,17 @@ Graduate Representative or Treasurer.
 </div><!--/span-->
 <br/>
 
+<img src="img/w2023grad_trip-min.jpg" alt="">
+Fall 2023 grad trip @ Deep Cove Quarry Rock hike
+
+<img src="img/s2023grad_trip-min.jpg" alt="">
+Summer 2023 grad trip @ Eagle Bluffs
+
 <img src="img/w2022grad_trip-min.jpg" alt="">
 Fall 2022 grad trip @ Lynn Canyon Park
-
 
 <img src="img/s2022eot-min.jpg" alt="">
 Spring 2022 end-of-term hangout @ Browns
 
-Last updated: October 15, 2022
+Last updated: October 23, 2022
 
