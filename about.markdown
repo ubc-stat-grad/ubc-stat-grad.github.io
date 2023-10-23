@@ -90,7 +90,7 @@ If you need anything, feel free to contact them.
 	</div>
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/ning-shen"><img src="img/anon.png" width="150" alt=""></a>
+			<a href="https://www.stat.ubc.ca/users/ning-shen"><img src="img/ning.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/ning-shen">Ning</a></figcaption>
 			<figcaption>UBC/SFU Seminar</figcaption>
 		</figure>
