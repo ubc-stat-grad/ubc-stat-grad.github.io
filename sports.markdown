@@ -88,4 +88,4 @@ Consider organizing your own sports team within the department!
 Feel free to contact one of the [graduate student executives](./about.html) if you would like to receive help promoting your new sports team.
 
 
-Last updated: February 3, 2023
+Last updated: October 23, 2023
