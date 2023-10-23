@@ -134,4 +134,4 @@ If you need anything, feel free to contact them.
 If you want to make a suggestion to the website, open an issue on the [Github repo](https://github.com/ubc-stat-grad/ubc-stat-grad.github.io).
 
 
-Last updated: October 3, 2023
+Last updated: October 23, 2023
