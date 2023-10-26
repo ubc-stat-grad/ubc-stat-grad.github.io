@@ -20,6 +20,9 @@ Enjoy!
 
 ## Recent news
 
+- **[October 26, 2023]** Come to the graduate seminar on November 2 
+to hear about Evan's research on using variance-reduced stochastic optimization methods
+to learn the parameters of HMMs!
 - **[October 20, 2023]** We are having our midterm social next weekend at the 
 [Richmond Pumpkin Patch](https://www.countryfarms.ca/pumpkinpatch)!
 RSVP on the Slack #social channel.
