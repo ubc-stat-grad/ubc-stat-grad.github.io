@@ -20,6 +20,9 @@ Enjoy!
 
 ## Recent news
 
+- **[October 30, 2023]** Fancy some pizza? 
+Come to our pizza social this Thursday, November 2! 
+RSVP on the Slack #social channel.
 - **[October 26, 2023]** Come to the graduate seminar on November 2 
 to hear about Evan's research on using variance-reduced stochastic optimization methods
 to learn the parameters of HMMs!
@@ -49,4 +52,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: October 26, 2023
+Last updated: October 30, 2023
