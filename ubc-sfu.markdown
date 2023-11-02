@@ -5,7 +5,7 @@ title: UBC-SFU seminar
 
 # UBC-SFU Joint Statistics Seminar
 
-The UBC-SFU Joint Statistics Seminar is now in its 18th year (as of 2022).
+The UBC-SFU Joint Statistics Seminar is now in its 19th year (as of 2023).
 The event is organized twice per year by students from UBC and SFU.
 The purpose of the seminar is to give graduate students
 an opportunity to share their research and work projects with one another.
@@ -15,9 +15,12 @@ the attendees get an opportunity to network over a *free* lunch.
 The Fall (usually in November) seminar is hosted by SFU
 while the Spring (commonly in late February) seminar is hosted by UBC.
 
-## Upcoming seminar
+## Fall 2023 seminar
 
-The date of the Fall 2023 SFU/UBC Joint Seminar will be confirmed at a later date.
+The Fall 2023 Joint Seminar is taking place on November 18
+at the Harbour Centre!
+Check your inbox for registration details,
+or email the [organizers](./about).
 
 ## Previously hosted seminars
 - [Spring 2023 Joint Seminar (UBC)](https://ubc-sfu-seminar-2023.github.io/)
@@ -30,4 +33,4 @@ The date of the Fall 2023 SFU/UBC Joint Seminar will be confirmed at a later dat
 - Fall 2019 Joint Seminar (SFU) (webpage deleted)
 - [Spring 2019 Joint Seminar (UBC)](https://www.stat.ubc.ca/~qiong.zhang/misc/JointSeminar2018.html)
 
-Last updated: March 29, 2023
+Last updated: November 2, 2023

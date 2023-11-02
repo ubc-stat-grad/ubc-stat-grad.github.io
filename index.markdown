@@ -20,6 +20,9 @@ Enjoy!
 
 ## Recent news
 
+- **[November 2, 2023]** Mark your calendars! 
+The UBC/SFU Joint Statistics Seminar is taking place on November 18.
+More details [here](./ubc-sfu)!
 - **[October 30, 2023]** Fancy some pizza? 
 Come to our pizza social this Thursday, November 2! 
 RSVP on the Slack #social channel.
@@ -52,4 +55,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: October 30, 2023
+Last updated: November 2, 2023
