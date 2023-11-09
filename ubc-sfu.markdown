@@ -17,10 +17,9 @@ while the Spring (commonly in late February) seminar is hosted by UBC.
 
 ## Fall 2023 seminar
 
-The Fall 2023 Joint Seminar is taking place on November 18
-at the Harbour Centre!
-Check your inbox for registration details,
-or email the [organizers](./about).
+The [Fall 2023 Joint Seminar (SFU)](https://www.sfu.ca/~rda88/JointSeminar2023/) 
+is taking place on November 18 at the Harbour Centre!
+Check your inbox for registration details, or email the [organizers](./about).
 
 ## Previously hosted seminars
 - [Spring 2023 Joint Seminar (UBC)](https://ubc-sfu-seminar-2023.github.io/)
@@ -33,4 +32,4 @@ or email the [organizers](./about).
 - Fall 2019 Joint Seminar (SFU) (webpage deleted)
 - [Spring 2019 Joint Seminar (UBC)](https://www.stat.ubc.ca/~qiong.zhang/misc/JointSeminar2018.html)
 
-Last updated: November 2, 2023
+Last updated: November 8, 2023
