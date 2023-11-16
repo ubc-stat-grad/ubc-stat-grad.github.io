@@ -20,6 +20,9 @@ Enjoy!
 
 ## Recent news
 
+- **[November 16, 2023]** UBC is offering a new undergraduate class
+in Bayesian statistics&mdash;consider taking it!
+Check the [website](https://ubc-stat-ml.github.io/web447/).
 - **[November 2, 2023]** Mark your calendars! 
 The UBC/SFU Joint Statistics Seminar is taking place on November 18.
 More details [here](./ubc-sfu)!
