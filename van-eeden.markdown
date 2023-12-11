@@ -13,8 +13,6 @@ The speaker spends one or two days on-campus,
 and graduate students have the opportunity to have lunch and dinner with them.
 
 ## This year's speaker
-**Update**: The [recording for this year's van Eeden seminar](https://youtu.be/b5amDncmm68) is now available!
-
 
 ## About
 

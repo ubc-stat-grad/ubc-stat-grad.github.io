@@ -11,6 +11,8 @@ the	Constance van Eeden speaker was
 Dr. Murphy gave a talk on Thursday, February 2, 2023
 on a unified perspective of machine learning research.
 
+The recording of Dr. Murphy's van Eeden seminar is available [here](https://youtu.be/b5amDncmm68)!
+
 **Title:** A Probabilistic Perspective on the Field of Machine Learning
 
 
