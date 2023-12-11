@@ -42,6 +42,7 @@ The 2023 van Eeden seminar is additionally supported by the
 ## Previous presenters
 
 - [2023] [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/)
+More  info [here](vaneeden/2023-murphy)
 - [2022] [Dr. Tamara Broderick](https://tamarabroderick.com/).
 More  info [here](vaneeden/2022-broderick)
 - [2021] [Dr. Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/)
