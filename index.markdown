@@ -5,12 +5,12 @@ title: ""
 
 # Welcome!
 
-We are the graduate student association of the 
-[Department of Statistics](https://www.stat.ubc.ca/)
+We are the Statistics Graduate Student Association (SGSA)
 at [UBC](https://www.ubc.ca/).
 
 We created this website for new, current, 
-and prospective graduate students in the department.
+and prospective graduate students in the
+[Department of Statistics](https://www.stat.ubc.ca/).
 Here, you can find information about the various activities and events
 that statistics graduate students organize&mdash;all in a single place!
 
