@@ -20,6 +20,9 @@ Enjoy!
 
 ## Recent news
 
+- **[December 11, 2023]** Join us for our grad end-of-term hangout!
+We will go to Koi Sushi this Friday, December 15. 
+RSVP on #social!
 - **[November 16, 2023]** UBC is offering a new undergraduate class
 in Bayesian statistics&mdash;consider taking it!
 Check the [website](https://ubc-stat-ml.github.io/web447/).
@@ -49,4 +52,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: November 8, 2023
+Last updated: December 11, 2023
