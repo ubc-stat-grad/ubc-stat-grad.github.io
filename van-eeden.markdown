@@ -69,4 +69,4 @@ More  info [here](vaneeden/2022-broderick)
 - [2013] [Dr. Gavin Shaddick](http://empslocal.ex.ac.uk/people/staff/gs454/)
 - [2012] [Dr. Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)
 
-Last updated: March 29, 2023
+Last updated: December 11, 2023
