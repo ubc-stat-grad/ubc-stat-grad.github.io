@@ -14,6 +14,19 @@ and graduate students have the opportunity to have lunch and dinner with them.
 
 ## This year's speaker
 
+The Constance van Eeden Speaker for 2024 will be 
+[Dr. Sherri Rose](https://drsherrirose.org/biocv) from Stanford University! 
+Her research is centered on developing and integrating innovative 
+statistical machine learning approaches to improve human health and health equity. 
+
+Dr. Rose comes from a low-income background and is committed to increasing 
+justice, equity, diversity and inclusion (JEDI) 
+in the mathematical and health sciences. 
+(Copied from https://drsherrirose.org/biocv.)
+
+Dr. Rose will visit our department on **Thursday, April 4 2024**.
+She will give a lecture on a soon-to-be-decided topic.
+
 ## About
 
 The van Eeden seminar is supported by the Constance van Eeden fund,
