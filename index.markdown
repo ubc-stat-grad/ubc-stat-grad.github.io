@@ -32,12 +32,6 @@ Check the [website](https://ubc-stat-ml.github.io/web447/).
 - **[November 2, 2023]** Mark your calendars! 
 The UBC/SFU Joint Statistics Seminar is taking place on November 18.
 More details [here](./ubc-sfu)!
-- **[October 30, 2023]** Fancy some pizza? 
-Come to our pizza social this Thursday, November 2! 
-RSVP on the Slack #social channel.
-- **[October 26, 2023]** Come to the graduate seminar on November 2 
-to hear about Evan's research on using variance-reduced stochastic optimization methods
-to learn the parameters of HMMs!
 
 
 Older news can be found in the [archive](./news-archive).

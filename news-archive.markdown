@@ -4,6 +4,12 @@ title: News archive
 ---
 
 # News archive
+- **[October 30, 2023]** Fancy some pizza? 
+Come to our pizza social this Thursday, November 2! 
+RSVP on the Slack #social channel.
+- **[October 26, 2023]** Come to the graduate seminar on November 2 
+to hear about Evan's research on using variance-reduced stochastic optimization methods
+to learn the parameters of HMMs!
 - **[October 20, 2023]** We are having our midterm social next weekend at the 
 [Richmond Pumpkin Patch](https://www.countryfarms.ca/pumpkinpatch)!
 RSVP on the Slack #social channel.
@@ -78,4 +84,4 @@ who will give a talk about finite-sample robustness!
 - **[Sep. 7, 2021]** Welcome to the Fall 2021 term!
 
 
-Last updated: September 25, 2023
+Last updated: December 11, 2023
