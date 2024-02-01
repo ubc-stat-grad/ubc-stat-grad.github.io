@@ -20,11 +20,17 @@ Enjoy!
 
 ## Recent news
 
+- **[February 1, 2024]** The grad seminars are back with a fun twist!
+Join us next February 7 for the first Career Fireside Chat
+with [Johnny Xi](https://www.stat.ubc.ca/users/quanhan-johnny-xi),
+who will be sharing his experience as a Machine Learning Intern 
+at [Valence Labs](https://www.valencelabs.com/). 
+More info in the [grad seminars web page](./grad-seminars).
 - **[January 30, 2024]** Welcome to the new term! 
 Stay tuned for updates on this term's events.
 - **[December 11, 2023]** The 2024 [van Eeden speaker](./van-eeden) will be
 [Dr. Sherri Rose](https://drsherrirose.org/biocv) from Stanford University!
-Dr. Rose will visit UBC on April 4, 2024.
+Dr. Rose will visit UBC on **April 4, 2024**.
 - **[December 8, 2023]** Join us for our grad end-of-term hangout!
 We will go to Koi Sushi this Friday, December 15. 
 RSVP on #social!
@@ -45,4 +51,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: January 30, 2024
+Last updated: February 1, 2024
