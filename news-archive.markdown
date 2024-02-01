@@ -4,6 +4,12 @@ title: News archive
 ---
 
 # News archive
+- **[November 16, 2023]** UBC is offering a new undergraduate class
+in Bayesian statistics&mdash;consider taking it!
+Check the [website](https://ubc-stat-ml.github.io/web447/).
+- **[November 2, 2023]** Mark your calendars! 
+The UBC/SFU Joint Statistics Seminar is taking place on November 18.
+More details [here](./ubc-sfu)!
 - **[October 30, 2023]** Fancy some pizza? 
 Come to our pizza social this Thursday, November 2! 
 RSVP on the Slack #social channel.
@@ -84,4 +90,4 @@ who will give a talk about finite-sample robustness!
 - **[Sep. 7, 2021]** Welcome to the Fall 2021 term!
 
 
-Last updated: December 11, 2023
+Last updated: February 1, 2024

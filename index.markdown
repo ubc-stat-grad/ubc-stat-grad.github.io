@@ -20,18 +20,14 @@ Enjoy!
 
 ## Recent news
 
+- **[January 30, 2024]** Welcome to the new term! 
+Stay tuned for updates on this term's events.
 - **[December 11, 2023]** The 2024 [van Eeden speaker](./van-eeden) will be
 [Dr. Sherri Rose](https://drsherrirose.org/biocv) from Stanford University!
 Dr. Rose will visit UBC on April 4, 2024.
 - **[December 8, 2023]** Join us for our grad end-of-term hangout!
 We will go to Koi Sushi this Friday, December 15. 
 RSVP on #social!
-- **[November 16, 2023]** UBC is offering a new undergraduate class
-in Bayesian statistics&mdash;consider taking it!
-Check the [website](https://ubc-stat-ml.github.io/web447/).
-- **[November 2, 2023]** Mark your calendars! 
-The UBC/SFU Joint Statistics Seminar is taking place on November 18.
-More details [here](./ubc-sfu)!
 
 
 Older news can be found in the [archive](./news-archive).
@@ -49,4 +45,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: December 11, 2023
+Last updated: January 30, 2024
