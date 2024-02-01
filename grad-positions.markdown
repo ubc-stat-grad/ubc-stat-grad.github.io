@@ -22,7 +22,11 @@ contact the Graduate Student Representative to see how you can get involved!
 
 **SGSA Executive Committee Positions**\\
 *Volunteers needed:* 1--3\\
-*Duties:* we aren’t gonna be around forever, and so we’d like to train our replacements. If you are interested in being the SGSA Graduate Student Representative, SGSA Treasurer, or SGSA Webmaster, please consider applying! These positions play a bigger role in SGSA operations and require more commitment than the ones below. If you are interested in any of these positions, you should be willing to commit to at least two years: one year being mentored by the current position member and another afterwards.
+*Duties:* we aren’t gonna be around forever, and so we’d like to train our replacements. 
+If you are interested in being the SGSA Graduate Student Representative, 
+SGSA Treasurer, or SGSA Webmaster, please consider applying! 
+These positions play a bigger role in SGSA operations 
+and require more commitment than the ones below.
 
 **Social Committee** \\
 *Volunteers needed:* 2-3 minimum, but always open! \\
