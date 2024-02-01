@@ -16,7 +16,6 @@ contact the Graduate Student Representative to see how you can get involved!
 | Position/activity | People in charge | Available positions |
 | ----------------- | ---------------- | ------------------- |
 | SGSA Executive Committee | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu)<br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) | **1--3** |
-| USS Coordinator	| New position! | **1-2** |
 | Social Committee | [Silke](https://www.stat.ubc.ca/users/silke-sophia-rice)<br/>[Charlotte](https://www.stat.ubc.ca/users/charlotte-edgar) | **Always open!** |
 | Fundraiser | | **2--3** |
 
@@ -24,15 +23,6 @@ contact the Graduate Student Representative to see how you can get involved!
 **SGSA Executive Committee Positions**\\
 *Volunteers needed:* 1--3\\
 *Duties:* we aren’t gonna be around forever, and so we’d like to train our replacements. If you are interested in being the SGSA Graduate Student Representative, SGSA Treasurer, or SGSA Webmaster, please consider applying! These positions play a bigger role in SGSA operations and require more commitment than the ones below. If you are interested in any of these positions, you should be willing to commit to at least two years: one year being mentored by the current position member and another afterwards.
-
-**USS Coordinator** \\
-*Volunteers needed:* 1--2 \\
-*Duties:* be the liaison between the SGSA and the USS (Undergraduate Statistics Society) at UBC. 
-Duties would likely involve being the person of contact for the USS, attending meetings 
-with USS executives as necessary, and organizing/finding volunteers to organize events held 
-in collaboration with the USS. Examples of possible events include a ``Meet a Grad Student''
-session for statistics undergraduates and research/co-op flash talk sessions.
-
 
 **Social Committee** \\
 *Volunteers needed:* 2-3 minimum, but always open! \\
@@ -67,4 +57,4 @@ the budget available for other SGSA events.
 | Graduate Trip / Icebreaker | [Naitong](https://www.stat.ubc.ca/users/naitong-chen) <br/>[Lily](https://www.stat.ubc.ca/users/yuan-xia)| |
 
 
-Last updated: October 3, 2023
+Last updated: February 1, 2024
