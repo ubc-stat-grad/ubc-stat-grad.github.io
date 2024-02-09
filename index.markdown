@@ -20,6 +20,9 @@ Enjoy!
 
 ## Recent news
 
+- **[February 9, 2024]** Mark your calendars! 
+The UBC/SFU Joint Statistics Seminar is taking place on March 9.
+More details [here](./ubc-sfu)!
 - **[February 1, 2024]** The grad seminars are back with a fun twist!
 Join us next February 7 for the first Career Fireside Chat
 with [Johnny Xi](https://www.stat.ubc.ca/users/quanhan-johnny-xi),
@@ -31,9 +34,6 @@ Stay tuned for updates on this term's events.
 - **[December 11, 2023]** The 2024 [van Eeden speaker](./van-eeden) will be
 [Dr. Sherri Rose](https://drsherrirose.org/biocv) from Stanford University!
 Dr. Rose will visit UBC on **April 4, 2024**.
-- **[December 8, 2023]** Join us for our grad end-of-term hangout!
-We will go to Koi Sushi this Friday, December 15. 
-RSVP on #social!
 
 
 Older news can be found in the [archive](./news-archive).
@@ -51,4 +51,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: February 1, 2024
+Last updated: February 9, 2024

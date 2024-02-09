@@ -21,8 +21,9 @@ The Fall 2024 Joint Seminar will be organizer by UBC.
 Stay tuned for more details!
 
 ## Previously hosted seminars
+- [Spring 2024 Joint Seminar (UBC)](https://ubc-sfu-seminar.github.io/2024)
 - [Fall 2023 Joint Seminar (SFU)](https://www.sfu.ca/~rda88/JointSeminar2023/)
-- [Spring 2023 Joint Seminar (UBC)](https://ubc-sfu-seminar-2023.github.io/)
+- [Spring 2023 Joint Seminar (UBC)](https://ubc-sfu-seminar.github.io/2023)
 - [Fall 2022 Joint Seminar (SFU)](http://www.sfu.ca/~rennyd/JointSeminar2022/)
 - [Spring 2022 Joint Seminar (UBC)](https://ubc-sfu-joint-stat-seminar-spring-2022.github.io/)
 - [Fall 2021 Joint Seminar (SFU)](https://www.sfu.ca/~rennyd/JointSeminar2021/)
@@ -32,4 +33,4 @@ Stay tuned for more details!
 - Fall 2019 Joint Seminar (SFU) (webpage deleted)
 - [Spring 2019 Joint Seminar (UBC)](https://www.stat.ubc.ca/~qiong.zhang/misc/JointSeminar2018.html)
 
-Last updated: December 11, 2023
+Last updated: February 9, 2024 
