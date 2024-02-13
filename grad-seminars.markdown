@@ -38,6 +38,8 @@ The seminars will be in-person for the 2023&ndash;2024 academic year,
 but they will also be broadcast through Zoom.
 
 Here is a list of previous and future seminars:
+- Feb 16, 2024: *Coreset Markov Chain Monte Carlo* 
+by [Naitong Chen](https://www.stat.ubc.ca/users/naitong-chen)
 - Feb 7, 2024: *Career Fireside Chat*
 with [Johnny Xi](https://www.stat.ubc.ca/users/quanhan-johnny-xi),
 current PhD student at UBC Stats and former 

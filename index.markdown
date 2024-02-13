@@ -20,6 +20,11 @@ Enjoy!
 
 ## Recent news
 
+- **[February 13, 2024]** We're having a social hangout this Thursday, Feb. 16
+at Koerner's Pub! Meet us there at 5pm or walk with us from ESB.
+- **[February 12, 2024]** Come to this Friday's grad seminar,
+where [Naitong Chen](https://www.stat.ubc.ca/users/naitong-chen)
+is going to talk about his latest research.
 - **[February 9, 2024]** Mark your calendars! 
 The UBC/SFU Joint Statistics Seminar is taking place on March 9.
 More details [here](./ubc-sfu)!
@@ -51,4 +56,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: February 9, 2024
+Last updated: February 13, 2024
