@@ -41,7 +41,7 @@ What constitutes a fair algorithm and the ethical use of data is context specifi
 Professor Sherri Rose (http://drsherrirose.org/) has been invited to be this year's van Eeden speaker by the graduate students in the Department of Statistics at the University of British Columbia. A van Eeden speaker is a prominent statistician who is chosen each year to give a lecture, supported by the UBC Constance van Eeden Fund (https://www.stat.ubc.ca/constance-van-eeden-fund). The 2024 seminar is additionally sponsored by the Canadian Statistical Sciences Institute (CANSSI), the Pacific Institute for the Mathematical Sciences (PIMS), and the Walter H. Gage Memorial Fund.
 
 <p align="center">
-  <img src="img/van_eeden_2024_logos.png" width="40%"/>
+  <img src="img/van_eeden_2024_logos.png" width="100%"/>
 </p>
 
 ## About
