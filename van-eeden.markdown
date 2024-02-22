@@ -18,14 +18,31 @@ The Constance van Eeden Speaker for 2024 will be
 [Dr. Sherri Rose](https://drsherrirose.org/biocv) from Stanford University! 
 Her research is centered on developing and integrating innovative 
 statistical machine learning approaches to improve human health and health equity. 
-
 Dr. Rose comes from a low-income background and is committed to increasing 
 justice, equity, diversity and inclusion (JEDI) 
 in the mathematical and health sciences. 
 (Copied from https://drsherrirose.org/biocv.)
-
 Dr. Rose will visit our department on **Thursday, April 4 2024**.
-She will give a lecture on a soon-to-be-decided topic.
+
+**van Eeden Seminar:** Ethical AI is More than Loss Functions 
+
+**Event Date:** Thursday, April 4, 2024 - 3 to 5 pm PT
+
+**Invited Speaker:** Dr. Sherri Rose, Professor, Stanford University
+
+**Location:** Online or DMP 110 at the University of British Columbia (Zoom link will be released later)
+
+**Registration:** https://forms.gle/KXavxHurpGVxuXfc8 
+
+**Abstract:** 
+What constitutes a fair algorithm and the ethical use of data is context specific. Algorithms are not neutral and optimization choices will reflect a specific value system and the distribution of power to make these decisions. Data also reflect societal bias, such as structural racism. Ethics and fairness research for health AI spans many fields, including policy, medicine, computer science, sociology, and statistics. Considerations go well beyond loss functions and typical measures of statistical assessment. This talk includes discussion of team construction, who decides the research question, minimum standards for research quality, reproducibility, least publishable units, and community engaged research. Overarching themes are also that centering health equity and developing methodology tailored to specific health questions are critical given the stakes involved.
+
+**More Information:**
+Professor Sherri Rose (http://drsherrirose.org/) has been invited to be this year's van Eeden speaker by the graduate students in the Department of Statistics at the University of British Columbia. A van Eeden speaker is a prominent statistician who is chosen each year to give a lecture, supported by the UBC Constance van Eeden Fund (https://www.stat.ubc.ca/constance-van-eeden-fund). The 2024 seminar is additionally sponsored by the Canadian Statistical Sciences Institute (CANSSI), the Pacific Institute for the Mathematical Sciences (PIMS), and the Walter H. Gage Memorial Fund.
+
+<p align="center">
+  <img src="img/van_eeden_2024_logos.png" width="40%"/>
+</p>
 
 ## About
 
