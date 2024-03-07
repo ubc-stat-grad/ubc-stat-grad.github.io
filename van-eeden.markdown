@@ -12,6 +12,10 @@ to give a talk in the department's seminar.
 The speaker spends one or two days on-campus,
 and graduate students have the opportunity to have lunch and dinner with them.
 
+<p align="center">
+  <img src="img/2024_ve_poster.png" width="100%"/>
+</p>
+
 ## This year's speaker
 
 The Constance van Eeden Speaker for 2024 will be 
@@ -64,8 +68,9 @@ to learn more!
 
 ## Sponsors
 
-The 2023 van Eeden seminar is additionally supported by the
-[CANSSI Distinguished Visitor Program](https://canssi.ca/program/distinguished-visitor-program/).
+The 2024 van Eeden seminar is additionally sponsored by the [Canadian Statistical Sciences Institute (CANSSI)](https://canssi.ca/), 
+the [Pacific Institute for the Mathematical Sciences (PIMS)](https://www.pims.math.ca/), and the 
+[Walter H. Gage Memorial Fund](https://vpstudents.ubc.ca/walter-gage/).
 
 ## Previous presenters
 
@@ -86,4 +91,4 @@ More  info [here](vaneeden/2022-broderick)
 - [2013] [Dr. Gavin Shaddick](http://empslocal.ex.ac.uk/people/staff/gs454/)
 - [2012] [Dr. Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)
 
-Last updated: December 11, 2023
+Last updated: March 7, 2024
