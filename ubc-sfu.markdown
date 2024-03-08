@@ -17,11 +17,16 @@ while the Spring (commonly in late February) seminar is hosted by UBC.
 
 ## Spring 2024 seminar
 
-The Fall 2024 Joint Seminar will be organizer by UBC.
-Stay tuned for more details!
+We are very excited this term to bring the seminar home, 
+to be hosted at UBC for the first time (to our knowledge)! 
+The event will be held on **Saturday, March 9th at ESB,** 
+and will be professionally catered (complimentary coffee/tea, breakfast and lunch). 
+There will be talks by six students (three from UBC and three from SFU) and one faculty member from UBC. 
+After, we will have a social hour for further discussions at Browns Crafthouse.
+
+Check out the [official website](https://ubc-sfu-seminar.github.io/2024)!
 
 ## Previously hosted seminars
-- [Spring 2024 Joint Seminar (UBC)](https://ubc-sfu-seminar.github.io/2024)
 - [Fall 2023 Joint Seminar (SFU)](https://www.sfu.ca/~rda88/JointSeminar2023/)
 - [Spring 2023 Joint Seminar (UBC)](https://ubc-sfu-seminar.github.io/2023)
 - [Fall 2022 Joint Seminar (SFU)](http://www.sfu.ca/~rennyd/JointSeminar2022/)
@@ -33,4 +38,4 @@ Stay tuned for more details!
 - Fall 2019 Joint Seminar (SFU) (webpage deleted)
 - [Spring 2019 Joint Seminar (UBC)](https://www.stat.ubc.ca/~qiong.zhang/misc/JointSeminar2018.html)
 
-Last updated: February 9, 2024 
+Last updated: March 8, 2024 

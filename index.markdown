@@ -20,6 +20,9 @@ Enjoy!
 
 ## Recent news
 
+- **[March 8, 2024]** We're having a midterm social next Thursday at 
+[Glitch](https://www.glitchvancouver.com/)!
+RSVP on #social.
 - **[February 13, 2024]** We're having a social hangout this Thursday, Feb. 16
 at Koerner's Pub! Meet us there at 5pm or walk with us from ESB.
 - **[February 12, 2024]** Come to this Friday's grad seminar,
@@ -56,4 +59,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: February 13, 2024
+Last updated: March 8, 2024
