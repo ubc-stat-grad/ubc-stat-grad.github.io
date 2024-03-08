@@ -29,7 +29,7 @@ at Koerner's Pub! Meet us there at 5pm or walk with us from ESB.
 where [Naitong Chen](https://www.stat.ubc.ca/users/naitong-chen)
 is going to talk about his latest research.
 - **[February 9, 2024]** Mark your calendars! 
-The UBC/SFU Joint Statistics Seminar is taking place on March 9.
+The **UBC/SFU Joint Statistics Seminar** is taking place on **March 9 at UBC**.
 More details [here](./ubc-sfu)!
 - **[February 1, 2024]** The grad seminars are back with a fun twist!
 Join us next February 7 for the first Career Fireside Chat
