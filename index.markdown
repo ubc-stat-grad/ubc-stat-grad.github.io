@@ -20,6 +20,10 @@ Enjoy!
 
 ## Recent news
 
+- **[March 9, 2023]** The 2024 [**van Eeden speaker**](./van-eeden) will be
+[**Dr. Sherri Rose**](https://drsherrirose.org/biocv) from Stanford University!
+Dr. Rose will visit UBC on **April 4, 2024** and give a talk on Ethical AI.
+Check your email to RSVP!
 - **[March 8, 2024]** We're having a midterm social next Thursday at 
 [Glitch](https://www.glitchvancouver.com/)!
 RSVP on #social.
@@ -29,7 +33,7 @@ at Koerner's Pub! Meet us there at 5pm or walk with us from ESB.
 where [Naitong Chen](https://www.stat.ubc.ca/users/naitong-chen)
 is going to talk about his latest research.
 - **[February 9, 2024]** Mark your calendars! 
-The **UBC/SFU Joint Statistics Seminar** is taking place on **March 9 at UBC**.
+The UBC/SFU Joint Statistics Seminar is taking place on March 9 at UBC.
 More details [here](./ubc-sfu)!
 - **[February 1, 2024]** The grad seminars are back with a fun twist!
 Join us next February 7 for the first Career Fireside Chat
@@ -39,9 +43,6 @@ at [Valence Labs](https://www.valencelabs.com/).
 More info in the [grad seminars web page](./grad-seminars).
 - **[January 30, 2024]** Welcome to the new term! 
 Stay tuned for updates on this term's events.
-- **[December 11, 2023]** The 2024 [van Eeden speaker](./van-eeden) will be
-[Dr. Sherri Rose](https://drsherrirose.org/biocv) from Stanford University!
-Dr. Rose will visit UBC on **April 4, 2024**.
 
 
 Older news can be found in the [archive](./news-archive).
@@ -59,4 +60,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: March 8, 2024
+Last updated: March 11, 2024

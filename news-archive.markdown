@@ -4,6 +4,9 @@ title: News archive
 ---
 
 # News archive
+- **[December 11, 2023]** The 2024 [van Eeden speaker](./van-eeden) will be
+[Dr. Sherri Rose](https://drsherrirose.org/biocv) from Stanford University!
+Dr. Rose will visit UBC on **April 4, 2024**.
 - **[December 8, 2023]** Join us for our grad end-of-term hangout!
 We will go to Koi Sushi this Friday, December 15. 
 RSVP on #social!
