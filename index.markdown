@@ -20,7 +20,12 @@ Enjoy!
 
 ## Recent news
 
-- **[March 9, 2023]** The 2024 [**van Eeden speaker**](./van-eeden) will be
+- **[March 22, 2024]** Come to next week's grad seminar,
+where [Kenny](https://www.stat.ubc.ca/users/kenny-chiu) 
+will talk about managing your personal finances
+as a graduate student in Vancouver. 
+More info [here](./grad-seminars.markdown).
+- **[March 9, 2024]** The 2024 [**van Eeden speaker**](./van-eeden) will be
 [**Dr. Sherri Rose**](https://drsherrirose.org/biocv) from Stanford University!
 Dr. Rose will visit UBC on **April 4, 2024** and give a talk on Ethical AI.
 Check your email to RSVP!
@@ -60,4 +65,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: March 11, 2024
+Last updated: March 22, 2024
