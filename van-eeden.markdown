@@ -34,9 +34,9 @@ Dr. Rose will visit our department on **Thursday, April 4 2024**.
 
 **Invited Speaker:** Dr. Sherri Rose, Professor, Stanford University
 
-**Location:** Online or DMP 110 at the University of British Columbia (Zoom link will be released later)
+**Location:** Online or ESB 5104 at the University of British Columbia
 
-**Registration:** [https://forms.gle/KXavxHurpGVxuXfc8](https://forms.gle/KXavxHurpGVxuXfc8)
+**Zoom registration:** [https://ubc.zoom.us/meeting/register/u5Mpfu-orz4uHtMoS6AcwTE_0VZ_DDEghNdA](https://ubc.zoom.us/meeting/register/u5Mpfu-orz4uHtMoS6AcwTE_0VZ_DDEghNdA)
 
 **Abstract:** 
 What constitutes a fair algorithm and the ethical use of data is context specific. Algorithms are not neutral and optimization choices will reflect a specific value system and the distribution of power to make these decisions. Data also reflect societal bias, such as structural racism. Ethics and fairness research for health AI spans many fields, including policy, medicine, computer science, sociology, and statistics. Considerations go well beyond loss functions and typical measures of statistical assessment. This talk includes discussion of team construction, who decides the research question, minimum standards for research quality, reproducibility, least publishable units, and community engaged research. Overarching themes are also that centering health equity and developing methodology tailored to specific health questions are critical given the stakes involved.
@@ -91,4 +91,4 @@ More  info [here](vaneeden/2022-broderick)
 - [2013] [Dr. Gavin Shaddick](http://empslocal.ex.ac.uk/people/staff/gs454/)
 - [2012] [Dr. Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)
 
-Last updated: March 7, 2024
+Last updated: March 26, 2024
