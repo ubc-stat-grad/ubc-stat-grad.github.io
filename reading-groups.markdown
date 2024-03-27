@@ -36,19 +36,22 @@ At each meeting, a group member leads discussion on a paper,
 with discussions benefiting from the mix of backgrounds of group members.
 
 
-## Scalable Bayesian statistics and machine learning reading group
+## Computational Bayes reading group
 PI: [Dr. Trevor Campbell](https://www.stat.ubc.ca/users/trevor-campbell) \
 Contact: [Gian Carlo Diluvi](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
 
-The scalable Bayesian statistics and machine learning reading group
-comprises graduate students, postdocs, and faculty in Statistics
-and Computer Science who are interested in Bayesian computational methods.
-Each week, we hold a 1-hour discussion which is led by a rotating presenter.
+This year, we are reading the book
+[*An Introduction to Sequential Monte Carlo* 
+by Chopin and Papaspiliopoulos](https://link.springer.com/book/10.1007/978-3-030-47845-2)
+one chapter at a time.
+Each week, we hold a 1.5-hour discussion which is led by a rotating presenter.
 The presenter can choose the format, although whiteboard is preferred.
-The goal is for the reading group to be a low pressure and informal environment
-for all of us to learn. This last year, we have been doing a review of
-linearly convergent stochastic optimization methods.
-Previously, we discussed recent (2019&ndash;2021) work on variational methods.
+The goal is for the reading group to be a 
+low pressure and informal environment for all of us to learn. 
+Previously, we did a review of 
+linearly convergent stochastic optimization methods
+and before that we discussed 
+work on variational methods.
 
 
 ## Symmetry, invariance, probability and machine learning reading group
@@ -57,13 +60,19 @@ Contact: [Johnny Xi](https://www.stat.ubc.ca/users/quanhan-johnny-xi)
 
 The Symmetry, Invariance, Probability and Machine Learning (SIP-ML) reading
 group consists of Statistics and Computer Science graduate students, postdocs
-and faculty who meet every week to discuss a paper in the statistics and machine
-learning literature. Group members rotate weekly as the discussion leader, whose
-role is to casually present the paper and promote discussion. Topics of interest
-in previous terms were diverse and ranged from empirical Bayes to normalizing flows,
-including a summer's worth of Le Cam theory. For this year, the key topics include
-invariant representation learning, causal invariance, domain adaptation and
-robustness to distributional shifts.
+and faculty who meet every week to discuss a paper or book chapter
+in the statistics and machine learning literature.
+This year we are reading the book 
+[*Optimal Transport for Applied Mathematics*
+by Filippo Santambrogio](https://math.univ-lyon1.fr/~santambrogio/OTAM-cvgmt.pdf).
+Group members rotate weekly as the discussion leader, 
+whose role is to casually present the material and promote discussion. 
+Topics of interest in previous terms were diverse and ranged from
+empirical Bayes to normalizing flows, 
+including a summer's worth of Le Cam theory. 
+We also spent a term reading papers on
+invariant representation learning, causal invariance, 
+domain adaptation and robustness to distributional shifts.
 
 
 ## Bayesian statistics reading group (MCMC methods and applications in phylogenetics)
@@ -90,4 +99,4 @@ forecasting case or hospitalization counts via predictive modelling, and techniq
 for longitudinal data analysis, amongst others.
 
 
-Last updated: May 17, 2022
+Last updated: March 22, 2024
