@@ -20,6 +20,11 @@ Enjoy!
 
 ## Recent news
 
+- **[April 22, 2024]** We're having our end-of-term hangout this week!
+Check #social for details and RSVP.
+- **[April 14, 2024]** Come run 10K with us next weekend at the 
+[Sun Run](https://www.vancouversunrun.com/)!
+Check #sports for details.
 - **[March 22, 2024]** Come to next week's grad seminar,
 where [Kenny](https://www.stat.ubc.ca/users/kenny-chiu) 
 will talk about managing your personal finances
@@ -65,4 +70,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: March 22, 2024
+Last updated: April 23, 2024
