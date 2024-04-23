@@ -28,15 +28,18 @@ for more information.
 
 We run semi-regularly around UBC, especially during the sunny months. 
 We meet in front of ESB and usually end at a coffee shop on campus. 
-During weekdays, we usually run between 5km and 8km either before or after work.
-On the weekends, we sometimes do longer runs 
-(like UBC to downtown or long runs in the trails of Pacific Spirit Park).
 Runs are at a casual/no drop pace, 
 i.e., slow enough so that everyone has a good time!
+We sometimes also run races (each at their own pace),
+like the [Vancouver Sun Run](https://www.vancouversunrun.com/10k-sun-run/).
 Contact [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) 
 if you want to join!
 
+![2024 Sun Run](img/2024SunRun.jpg)
+
+<!--
 ![Old Marine Drive lookout](img/running.jpg)
+-->
 
 
 ## Tennis
