@@ -16,6 +16,13 @@ either as a group just to have fun or in a departmental team as part of a league
 </div><!--/span-->
 <br/>
 
+
+## Tennis
+
+Several students in the department play tennis on a regular basis.
+Contact [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) if you would like to join
+one of the tennis sessions!
+
 ## Table tennis
 
 Table tennis is happening on Fridays at 4 pm! Players usually arrive early
@@ -36,41 +43,7 @@ Contact [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
 if you want to join!
 
 ![2024 Sun Run](img/2024SunRun.jpg)
-
-<!--
-![Old Marine Drive lookout](img/running.jpg)
--->
-
-
-## Tennis
-
-Several students in the department play tennis on a regular basis.
-Contact [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) if you would like to join
-one of the tennis sessions!
-
-
-## Soccer
-
-The *Mean Squared Terrors* is the department's soccer team,
-competing in [UBC intramurals'](https://recreation.ubc.ca/intramurals/)
-futsal tournament in term 2.
-
-If you want to join the team, reach out to
-[Jonathan](https://www.stat.ubc.ca/users/jonathan-ok-agyeman).
-The matches usually take place during the weekends or weekday evenings,
-and we play against other teams within UBC.
-
-![Mean Squared Terrors](img/mst.jpg)
-
-
-## Volleyball
-
-We play beach volleyball at
-[Wesbrook village](http://www.discoverwesbrook.com/posts/beach-volleyball-right-in-the-village#.Yqd7cxzMIsk)
-over the summer.
-Join the *#volleyball* channel on Slack if you want to come!
-Or ask [Chloe](https://www.stat.ubc.ca/users/xinyuan-chloe-you) for more info.
-
+2024 Sun Run
 
 ## Cycling
 
@@ -83,14 +56,50 @@ Some of us also go out for (road) rides a couple of times a week.
 Contact [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
 if you want to join!
 
-![Ride to Steveston](img/road-cycling-min.jpg)
+![Ride to Lower Seymour Conservation Reserve](img/road-cycling-min.jpg)
+Ride to Lower Seymour Conservation Reserve
+
+<!--
+![Old Marine Drive lookout](img/running.jpg)
+-->
+
+<!--
+## Soccer
+
+The *Mean Squared Terrors* is the department's soccer team,
+competing in [UBC intramurals'](https://recreation.ubc.ca/intramurals/)
+futsal tournament in term 2.
+
+If you want to join the team, reach out to
+[Jonathan](https://www.stat.ubc.ca/users/jonathan-ok-agyeman).
+The matches usually take place during the weekends or weekday evenings,
+and we play against other teams within UBC.
+
+![Mean Squared Terrors](img/mst.jpg)
+-->
+
+<!--
+## Volleyball
+
+We play beach volleyball at
+[Wesbrook village](http://www.discoverwesbrook.com/posts/beach-volleyball-right-in-the-village#.Yqd7cxzMIsk)
+over the summer.
+Join the *#volleyball* channel on Slack if you want to come!
+Or ask [Chloe](https://www.stat.ubc.ca/users/xinyuan-chloe-you) for more info.
+-->
+
+
 
 
 ## Organize something!
 
 Is your favourite sport not on the list above?
 Consider organizing your own sports team within the department!
+In the past, we have played volleyball during the summer
+and even had a departmental intramural soccer tem&mdash;the
+Mean-Squared Terrors!
+
 Feel free to contact one of the [graduate student executives](./about.html) if you would like to receive help promoting your new sports team.
 
 
-Last updated: October 23, 2023
+Last updated: April 23, 2024
