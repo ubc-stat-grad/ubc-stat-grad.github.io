@@ -18,6 +18,20 @@ We also aim to create a sense of community in the department
 and to make it as easy as possible for everyone to get involved.
 Enjoy!
 
+## SGSA on hold
+
+After two years of hard work,
+the SGSA executive committee&mdash;Gian Carlo,
+Kenny, and Nikola&mdash;is retiring in August 2024.
+We are currently looking for replacements to our positions,
+but if no one volunteers then SGSA will be on indefinite hold
+starting in September 2024.
+
+If you want to be graduate representative,
+please contact [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
+ASAP. It is a very rewarding position and we would love to help
+to ensure a smooth transition.
+
 ## Recent news
 
 - **[April 22, 2024]** We're having our end-of-term hangout this week!

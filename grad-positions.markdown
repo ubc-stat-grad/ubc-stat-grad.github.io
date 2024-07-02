@@ -15,14 +15,13 @@ contact the Graduate Student Representative to see how you can get involved!
 
 | Position/activity | People in charge | Available positions |
 | ----------------- | ---------------- | ------------------- |
-| SGSA Executive Committee | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu)<br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) | **1--3** |
-| Social Committee | [Silke](https://www.stat.ubc.ca/users/silke-sophia-rice)<br/>[Charlotte](https://www.stat.ubc.ca/users/charlotte-edgar) | **Always open!** |
-| Fundraiser | | **2--3** |
+| SGSA Executive Committee | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) (retiring Aug. 2024)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu) (retiring Aug. 2024)<br/> [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) (retiring Aug. 2024) | **1--3** |
+| Social Committee | <br/>[Charlotte](https://www.stat.ubc.ca/users/charlotte-edgar) (retiring Aug. 2024) | **Always open!** |
 
 
 **SGSA Executive Committee Positions**\\
 *Volunteers needed:* 1--3\\
-*Duties:* we aren’t gonna be around forever, and so we’d like to train our replacements. 
+*Duties:* 
 If you are interested in being the SGSA Graduate Student Representative, 
 SGSA Treasurer, or SGSA Webmaster, please consider applying! 
 These positions play a bigger role in SGSA operations 
@@ -38,23 +37,23 @@ hike! ii) organize the end-of-term graduate hangouts (one per each term); iii) m
 funding is available for each hangout (depending on the number of events, we might be
 able to cover part or all of the bill).
 
-
+<!--
 **Fundraiser** \\
 *Volunteers needed:* 2--3 \\
 *Duties:* organize fundraising events for the SGSA. In the past these took the form of
 exam sales: sample finals were created and sold to undergrads. This year, we are open
 to other fundraising ideas as well. The results of your work would have a direct impact on
 the budget available for other SGSA events.
-
+-->
 
 
 ## Filled positions
 
 | Position/activity | People in charge | Available positions |
 | ----------------- | ---------------- | ------------------- |
-| Graduate Student Representative | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) | 1 |
-| Treasurer | [Kenny](https://www.stat.ubc.ca/users/kenny-chiu) | 1 |
-| Webmaster | [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) | 1 |
+| Graduate Student Representative | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) (retiring Aug. 2024)| 1 |
+| Treasurer | [Kenny](https://www.stat.ubc.ca/users/kenny-chiu) (retiring Aug. 2024)| 1 |
+| Webmaster | [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) (retiring Aug. 2024)| 1 |
 | UBC/SFU Joint Seminars | [Naitong](https://www.stat.ubc.ca/users/naitong-chen) <br/> [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi) <br/> [Ning](https://www.stat.ubc.ca/users/ning-shen) |  |
 | Graduate Student Seminars | [Olivia](https://www.stat.ubc.ca/users/jiapingolivia-liu) <br/> [Joey](https://www.stat.ubc.ca/users/joey-hotz) |  |
 | Van Eeden Seminar | [David](https://www.stat.ubc.ca/users/zuheng-david-xu) <br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) | |
