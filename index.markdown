@@ -34,6 +34,7 @@ to ensure a smooth transition.
 
 ## Recent news
 
+- **[September 2, 2024]** Welcome back to the new semester! We hope you had a great summer :)
 - **[April 22, 2024]** We're having our end-of-term hangout this week!
 Check #social for details and RSVP.
 - **[April 14, 2024]** Come run 10K with us next weekend at the 
@@ -60,4 +61,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: May 4, 2024
+Last updated: September 2, 2024
