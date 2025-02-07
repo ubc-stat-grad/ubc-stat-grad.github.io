@@ -1,0 +1,27 @@
+---
+layout: vaneeden
+title: van Eeden seminar 2024
+---
+
+# 2024 van Eeden seminar
+
+The Constance van Eeden Speaker for 2024 was
+[Dr. Sherri Rose](https://drsherrirose.org/biocv) from Stanford University! 
+Her research is centered on developing and integrating innovative 
+statistical machine learning approaches to improve human health and health equity. 
+Dr. Rose comes from a low-income background and is committed to increasing 
+justice, equity, diversity and inclusion (JEDI) 
+in the mathematical and health sciences. 
+(Copied from [https://drsherrirose.org/biocv](https://drsherrirose.org/biocv).)
+Dr. Rose visited our department on **Thursday, April 4 2024**.
+
+**van Eeden Seminar:** Ethical AI is More than Loss Functions 
+
+**Event Date:** Thursday, April 4, 2024 - 3 to 5 pm PT
+
+**Invited Speaker:** Dr. Sherri Rose, Professor, Stanford University
+
+**Abstract:** 
+What constitutes a fair algorithm and the ethical use of data is context specific. Algorithms are not neutral and optimization choices will reflect a specific value system and the distribution of power to make these decisions. Data also reflect societal bias, such as structural racism. Ethics and fairness research for health AI spans many fields, including policy, medicine, computer science, sociology, and statistics. Considerations go well beyond loss functions and typical measures of statistical assessment. This talk includes discussion of team construction, who decides the research question, minimum standards for research quality, reproducibility, least publishable units, and community engaged research. Overarching themes are also that centering health equity and developing methodology tailored to specific health questions are critical given the stakes involved.
+
+Last updated: February 7, 2025
