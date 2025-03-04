@@ -26,7 +26,8 @@ Scientist at Google DeepMind.
 Dr. Doucet’s research interests lie in the development and analysis of efficient computational methods for inference and learning, machine learning, signal processing and related areas. 
 He will visit our department on **Friday, April 4th 2025**.
 
-**Seminar Title:** TBD 
+**Seminar Title:**  From Diffusion Models to Schrödinger Bridges - When Generative
+Modeling meets Optimal Transport
 
 **Event Date:** Friday, April 4th, 2025 - 10:30 am to 12:00 pm PT
 
@@ -34,10 +35,20 @@ He will visit our department on **Friday, April 4th 2025**.
 
 **Location:** Online or ESB 5104/5106 at the University of British Columbia
 
-**Zoom registration:** TBD
+**Zoom registration:** https://ubc.zoom.us/meeting/register/Z_eCE0H9QqGknxiuC66eBg
 
 **Abstract:** 
-TBD
+Denoising Diffusion models have revolutionized generative
+modeling. Conceptually, these methods define a transport mechanism from
+a noise distribution to a data distribution. Recent advancements have
+extended this framework to define transport maps between arbitrary
+distributions, significantly expanding the potential for unpaired data
+translation. However, existing methods often fail to approximate optimal
+transport maps, which are theoretically known to possess advantageous
+properties. In this talk, we will show how one can modify current
+methodologies to compute Schrödinger bridges—an entropy-regularized
+variant of dynamic optimal transport. We will demonstrate this
+methodology on a variety of unpaired data translation tasks.
 
 **More Information:**
 Dr. Arnaud Doucet has been invited to be this year's van Eeden speaker by the 
@@ -96,4 +107,4 @@ the [Pacific Institute for the Mathematical Sciences (PIMS)](https://www.pims.ma
 - [2013] [Dr. Gavin Shaddick](http://empslocal.ex.ac.uk/people/staff/gs454/)
 - [2012] [Dr. Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)
 
-Last updated: February 7, 2025 
+Last updated: March 4, 2025 
