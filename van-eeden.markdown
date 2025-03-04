@@ -35,6 +35,8 @@ Modeling meets Optimal Transport
 
 **Location:** Online or ESB 5104/5106 at the University of British Columbia
 
+**Event registration:** [https://forms.gle/gkeoLAr9MwoCvnar6](https://forms.gle/gkeoLAr9MwoCvnar6)
+
 **Zoom registration:** [https://ubc.zoom.us/meeting/register/Z_eCE0H9QqGknxiuC66eBg](https://ubc.zoom.us/meeting/register/Z_eCE0H9QqGknxiuC66eBg)
 
 **Abstract:** 
