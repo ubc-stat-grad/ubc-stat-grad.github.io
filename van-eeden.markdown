@@ -35,7 +35,7 @@ Modeling meets Optimal Transport
 
 **Location:** Online or ESB 5104/5106 at the University of British Columbia
 
-**Zoom registration:** https://ubc.zoom.us/meeting/register/Z_eCE0H9QqGknxiuC66eBg
+**Zoom registration:** [https://ubc.zoom.us/meeting/register/Z_eCE0H9QqGknxiuC66eBg](https://ubc.zoom.us/meeting/register/Z_eCE0H9QqGknxiuC66eBg)
 
 **Abstract:** 
 Denoising Diffusion models have revolutionized generative
