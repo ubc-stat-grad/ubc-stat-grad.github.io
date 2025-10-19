@@ -4,6 +4,18 @@ title: News archive
 ---
 
 # News archive
+
+- **[September 2, 2024]** Welcome back to the new semester! We hope you had a great summer :)
+- **[April 22, 2024]** We're having our end-of-term hangout this week!
+Check #social for details and RSVP.
+- **[April 14, 2024]** Come run 10K with us next weekend at the 
+[Sun Run](https://www.vancouversunrun.com/)!
+Check #sports for details.
+- **[March 22, 2024]** Come to next week's grad seminar,
+where [Kenny](https://www.stat.ubc.ca/users/kenny-chiu) 
+will talk about managing your personal finances
+as a graduate student in Vancouver. 
+More info [here](./grad-seminars.markdown).
 - **[March 9, 2024]** The 2024 [**van Eeden speaker**](./van-eeden) will be
 [**Dr. Sherri Rose**](https://drsherrirose.org/biocv) from Stanford University!
 Dr. Rose will visit UBC on **April 4, 2024** and give a talk on Ethical AI.

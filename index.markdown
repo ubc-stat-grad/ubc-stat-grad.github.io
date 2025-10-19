@@ -18,33 +18,26 @@ We also aim to create a sense of community in the department
 and to make it as easy as possible for everyone to get involved.
 Enjoy!
 
-## SGSA on hold
+## SGSA is back!
 
-After two years of hard work,
-the SGSA executive committee&mdash;Gian Carlo,
-Kenny, and Nikola&mdash;is retiring in August 2024.
-We are currently looking for replacements to our positions,
-but if no one volunteers then SGSA will be on indefinite hold
-starting in September 2024.
+Hello statistics graduate students, the SGSA has resumed
+usual activities with a brand new executive committee.
+Please welcome Angeline, Issac, Jessica, Son and Hasmik!
 
-If you want to be graduate representative,
+Currently, there are still open positions within the SGSA.
+If you want to join us, please contact [Angeline](mailto:angeline.xiao@stat.ubc.ca)
+be graduate representative,
 please contact [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
 ASAP. It is a very rewarding position and we would love to help
 to ensure a smooth transition.
 
 ## Recent news
 
-- **[September 2, 2024]** Welcome back to the new semester! We hope you had a great summer :)
-- **[April 22, 2024]** We're having our end-of-term hangout this week!
-Check #social for details and RSVP.
-- **[April 14, 2024]** Come run 10K with us next weekend at the 
-[Sun Run](https://www.vancouversunrun.com/)!
-Check #sports for details.
-- **[March 22, 2024]** Come to next week's grad seminar,
-where [Kenny](https://www.stat.ubc.ca/users/kenny-chiu) 
-will talk about managing your personal finances
-as a graduate student in Vancouver. 
-More info [here](./grad-seminars.markdown).
+- **[October 10, 2025]** Join us for a mini-Thanksgiving on Tuesday, October 14th at 6pm.
+We have turkey, roast veggies, pumpkin pie, and more!
+- **[September 15, 2025]** SGSA is back with a Stats Grad trip (and a brand new exec)!
+The Stats Grad Trip will be on September 26th and 27th in Squamish and 
+everyone is welcome to come along.
 
 Older news can be found in the [archive](./news-archive).
 
@@ -61,4 +54,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: September 2, 2024
+Last updated: October 19, 2025
