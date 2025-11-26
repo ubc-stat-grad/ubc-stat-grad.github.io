@@ -25,14 +25,12 @@ usual activities with a brand new executive committee.
 Please welcome Angeline, Issac, Jessica, Son and Hasmik!
 
 Currently, there are still open positions within the SGSA.
-If you want to join us, please contact [Angeline](mailto:angeline.xiao@stat.ubc.ca)
-be graduate representative,
-please contact [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
-ASAP. It is a very rewarding position and we would love to help
-to ensure a smooth transition.
+If you want to join us, please contact [Angeline](https://www.stat.ubc.ca/users/angeline-y-xiao).
 
 ## Recent news
 
+- **[November 12, 2025]** Mark your calendars! The UBC/SFU Joint Statistics Seminar is taking place on November 22. More details [here](https://sfu-ubc-joint-seminar-fall-25.eventbrite.ca)!
+- **[October 28, 2025]** To celebrate Halloween, join us for a spooky social deduction game Blood on the Clocktower! There will be pizzas as well as candies!
 - **[October 10, 2025]** Join us for a mini-Thanksgiving on Tuesday, October 14th at 6pm.
 We have turkey, roast veggies, pumpkin pie, and more!
 - **[September 15, 2025]** SGSA is back with a Stats Grad trip (and a brand new exec)!
@@ -54,4 +52,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: October 19, 2025
+Last updated: November 26, 2025

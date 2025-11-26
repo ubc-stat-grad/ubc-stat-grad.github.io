@@ -41,7 +41,7 @@ If you need anything, feel free to contact them.
 <div id="images">
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/jia-ni-jessica-xu"><img src="img/jessica.jpg" width="150" alt=""></a>
+			<a href="https://www.stat.ubc.ca/users/jia-ni-jessica-xu"><img src="img/jessica.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/jia-ni-jessica-xu">Jessica</a></figcaption>
 			<figcaption>Treasurer + UBC/SFU Seminar + Grad Trip</figcaption>
 		</figure>
@@ -66,4 +66,4 @@ If you need anything, feel free to contact them.
 If you want to make a suggestion to the website, open an issue on the [Github repo](https://github.com/ubc-stat-grad/ubc-stat-grad.github.io).
 
 
-Last updated: October 23, 2023
+Last updated: November 26, 2025

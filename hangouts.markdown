@@ -25,6 +25,9 @@ Graduate Representative or Treasurer.
 </div><!--/span-->
 <br/>
 
+<img src="img/w2025grad_trip-min.jpg" alt="">
+Fall 2025 grad trip @ Squamish
+
 <img src="img/w2023grad_trip-min.jpg" alt="">
 Fall 2023 grad trip @ Deep Cove Quarry Rock hike
 
@@ -37,5 +40,5 @@ Fall 2022 grad trip @ Lynn Canyon Park
 <img src="img/s2022eot-min.jpg" alt="">
 Spring 2022 end-of-term hangout @ Browns
 
-Last updated: October 23, 2022
+Last updated: November 26, 2025
 
