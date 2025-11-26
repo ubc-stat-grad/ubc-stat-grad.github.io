@@ -15,15 +15,15 @@ contact the Graduate Student Representative to see how you can get involved!
 
 | Position/activity | People in charge | Available positions |
 | ----------------- | ---------------- | ------------------- |
-| SGSA Executive Committee | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) (retiring Aug. 2024)<br/>[Kenny](https://www.stat.ubc.ca/users/kenny-chiu) (retiring Aug. 2024)<br/> [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) (retiring Aug. 2024) | **1--3** |
-| Social Committee | <br/>[Charlotte](https://www.stat.ubc.ca/users/charlotte-edgar) (retiring Aug. 2024) | **Always open!** |
+| SGSA Executive Committee | [Isaac](https://www.stat.ubc.ca/users/isaac-e-u-c-rankin) <br/> [Angeline](https://www.stat.ubc.ca/users/angeline-y-xiao) <br/> [Jessica](https://www.stat.ubc.ca/users/jia-ni-jessica-xu) <br/> [Son](https://www.stat.ubc.ca/users/son-luu) <br/> [Hasmik](https://www.stat.ubc.ca/users/hasmik-margaryan)| **1--5** |
+| Social Committee | [Angeline](https://www.stat.ubc.ca/users/angeline-y-xiao) <br/> [Jessica](https://www.stat.ubc.ca/users/jia-ni-jessica-xu) | **Always open!** |
 
 
 **SGSA Executive Committee Positions**\\
 *Volunteers needed:* 1--3\\
 *Duties:* 
 If you are interested in being the SGSA Graduate Student Representative, 
-SGSA Treasurer, or SGSA Webmaster, please consider applying! 
+SGSA Treasurer, SGSA Webmaster, or organizer for Department seminars, please consider applying! 
 These positions play a bigger role in SGSA operations 
 and require more commitment than the ones below.
 
@@ -51,13 +51,13 @@ the budget available for other SGSA events.
 
 | Position/activity | People in charge | Available positions |
 | ----------------- | ---------------- | ------------------- |
-| Graduate Student Representative | [Gian Carlo](https://www.stat.ubc.ca/users/gian-carlo-di-luvi) (retiring Aug. 2024)| 1 |
-| Treasurer | [Kenny](https://www.stat.ubc.ca/users/kenny-chiu) (retiring Aug. 2024)| 1 |
-| Webmaster | [Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) (retiring Aug. 2024)| 1 |
-| UBC/SFU Joint Seminars | [Naitong](https://www.stat.ubc.ca/users/naitong-chen) <br/> [Johnny](https://www.stat.ubc.ca/users/quanhan-johnny-xi) <br/> [Ning](https://www.stat.ubc.ca/users/ning-shen) |  |
-| Graduate Student Seminars | [Olivia](https://www.stat.ubc.ca/users/jiapingolivia-liu) <br/> [Joey](https://www.stat.ubc.ca/users/joey-hotz) |  |
-| Van Eeden Seminar | [David](https://www.stat.ubc.ca/users/zuheng-david-xu) <br/>[Nikola](https://www.stat.ubc.ca/users/nikola-surjanovic) | |
-| Graduate Trip / Icebreaker | [Naitong](https://www.stat.ubc.ca/users/naitong-chen) <br/>[Lily](https://www.stat.ubc.ca/users/yuan-xia)| |
+| Graduate Student Representative | [Isaac](https://www.stat.ubc.ca/users/isaac-e-u-c-rankin) <br/> [Angeline](https://www.stat.ubc.ca/users/angeline-y-xiao) |  |
+| Treasurer | [Jessica](https://www.stat.ubc.ca/users/jia-ni-jessica-xu)|  |
+| Webmaster | [Son](https://www.stat.ubc.ca/users/son-luu) <br/> [Hasmik](https://www.stat.ubc.ca/users/hasmik-margaryan)|  |
+| UBC/SFU Joint Seminars | [Son](https://www.stat.ubc.ca/users/son-luu) <br/> [Jessica](https://www.stat.ubc.ca/users/jia-ni-jessica-xu) | 2 |
+| Graduate Student Seminars |  | 2 |
+| Van Eeden Seminar | [Issac](https://www.stat.ubc.ca/users/isaac-e-u-c-rankin) <br/> [Hasmik](https://www.stat.ubc.ca/users/hasmik-margaryan) | 2 |
+| Graduate Trip / Icebreaker | [Angeline](https://www.stat.ubc.ca/users/angeline-y-xiao) <br/> [Jessica](https://www.stat.ubc.ca/users/jia-ni-jessica-xu) | 2 |
 
 
-Last updated: February 1, 2024
+Last updated: November 26, 2025
