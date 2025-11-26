@@ -53,9 +53,7 @@ There are several other scholarships and awards that you can apply for:
 - NSERC Canada Graduate Scholarships, available at the
 [MSc](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp)
 and [PhD](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp)
-levels for Canadian citizens and permanent residents
-- [Vanier scholarship](https://vanier.gc.ca/en/home-accueil.html),
-available to students of any nationality
+levels
 - Other [UBC graduate awards](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)
 
 
@@ -191,4 +189,4 @@ Although farther from campus, there exist express bus routes to UBC,
 such as the [44 line](https://translink.fandom.com/wiki/Route_44).
 
 
-Last updated: August 25, 2022
+Last updated: November 26, 2025

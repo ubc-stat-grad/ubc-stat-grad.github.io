@@ -29,7 +29,7 @@ If you want to join us, please contact [Angeline](https://www.stat.ubc.ca/users/
 
 ## Recent news
 
-- **[November 12, 2025]** Mark your calendars! The UBC/SFU Joint Statistics Seminar is taking place on November 22. More details [here](https://sfu-ubc-joint-seminar-fall-25.eventbrite.ca)!
+- **[November 12, 2025]** Mark your calendars! The UBC/SFU Joint Statistics Seminar is taking place on November 22. More details [here](https://www.eventbrite.ca/e/sfu-ubc-joint-seminar-fall25-tickets-1963015554366?aff=oddtdtcreator)!
 - **[October 28, 2025]** To celebrate Halloween, join us for a spooky social deduction game Blood on the Clocktower! There will be pizzas as well as candies!
 - **[October 10, 2025]** Join us for a mini-Thanksgiving on Tuesday, October 14th at 6pm.
 We have turkey, roast veggies, pumpkin pie, and more!
