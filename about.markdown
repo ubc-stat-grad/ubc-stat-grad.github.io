@@ -30,7 +30,7 @@ If you need anything, feel free to contact them.
 	</div>
 	<div style="width:50%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/angeline-y-xiao"><img src="img/angeline.jpg" width="150" alt=""></a>
+			<a href="https://www.stat.ubc.ca/users/angeline-y-xiao"><img src="img/angeline.png" width="150" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/angeline-y-xiao">Angeline</a></figcaption>
 			<figcaption>SGSA Representative + Grad Trip</figcaption>
 		</figure>
@@ -41,21 +41,21 @@ If you need anything, feel free to contact them.
 <div id="images">
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/jia-ni-jessica-xu"><img src="img/jessica.png" width="180" alt=""></a>
+			<a href="https://www.stat.ubc.ca/users/jia-ni-jessica-xu"><img src="img/jessica.png" width="210" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/jia-ni-jessica-xu">Jessica</a></figcaption>
 			<figcaption>Treasurer + UBC/SFU Seminar + Grad Trip</figcaption>
 		</figure>
 	</div>
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/son-luu"><img src="img/son.png" width="180" alt=""></a>
+			<a href="https://www.stat.ubc.ca/users/son-luu"><img src="img/son.png" width="210" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/son-luu">Son</a></figcaption>
 			<figcaption>Webmaster + UBC/SFU Seminar</figcaption>
 		</figure>
 	</div>
 	<div style="width:33%">
 		<figure>
-			<a href="https://www.stat.ubc.ca/users/hasmik-margaryan"><img src="img/hasmik.jpg" width="180" alt=""></a>
+			<a href="https://www.stat.ubc.ca/users/hasmik-margaryan"><img src="img/hasmik.png" width="210" alt=""></a>
 			<figcaption><a href="https://www.stat.ubc.ca/users/hasmik-margaryan">Hasmik</a></figcaption>
 			<figcaption>Webmaster + van Eeden Seminar</figcaption>
 		</figure>
