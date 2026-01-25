@@ -23,7 +23,7 @@ Reach out to the contact person if you wish to join.
 ## Animal movement and distribution reading group
 PI: [Dr. Marie Auger-Méthé](https://www.stat.ubc.ca/users/marie-auger-methe)
 and [Dr. Nancy Heckman](https://www.stat.ubc.ca/users/nancy-e-heckman) \
-Contact: [Evan Sidrow](https://www.stat.ubc.ca/users/evan-sidrow)
+Contact: [Fanny Dupont](https://www.stat.ubc.ca/users/fanny-dupont)
 
 The Animal Movement and Distribution Reading Group is a group of graduate students,
 faculty and postdoctoral fellows in the Statistics Department and the
@@ -40,18 +40,12 @@ with discussions benefiting from the mix of backgrounds of group members.
 PI: [Dr. Trevor Campbell](https://www.stat.ubc.ca/users/trevor-campbell) \
 Contact: [Gian Carlo Diluvi](https://www.stat.ubc.ca/users/gian-carlo-di-luvi)
 
-This year, we are reading the book
-[*An Introduction to Sequential Monte Carlo* 
-by Chopin and Papaspiliopoulos](https://link.springer.com/book/10.1007/978-3-030-47845-2)
-one chapter at a time.
 Each week, we hold a 1.5-hour discussion which is led by a rotating presenter.
 The presenter can choose the format, although whiteboard is preferred.
 The goal is for the reading group to be a 
 low pressure and informal environment for all of us to learn. 
-Previously, we did a review of 
-linearly convergent stochastic optimization methods
-and before that we discussed 
-work on variational methods.
+Last term, we covered papers on variational methods and parallelizable sampling
+methods.
 
 
 ## Symmetry, invariance, probability and machine learning reading group
@@ -62,9 +56,6 @@ The Symmetry, Invariance, Probability and Machine Learning (SIP-ML) reading
 group consists of Statistics and Computer Science graduate students, postdocs
 and faculty who meet every week to discuss a paper or book chapter
 in the statistics and machine learning literature.
-This year we are reading the book 
-[*Optimal Transport for Applied Mathematics*
-by Filippo Santambrogio](https://math.univ-lyon1.fr/~santambrogio/OTAM-cvgmt.pdf).
 Group members rotate weekly as the discussion leader, 
 whose role is to casually present the material and promote discussion. 
 Topics of interest in previous terms were diverse and ranged from
@@ -77,12 +68,12 @@ domain adaptation and robustness to distributional shifts.
 
 ## Bayesian statistics reading group (MCMC methods and applications in phylogenetics)
 PI: [Dr. Alexandre Bouchard-C&ocirc;t&eacute;](https://www.stat.ubc.ca/users/alexandre-bouchard-cote) \
-Contact: [Nikola Surjanovic](https://www.stat.ubc.ca/users/nikola-surjanovic)
+Contact: [Son Luu](https://www.stat.ubc.ca/users/son-luu)
 
 The focus of this reading group is generally on Markov chain Monte Carlo (MCMC)
 methods and its applications in phylogenetics. Students take turns presenting on
 research topics that are of interest to the group, with presentations lasting about
-60-90 minutes. The group meets once per week. For more information,
+60-90 minutes. Last term, we covered the book [An Introduction to Sequential Monte Carlo by Chopin and Papaspiliopoulos](https://link.springer.com/book/10.1007/978-3-030-47845-2) and organized a biweekly tutorial on programming tools for MCMC research (specifically in [Julia](https://julialang.org/)). The group meets once per week. For more information,
 please contact the PI or the student contact.
 
 
@@ -98,5 +89,14 @@ hour. Possible topics include the mathematical modelling of COVID-19 hospitaliza
 forecasting case or hospitalization counts via predictive modelling, and techniques
 for longitudinal data analysis, amongst others.
 
+## Bayesian optimization reading group
+PI: [Geoff Pleiss](https://www.stat.ubc.ca/users/geoff-pleiss) \
+Contact: [Issac Rankin](https://www.stat.ubc.ca/users/isaac-rankin)
 
-Last updated: March 22, 2024
+Our reading group focuses on topics in Bayesian optimization, Gaussian processes 
+and their applications in scientific discoveries. Each week, 
+students take turns presenting on research papers that are of 
+interest to the group followed by disscussion on the material. For more information,
+please contact the PI or the student contact.
+
+Last updated: January 25, 2026
