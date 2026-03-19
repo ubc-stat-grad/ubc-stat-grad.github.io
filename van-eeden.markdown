@@ -20,7 +20,7 @@ and graduate students have the opportunity to have lunch and dinner with them.
 
 ## This year's speaker
 
-The Constance van Eeden Speaker for 2025 will be 
+The Constance van Eeden Speaker for 2026 will be 
 [Dr. Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/), Senior Staff Research 
 Scientist at Google DeepMind. 
 Dr. Doucet’s research interests lie in the development and analysis of efficient computational methods for inference and learning, machine learning, signal processing and related areas. 
