@@ -21,44 +21,46 @@ and graduate students have the opportunity to have lunch and dinner with them.
 ## This year's speaker
 
 The Constance van Eeden Speaker for 2026 will be 
-[Dr. Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/), Senior Staff Research 
-Scientist at Google DeepMind. 
-Dr. Doucet’s research interests lie in the development and analysis of efficient computational methods for inference and learning, machine learning, signal processing and related areas. 
-He will visit our department on **Friday, April 4th 2025**.
+[Dr. Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/), Professor, Department of Statistics UC Berkeley. 
+Dr. Tibshirani’s research interests includes major contributions to regularization methods like the lasso and trend filtering, as well as conformal prediction. 
+He will visit our department on **Thrusday, April 2nd 2026**.
 
-**Seminar Title:**  From Diffusion Models to Schrödinger Bridges - When Generative
-Modeling meets Optimal Transport
+**Seminar Title:**  Online Conformal Prediction, Multi-Level Quantile Tracking, 
+and Gradient Equilibrium
 
-**Event Date:** Friday, April 4th, 2025 - 10:30 am to 12:00 pm PT
+**Event Date:** Friday, April 2nd, 2026 - 10:30 am to 12:00 pm PT
 
-**Invited Speaker:** Dr. Arnaud Doucet, Senior Staff Research Scientist at Google DeepMind
+**Invited Speaker:** Dr. Ryan Tibshirani, Professor, Department of Statistics UC Berkeley
 
 **Location:** Online or ESB 5104/5106 at the University of British Columbia
 
-**Event registration:** [https://forms.gle/gkeoLAr9MwoCvnar6](https://forms.gle/gkeoLAr9MwoCvnar6)
+**Event registration:** [https://docs.google.com/forms/d/12C94KdPA1x5jN5UUCAZ-TARmNwO6jmcVNIplXRUReu4/edit](https://docs.google.com/forms/d/12C94KdPA1x5jN5UUCAZ-TARmNwO6jmcVNIplXRUReu4/edit)
 
-**Zoom registration:** [https://ubc.zoom.us/meeting/register/Z_eCE0H9QqGknxiuC66eBg](https://ubc.zoom.us/meeting/register/Z_eCE0H9QqGknxiuC66eBg)
+**Zoom registration:** [https://ubc.zoom.us/meeting/register/htGYWnrFSCWhHIs8-d4wqw](https://ubc.zoom.us/meeting/register/htGYWnrFSCWhHIs8-d4wqw)
 
 **Abstract:** 
-Denoising Diffusion models have revolutionized generative
-modeling. Conceptually, these methods define a transport mechanism from
-a noise distribution to a data distribution. Recent advancements have
-extended this framework to define transport maps between arbitrary
-distributions, significantly expanding the potential for unpaired data
-translation. However, existing methods often fail to approximate optimal
-transport maps, which are theoretically known to possess advantageous
-properties. In this talk, we will show how one can modify current
-methodologies to compute Schrödinger bridges—an entropy-regularized
-variant of dynamic optimal transport. We will demonstrate this
-methodology on a variety of unpaired data translation tasks.
+This talk is about uncertainty quantification for time series prediction.
+
+The overarching goal is to provide easy-to-use algorithms with formal guarantees. 
+The algorithms we present build upon ideas from conformal prediction and control 
+theory, are able to prospectively model conformal scores in an online setting, 
+and adapt to the presence of systematic errors due to seasonality, trends, and 
+general distribution shifts. We will then discuss an extension of these ideas 
+to the setting of probabilistic forecasting, which is essentially 
+a generalization of the framework to handle vector-valued predictions, 
+i.e., predictions which take the form of a set of ordered quantile forecasts at 
+different probability levels. Finally, we will generalize this even further to discuss 
+an abstract property in online learning called gradient equilibrium, 
+which encapsulates these settings, and more.
+.
 
 **More Information:**
-Dr. Arnaud Doucet has been invited to be this year's van Eeden speaker by the 
+Dr. Ryan Tibshirani has been invited to be this year's van Eeden speaker by the 
 graduate students in the Department of Statistics at the University of British 
 Columbia. A van Eeden speaker is a prominent statistician who is chosen each 
 year to give a lecture, supported by the 
 [UBC Constance van Eeden Fund](https://www.stat.ubc.ca/constance-van-eeden-fund). 
-The 2024 seminar is additionally sponsored by the 
+The 2026 seminar is additionally sponsored by the 
 [Canadian Statistical Sciences Institute (CANSSI)](https://canssi.ca/), the 
 [Pacific Institute for the Mathematical Sciences (PIMS)](https://www.pims.math.ca/), 
 and the [Walter H. Gage Memorial Fund](https://vpstudents.ubc.ca/walter-gage/).
@@ -87,12 +89,13 @@ to learn more!
 
 ## Sponsors
 
-The 2024 van Eeden seminar is additionally sponsored by the [Canadian Statistical Sciences Institute (CANSSI)](https://canssi.ca/), 
+The 2026 van Eeden seminar is additionally sponsored by the [Canadian Statistical Sciences Institute (CANSSI)](https://canssi.ca/), 
 the [Pacific Institute for the Mathematical Sciences (PIMS)](https://www.pims.math.ca/), and the 
 [Walter H. Gage Memorial Fund](https://vpstudents.ubc.ca/walter-gage/).
 
 ## Previous presenters
 
+- [2025] [Dr. Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/). More info [here](vaneeden/2025-doucet) 
 - [2024] [Dr. Sherri Rose](https://drsherrirose.org/biocv). More info [here](vaneeden/2024-rose).
 - [2023] [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/). More info [here](vaneeden/2023-murphy).
 - [2022] [Dr. Tamara Broderick](https://tamarabroderick.com/). More info [here](vaneeden/2022-broderick).
@@ -109,4 +112,4 @@ the [Pacific Institute for the Mathematical Sciences (PIMS)](https://www.pims.ma
 - [2013] [Dr. Gavin Shaddick](http://empslocal.ex.ac.uk/people/staff/gs454/)
 - [2012] [Dr. Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)
 
-Last updated: March 4, 2025 
+Last updated: March 18, 2026 
