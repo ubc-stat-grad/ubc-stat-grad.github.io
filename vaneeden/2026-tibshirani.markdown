@@ -21,9 +21,8 @@ and graduate students have the opportunity to have lunch and dinner with them.
 ## This year's speaker
 
 The Constance van Eeden Speaker for 2026 will be 
-[Dr. Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/), Senior Staff Research 
-Scientist at Google DeepMind. 
-Dr. Doucet’s research interests lie in the development and analysis of efficient computational methods for inference and learning, machine learning, signal processing and related areas. 
+[Dr. Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/), Professor, Department of Statistics UC Berkeley. 
+Dr. Tibshirani’s research interests includes major contributions to regularization methods like the lasso and trend filtering, as well as conformal prediction. 
 He will visit our department on **Thrusday, April 2nd 2026**.
 
 **Seminar Title:**  Online Conformal Prediction, Multi-Level Quantile Tracking, 
