@@ -5,6 +5,20 @@ title: News archive
 
 # News archive
 
+- **[May 21, 2026]** Join us for some bevvies at the Gallery tomorrow at 5pm to celebrate the start of summer!
+- **[March 2, 2026]** The 2026 [**van Eeden speaker**](./van-eeden) will be
+[**Dr. Ryan Tibshirani**](https://www.stat.berkeley.edu/~ryantibs/) from the University of California, Berkeley! Dr. Tibshirani will visit UBC on **April 2, 2026** and give a talk on uncertainty quantification for time series prediction. Check your email to RSVP!
+- **[February 12, 2026]** Mark your calendars! The UBC/SFU Joint Statistics Seminar is taking place on March 7. More details [here](https://ubc-sfu-seminar.github.io/2026)!
+- **[February 9,2026]** Join us this Friday for a succulent Chinese meal in celebration of the Year of the Horse. We will also have some small Chinese New Year related activities.
+- **[February 6,2026]** Come t6, 2026]** Come tFebruary6, 2026]** Come to the graduate seminar today to hear about Kenny's research on Randomization Tests for Distributional Group Symmetry! Afterwards, we will watch Canada’s women’s hockey team beat Team USA over a slice of pizza as we celebrate the start of the Milano Cortina Winter Olympics!
+- **[January 9, 2026]** Welcome to the new term! The SGSA team wishes you the best in the coming year!
+- **[November 12, 2025]** Mark your calendars! The UBC/SFU Joint Statistics Seminar is taking place on November 22. More details [here](https://www.eventbrite.ca/e/sfu-ubc-joint-seminar-fall25-tickets-1963015554366?aff=oddtdtcreator)!
+- **[October 28, 2025]** To celebrate Halloween, join us for a spooky social deduction game Blood on the Clocktower! There will be pizzas as well as candies!
+- **[October 10, 2025]** Join us for a mini-Thanksgiving on Tuesday, October 14th at 6pm.
+We have turkey, roast veggies, pumpkin pie, and more!
+- **[September 15, 2025]** SGSA is back with a Stats Grad trip (and a brand new exec)!
+The Stats Grad Trip will be on September 26th and 27th in Squamish and 
+everyone is welcome to come along.
 - **[September 2, 2024]** Welcome back to the new semester! We hope you had a great summer :)
 - **[April 22, 2024]** We're having our end-of-term hangout this week!
 Check #social for details and RSVP.
@@ -131,4 +145,4 @@ who will give a talk about finite-sample robustness!
 - **[Sep. 7, 2021]** Welcome to the Fall 2021 term!
 
 
-Last updated: May 4, 2024
+Last updated: September 9, 2026

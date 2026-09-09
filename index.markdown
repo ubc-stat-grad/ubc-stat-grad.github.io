@@ -29,13 +29,8 @@ If you want to join us, please contact [Angeline](https://www.stat.ubc.ca/users/
 
 ## Recent news
 
-- **[November 12, 2025]** Mark your calendars! The UBC/SFU Joint Statistics Seminar is taking place on November 22. More details [here](https://www.eventbrite.ca/e/sfu-ubc-joint-seminar-fall25-tickets-1963015554366?aff=oddtdtcreator)!
-- **[October 28, 2025]** To celebrate Halloween, join us for a spooky social deduction game Blood on the Clocktower! There will be pizzas as well as candies!
-- **[October 10, 2025]** Join us for a mini-Thanksgiving on Tuesday, October 14th at 6pm.
-We have turkey, roast veggies, pumpkin pie, and more!
-- **[September 15, 2025]** SGSA is back with a Stats Grad trip (and a brand new exec)!
-The Stats Grad Trip will be on September 26th and 27th in Squamish and 
-everyone is welcome to come along.
+- **[September 3, 2026]** Welcome back to the new semester! We are starting the term with the Stats Grad Trip on September 19th and 20th in Squamish, and everyone is welcome to join!
+
 
 Older news can be found in the [archive](./news-archive).
 
@@ -52,4 +47,4 @@ There is also a separate
 maintained by the department.
 
 
-Last updated: November 26, 2025
+Last updated: September 9, 2026

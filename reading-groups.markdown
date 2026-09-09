@@ -44,7 +44,7 @@ Each week, we hold a 1.5-hour discussion which is led by a rotating presenter.
 The presenter can choose the format, although whiteboard is preferred.
 The goal is for the reading group to be a 
 low pressure and informal environment for all of us to learn. 
-Last term, we covered papers on variational methods and parallelizable sampling
+Last term, we covered papers on variational methods and optimality of sampling
 methods.
 
 
@@ -73,7 +73,7 @@ Contact: [Son Luu](https://www.stat.ubc.ca/users/son-luu)
 The focus of this reading group is generally on Markov chain Monte Carlo (MCMC)
 methods and its applications in phylogenetics. Students take turns presenting on
 research topics that are of interest to the group, with presentations lasting about
-60-90 minutes. Last term, we covered the book [An Introduction to Sequential Monte Carlo by Chopin and Papaspiliopoulos](https://link.springer.com/book/10.1007/978-3-030-47845-2) and organized a biweekly tutorial on programming tools for MCMC research (specifically in [Julia](https://julialang.org/)). The group meets once per week. For more information,
+60-90 minutes. This term, we are exploring how to use [Lean](https://lean-lang.org/) and LLMs to encode and validate proofs. The group meets once per week. For more information,
 please contact the PI or the student contact.
 
 
@@ -99,4 +99,4 @@ students take turns presenting on research papers that are of
 interest to the group followed by disscussion on the material. For more information,
 please contact the PI or the student contact.
 
-Last updated: January 25, 2026
+Last updated: September 9, 2026
