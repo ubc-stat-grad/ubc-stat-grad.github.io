@@ -99,8 +99,9 @@ interest to the group followed by disscussion on the material. For more informat
 please contact the PI or the student contact.
 
 ## Space Time Analysis Bayes (STAB) research group
-PI: [Dr. Jon Wakefield](https://www.stat.ubc.ca/users/jon-wakefield)
+PI: [Dr. Jon Wakefield](https://www.stat.ubc.ca/users/jon-wakefield) \
 Contact: [Victoria Knutson](https://victoriaknutson.github.io/), Email: vknuts@uw.edu
+
 This group meets once a week and is a collection of mostly grad (MS and PhD) students - many from Dr. Jon's former home at the University of Washington (UW), Stat and Biostat departments, but also students with interests in the social sciences, global health, epidemiology and geography. The group share an interest in spatial and temporal models for health and demographic indicators, but often have talks which are on generic topics in spatial or survey statistics. Around half of the talks are from external speakers and the other half are informal talks from members of the group, or discussion on papers of general interest. The program for this fall is not completely finalized, but there will be speakers from the child mortality group at the UN, the survey group at UNICEF, the poverty mapping group at the World Bank, the University of Southampton and the University of Iowa. For more information, visit the group website [here](https://jonwake.github.io/website/stab/).
 
 
