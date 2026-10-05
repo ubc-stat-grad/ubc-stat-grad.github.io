@@ -90,7 +90,7 @@ for longitudinal data analysis, amongst others.
 
 ## Bayesian optimization reading group
 PI: [Dr. Geoff Pleiss](https://www.stat.ubc.ca/users/geoff-pleiss) \
-Contact: [Issac Rankin](https://www.stat.ubc.ca/users/isaac-rankin)
+Contact: [Logan Yates](https://www.stat.ubc.ca/users/loganyates)
 
 Our reading group focuses on topics in Bayesian optimization, Gaussian processes 
 and their applications in scientific discoveries. Each week, 
