@@ -29,8 +29,8 @@ If you want to join us, please contact [Angeline](https://www.stat.ubc.ca/users/
 
 ## Recent news
 
-- **[October 20, 2026]** Join us for a mini-pumpkin carving night next Thursday, October 29 :jack_o_lantern: Pumpkins, carving tools, and pizza will be provided!
-- **[October 8, 2026]** We are holding a social tomorrow (Friday) at 5pm in the Gallery (in the Nest). Come join us for some appies + snacks and good vibes :sunglasses:
+- **[October 20, 2026]** Join us for a mini-pumpkin carving night next Thursday, October 29. Pumpkins, carving tools, and pizza will be provided!
+- **[October 8, 2026]** We are holding a social tomorrow (Friday) at 5pm in the Gallery (in the Nest). Come join us for some appies + snacks and good vibes!
 - **[September 3, 2026]** Welcome back to the new semester! We are starting the term with the Stats Grad Trip on September 19th and 20th in Squamish, and everyone is welcome to join!
 
 
