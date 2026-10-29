@@ -25,6 +25,9 @@ Graduate Representative or Treasurer.
 </div><!--/span-->
 <br/>
 
+<img src="img/w2026grad_trip-min.jpg" alt="">
+Fall 2026 grad trip @ Squamish
+
 <img src="img/w2025grad_trip-min.jpg" alt="">
 Fall 2025 grad trip @ Squamish
 
