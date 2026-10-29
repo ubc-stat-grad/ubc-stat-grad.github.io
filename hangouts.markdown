@@ -43,5 +43,5 @@ Fall 2022 grad trip @ Lynn Canyon Park
 <img src="img/s2022eot-min.jpg" alt="">
 Spring 2022 end-of-term hangout @ Browns
 
-Last updated: November 26, 2025
+Last updated: October 29, 2026
 

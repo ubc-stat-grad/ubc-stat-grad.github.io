@@ -36,6 +36,7 @@ google_analytics: G-7Z9DTNBGBF
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-emoji
 
 
 # Exclude from processing.
